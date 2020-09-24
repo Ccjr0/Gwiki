@@ -1,0 +1,140 @@
+RPG Maker Google Doc
+
+────── NOTES ──────
+
+Crispy notes:
+
+Weapons’ abilities/etc
+Barrage enemy fight
+Magic charging/ granting abilities
+Enemy guide 
+Stealing-item relationship w enemies abilities ie paper mario
+Dumb tidbits
+Majora's mask character tasks/routes
+Directional wall riding
+Tactical Familiarity
+HP/MP regen(after battle? parameter?)
+Dynamic title menu
+Item/ability based field progression
+“Action” Menu / Action points?
+Diff Weather patterns
+Grid system/crossfire ie CT?
+Different weapon prefixes/types (Holo Cards?)
+Unique signs
+Enemy scripts/targeting/ openings 
+Area enemy updates 
+Checker reigons 
+Dungeon type “gameover”
+Plenty of troops 
+Set default/memory weapon modes (Menu?)
+Parking lot drug dealer 
+Customizable Wheel/Box menu/hot binds/Layer shifting
+Number limit/higher cap?
+Some Items can go on sale
+Desperado/weapon dependent?
+Crits go above MAX
+Debug cave 
+Rare/ special/ alt difficulty AI script/sprite
+Employees only key
+General Intelligence parameter
+robber / revenge
+Different magic attack distribution
+Prison sentence/charges
+BFD Death Mechanic
+Good/bad trip 
+New Threat like lvl up system (stats?magic?other?)
+Fort guy
+Getting good stuff early through many tasks ie FF8
+Crip/Bloods hood 
+Can explore certain areas at own risk (ties into story?)
+Sperg neckbeard / katana / card magic 
+Bosses recurring later as normal enemies
+Card shop convention/ 
+card tourney sq 
+Elemental status effects
+Knife fighter 
+Certain variables effect preset permastats?
+Item points Puzzle solving through careful observation/items
+Special items elements / effects 
+Funny Death character
+Stealth implementation
+EZ retard enemies
+Gov agency/defection/bug 
+healing enemies
+Breaker
+suicidal enemies
+Filler Characters 
+transparent ceiling decor
+Default char fight
+ATM system/Fridge
+Door fight 
+LVL/EXP draining enemies
+Aquarium
+Cooking ie Paper Mario
+Crafting/forging
+Max HP/MP tint/ number color coding
+CP basement
+Auto troop [modifications/ odds]/lvl/story/area based
+World map checkpoints
+Diff orders,battle placements for specific def/atk patterns [shot spread]
+Outer world/ magic/ class upgrade underwater shock/fire
+Backpacks/ item management 
+Sidequest updates 
+battle backgrounds placement dependent
+Branching caves ( ice melting…) mineshaft
+Differing troops/bosses for replayability
+Subtle actions effect world in large scale
+(Locked?) Door/button fight 
+Different optimal grinding areas
+Hidden lvl up bonuses in wpn, armr, items etc 
+Weapon/armor accessories Acc slots/Acc mixing FX
+Attribute leveling based on gameplay style Wpn/armr/acc/ effects at expense of HP/MP/item/etc
+Bonuses/items for completing fights/opening chests under special circumstances
+early item, +/- sq, +/- permamiss item, sq, key item, lore accessed via skill task
+
+
+CUCCAA notes:
+
+Guy steals shopping carts and distributes them to the homeless
+Walmart needs to have a connected warehouse, like all walmarts already do
+Can get better cars and vehicles at the expense of more costly insurance and fines
+Car dealership
+When a car gets too many miles on it, it breaks down randomly
+You can steal food from people’s gardens and sell it to walmart, for them to resell
+The guy at the bottom of the ditch who steals the shopping carts has an army of raccoons that attacks you if you get to close
+Superfast sprint shoes
+The raccoons can give you rabies
+Raccoon boss called “The Trashmaster”
+You can fish up a super rare spawn of a shopping cart and sell it to the cart guy for a rare item or a lot of money
+Cp farm
+There is a boss at cp farm called giant cock, which uses corys sprite he made a while back of a rooster
+can feed specific enemies drugs causing them to do weird attacks and other things
+maybe giving specific enemies drugs can make them have rare drops in some cases
+members of the party at first basically use and don’t care all that much for one another but through having to work together they eventually from some sort of bond
+semi truck heist
+vlargagus von vlargagus in the fish area
+prison riot
+Walmart influences the drug war
+Walmart CEO owns weapons caches they give to their associated gangs
+Walmart has associated gangs that work with them specifically, Walmart uses these gangs distribute expensive weaponry to places for a profit
+The government agency has intel on this, the illegal drugs, and the cp farm
+Walmart uses the weapons caches to arm its gangs who not only help with the arms trade, the gang members also sell drugs to addicts which also reaps in a huge profit
+Walmart has a secret weapons factory which is in another country where the laborers work for super cheap, they fly the weapons across the border to weapons caches that are stored in many places that are around walmart
+There are smaller and more item specific walmarts in the world, the main walmart is where most of the essential illegal businesses are conducted
+
+Fuck:
+
+Unconventional method of improving certain stats: i.e skill points as opposed to it all increasing as you gain experience
+Skill points hidden around the world in the form of secret areas or side quests. Rewards exploring
+Karma statistic
+Pickpocket ability: stealing into the overworld.
+
+────── SOURCES ──────
+
+https://www.rpgmakercentral.com/topic/41558-free-kokoro-reflections-rpg-maker-resources/
+
+https://www.rpgmakercentral.com/topic/32525-rmvxvxa-sideview-battler-template-ffiv-style/
+
+https://www.rpgmakercentral.com/topic/8877-final-fantasy-styled-battle-log-v205-updated-03-02-2020/?tab=comments#comment-70316
+
+https://www.rpgmakercentral.com/topic/18609-rssbsace-reedos-simple-side-battle-system-ace-edition/?tab=comments#comment-127179
