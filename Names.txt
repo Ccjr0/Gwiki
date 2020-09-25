@@ -17,7 +17,7 @@ Wind Chill
 Road Kill
 Double Helix
 Bofadeez
-ReVolt
+Revolt
 Poprock
 Choking Hazard
 Rev Up
@@ -246,7 +246,6 @@ Eternal Damnation
 Wheel of Pain
 Carousel
 Misery-Go-Round
-Extermigator
 Black Ops
 Echolocation
 Blind Mouse
