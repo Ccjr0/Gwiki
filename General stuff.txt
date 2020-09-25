@@ -1,0 +1,75 @@
+General stuff
+
+== By Ccjr ==
+
+!! Please do not edit without consent !!
+
+Mp draining jellyfish
+Voodoo type enemy
+(Locked?) Door/ button fight
+Usurp: Drains all HP from one who last attacked upon death
+Barrage enemy fight
+Mgs style text skip
+Stealing-item relationship w enemies w abilities/ ie paper mario
+Lots of little things to trigger that branch ie shenmue
+Majoras Mask Character Tasks/ Routes
+Hp mp regen (after battle? Parameter?)
+"Action" menu / Action Points?
+Different weapon prefixes/types ie terraria (holo cards?)
+Area enemy updates
+Set default/memory weapon modes
+Ez retard enemies
+Healing enemies
+Suicidal enemies
+Chest/explode enemies
+Customizable Wheel/Box menu / layers/ hot binds- last attack, etc
+Desperado / weapon dependant?
+Rare/ special difficulty AI script
+Mp regen
+Tactical enemies
+General Intelligence parameter
+Different magic attack distribution (all or no)
+Conkers BFD Death mechanic
+New threat like lvl up system (stats? magic? other?)
+Getting good stuff early through many tasks ie ff8
+can explore certain areas at own risk ie DS (ties into story? + strange enemy placement?)
+Bosses recurring later as normal enemies
+Puzzle solving through careful observation and interaction with items
+Elemental status effects
+Certain variables effect preset perma-stats?
+Diff weather troops
+Certain enemies spawning/higher chances dependent on lvl
+Different orders, battle placements for specific def, atk patterns
+Dynamic Title menu
+Cant use fire underwater/shock hurts
+Troop enemy cross mix btwn areas
+Battle backgrounds placement dependent
+Differing troops/ bosses for replayability
+Different optimal grinding spots
+Double/all alt magic
+Different / unique signs for different towns
+Magic/charging/granting abilities
+Dumb tidbit items/secrets
+Tactical influence
+Weapon/item changing during fights
+Equipment re- placement early on
+Hidden lvl up bonuses in wpn, armr, items etc - for player, item, acc , etc.
+Directional wall- riding
+Ez Me Ha Br
+Bonuses/items for completing fights/opening chests under certain conditions
+Weapon/armor accessories/ acc slots ie materia/acc mixing
+Attribute leveling based on gameplay style
+Checker zones
+Ammo count for physical
+Stocks
+Magic/attack cooldown period
+Regen shields
+1 hp special
+Item pre-equip
+Curve damage in direct relationship with connected attack damage
+Steal reliabilities
+Reward incentive for fights
+Hard encounter limit
+Near Unbeatable enemy
+Weapon status/element lvls
+Input boost attack/defense
