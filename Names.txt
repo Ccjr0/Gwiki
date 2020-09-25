@@ -53,7 +53,6 @@ Cripple
 Carcass
 Revenant
 Wraith
-
 Climax
 Turmoil
 Psychosis
@@ -260,7 +259,6 @@ Drum Mag
 Suppressor
 Patsy's Magic Bullet
 Smackdab
-
 Smoked
 Roasted
 Decimated
