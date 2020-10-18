@@ -262,7 +262,5 @@ Smoked
 Roasted
 Decimated
 Overwhelmed
-
-
 XL
 I/O
