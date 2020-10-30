@@ -74,3 +74,7 @@ Near Unbeatable enemy
 Weapon status/element lvls
 User Input boost attack/defense
 Three Column Grid order system
+Console
+Optimal keyboard layout/navigation/Vim
+ATK/Item search
+
