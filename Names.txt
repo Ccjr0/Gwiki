@@ -1,8 +1,4 @@
-Names
-
-== By Ccjr ==
-
-!! Please do not edit without consent !!
+Names -------------------------------------------
 
 Buzzer
 Strobe
