@@ -73,4 +73,6 @@ Three Column Grid order system
 Console
 Optimal keyboard layout/navigation/Vim
 ATK/Item search
+"smaall stuff" list (bug prevention)
+
 
