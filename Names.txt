@@ -220,6 +220,7 @@ Coma
 Lucid
 Fever Dream
 Carcinogen
+Cognitohazard
 Morose
 Cruel Dance
 Prism
