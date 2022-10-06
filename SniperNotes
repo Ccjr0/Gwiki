@@ -1,7 +1,7 @@
-#------------------------------------------------
-# Blueprints                                    |
-#------------------------------------------------
-== Texture sound feedback ==
+#-------------
+# BLUEPRINTS |
+#-------------
+# --- Texture sound feedback
 1. Have soundspace node within scenes in group "Kin" play proper soundbank by fetching name of individual tile textures (as a string) within "Tileset" node when within range
     **Pseudo**
     if (idv. tile name) starts with string "Concrete":
@@ -12,10 +12,10 @@
     if (idv. tile) is a part of ConcreteTileset.tscn:
        Soundspace play (ConcreteWalking/ConcreteRunning) #(Depending on action context)
 
-#------------------------------------------------
-# TODO                                          |
-#------------------------------------------------
-CODE
+#-------
+# TODO |
+#-------
+# --- Code
 Texture AudioPlayer2D
 Beam ysort thing
 Collision/Soundspace/Zero layers
@@ -25,112 +25,124 @@ High and low collision shapes
 Enemy routing
 Compose states/status etc.
 
-PLAY
+# --- Play
 Sniper Elite
 Metal Gear 1 & 2
 Metal Gear Solid
-Top-Down LOZ
+LOZ
 Megaman
 Sanitarium
 IHNMAIMS
 Myst
 Abuse
-Expedition Zero
 (Create graphs)
 
-REVIEW
+# --- Review
 Metroidvania maps
 Zelda Retrospective
 Red/blue ability freedom circle graph
 code grouping / abstractions
 Zdzislaw Beksinski
+The making of halo/ halo multiplayer
 
-#------------------------------------------------
-# Controls                                      |
-#------------------------------------------------
-MODELS
-  LSHIFT == modifier - Speed maintenance / Slow down in specific context
-  ALT == modifier - Ray
-  SPACE - Slide ( End delay )
-  W A S D - Up , Down , Left , Right
-  RMB - Aim
-  C - Crouch / toggle
-  MWHEEL = Move along ray (scroll)
+#-----------
+# CONTROLS |
+#-----------
+# --- MODELS
+LSHIFT == modifier - Speed maintenance / Slow down in specific context
+ALT == modifier - Ray level
+SPACE - Slide ( End delay )
+W A S D - Up , Down , Left , Right
+RMB - Aim
+C - Crouch / toggle
+MWHEEL = Zoom in/out 3rd person camera
 
-  LSHIFT == modifier - Speed up / speed change in specific context
-  LCTRL == modifier - Speed maintenance / Degree maintenance in specific context
+LSHIFT == modifier - Speed up / speed change in specific context
+LCTRL == modifier - Speed maintenance / Degree maintenance in specific context
 
   LSHIFT + SPACE = Jump
   LCTRL + SPACE = Slide
 
-GAME FEEL
+# --- Game feel
 
-#------------------------------------------------
-# FX                                            |
-#------------------------------------------------
-GFX
-	Icicles shine
-	Puddles/liquid reflect / mirror / sparkle
-	Shadow Ratios / warp
-	Window Alphas
-	Shell Sparkle / Alpha
-	Shell bounce/revolve / tex
-	Glass shard sparkle
-    Scope glint
-    Barrel/Ejector smoke
-	Water level & hole
-	Bullet impact / tex
-	Glass ref / refrct / indoor fx
-	Walk/stop ground tex
-	char en / white Layer outline
-	Bleed out / timer / health
-	Accurate clocks
-	Time of day Shadows
-	Inventory animations
-	Snow pile-up / crawl when snowing
 
-SFX
-	Realistic birds
-	Shell bounce/revolve / tex
-	Walk/stop Ground tex
-	Droplets / Ground tex
-	Flourescent buzz
-	bullet Sboom / echo / area
-	Area / echo / Swave bounce
-	sticks / ground tex
+#-----
+# FX |
+#-----
+# --- GFX
+Icicles shine
+Puddles/liquid reflect / mirror / sparkle
+Shadow Ratios / warp
+Window Alphas
+Shell Sparkle / Alpha
+Shell bounce/revolve / tex
+Glass shard sparkle
+Scope glint
+Barrel/Ejector smoke
+Water level & hole
+Bullet impact / tex
+Glass ref / refrct / indoor fx
+Walk/stop ground tex
+char en / white Layer outline
+Bleed out / timer / health
+Accurate clocks
+Time of day Shadows
+Inventory animations
+Snow pile-up / crawl when snowing
 
-#------------------------------------------------
-# Lore                                          |
-#------------------------------------------------
-MODELS
-  lab rat
-  battle-enhancement drug
-  unknown side-effects
+# --- SFX
+Satisfying feedback
+Realistic birds
+Shell bounce/revolve / tex
+Walk/stop Ground tex
+Droplets / Ground tex
+Flourescent buzz
+bullet Sboom / echo / area
+Area / echo / Swave bounce
+sticks / ground tex
+
+? pre-determined shadows (perspective height) for individual objects ?
+( shadow range / mask)
+
+#-------
+# LORE |
+#-------
+# --- Models
+  government conspiracy / human lab rats
+  battle-enhancement drugs / unknown side-effects
   testing grounds / stage
   super soldiers / bosses
   genetic clones / organ farms
+  free will / consciousness
   hallucinations / divine intervention
 
-#------------------------------------------------
-# General Gameplay                              |
-#------------------------------------------------
-Corner cues && Red cue/Yellow cue // dynamic alpha/scaling with distance/intensity
-Megaman moves
+# --- The questions
+What is the purpose/history of the island/mainland?
+Why are we going there, and how do we get there?
+Where is this located exactly, and how accurate would the biome/environment be?
+When do we get there/what time period is this taking place?
+
+# --- Themes
+Security (in a broad/abstract sense)
+Uncovering (In a gameplay/symbolic sense)
+
+#----------------
+# GENERAL IDEAS |
+#----------------
+Corner cues && Red cue/Yellow cue // dynamic alpha/scaling with distance/intensity // PZ Extended helicopter icons
+Megaman slide/inch
 Hidden challenges // Star points // NUDOOM
 Unlockable cheat codes // GE007
-Weapon/Util Wheel
+Weapon/Util Wheel // Radial/hold menu
 Pixel density != Pixel res
 Dossier == Manual
 Shadow range // Shadow mask
 Tracker bug?
-Hinting / Half-Life / Super Metroid
 Height / ALTTP / perspective
 Point aim / MP Trilogy
 Building hopping (zozo, uncharted, ninja gaiden)
 Enemy prioritizing (Classic DOOM)
 Life implementing (Shovelknight, souls, ori, RE)
-The making of halo/ halo multiplayer
-That one Sven coop mod map
 Lights? electrical components/wiring?
 Push/Movable objects
 Real military formations/protocals // change with difficulty
@@ -142,12 +154,12 @@ All enemy dead +effect+ and ))queue))
 != Loot effect
 patience survival/ metering devices (scope)
 Ghilli suit
-Sniping in pairs
 Use of force policy
 Drive-by glint
 Indoor-maps
 Binos vs scope visual radius
 Upgrade toggle on/off for advantage (e.g. phantoon)
+Radio key word database // limited characters, adj, pron, verb, quest, etc... // Clues / feedback / interference
 
 Cameras / camo level
 How many camo can you hold at once?
@@ -157,7 +169,7 @@ Raycasting
 Sound pathfinding system
 User interface elements (stealth context)
 Refuge spaces
-Player favoring
+Player favoring scenarios/rng
 Fuzzy Detection
 
 Information Gathering
@@ -173,29 +185,25 @@ Thought bubbles
 
 Playing past your mistakes
 
-#------------------------------------------------
-# Level Design                                  |
-#------------------------------------------------
+#---------------
+# LEVEL DESIGN |
+#---------------
       _ _
     | |
     a b c
 ( Height diagram )
 
-Radio key word database // limited characters, adj, pron, verb, quest, etc... // Clues / feedback / interference
 Lego modeling
 
-? pre-determined shadows (perspective height) for individual objects ?
-( shadow range / mask)
-
-OOT Retrospective
-
-Dangerous backtracking / rewards (plutonia design)
-One-way valves (super metroid / run room)
+Dangerous backtracking / rewards (plutonia/NUDOOM design)
+One-way valves (super metroid / run room / red soil floaters)
 Visual landmarks / backtrack nudges
-Backtracking filler
+Backtracking filler / shortcuts
+Hinting / Half-Life
 Full-circle navigation / victory lap / organic discovery
 Meta-secrets
 Hidden advanced maneuvers + meta-techniques
 Intrinsic/Extrinsic skill paths/valves
 Radio malfunction / radius noise bomb effect (level)
+Dungeon-like qualities for certain buildings/outposts
 
