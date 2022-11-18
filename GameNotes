@@ -1,69 +1,69 @@
 # ---------------
 # METROID PRIME |
 # ---------------
-Basic target practice for gate progression early game (shoot to proceed)
-Atmospheric visual flare such as visor condensation early game (presentation)
-Scan certain panels to unlock doors/elevators/activate objects ()
-Basic crippled enemies early game
-Introducing abilities for progression purposes early game (charge beam to destroy rubble)
-Ambient creatures reveal map room (hinting)
-Envoronmental hazards such as electricity/fire etc.
-Turret defense disabling through use of scanning panels (optional)
-Timed escape sequence using collection of (some) basic tasks learned through the introduction
-Abilities you've become familiar with lost, and must be reaquired
-Areas/rooms are designed somewhat/vaguely realistically, with realistic naming conventions
-Optional areas and micro-areas visible and some blocked off for later abilities as soon as you reach Tallon IV (teasers)
-Mysterious artifact temple looks highly significant, even though we cannot immediately make sense of what it is or what to do there. (significant landmark)
-Elevators serve as access between macro-areas
-Powerups emit subtle sound when nearby
-Chozo tree doesn't immediately look special, but reflects blasts just like blast shields (visual implication)
-Certain walls defined with certain named materials, implying they can be broken with a respective ability
-Key item rooms lock the player within to escape using the respective item (one-way valves)
-Hive-mecha fight requires killing mobile enemies to expose weak-point of stationary boss
-Missle launcher useful in combat, allows for breaking certain walls/barriers, and is particularly useful (though optional) in the NEXT proceding boss fight
-Plated beetle fight encourages player to use the dodge ability to circle around the enemy to shoot its exposed backside
-Morph ball allows access through crevices previously unable to traverse
-During backtracking for items, find optional elevator to magmoor caverns north blocked by intense heat (one in Ruins, another in Overworld)
-Heavy use of visible, but unusable spider-ball tracks in early Chozo Ruins
-Scan hidden runics to unlock large door (search and activate to proceed)
-Incinerator drone fight requires you to jump and duck past the boss's circular attack pattern and to shoot the temporarily exposed weak point while dealing with increasingly present weaker enemies
-Morph ball bombs allow certain materials to be broken, certain switches to be activated, and further morph ball mobility options
-Use of 2D-like morph ball puzzles in which you bomb certain blocks to proceed and grab the powerup
-Timed morph ball bomb slot sequences to access optional energy tank (timed concecutive action sequence)
-Master morph ball bomb timing to aquire optional missile expansion (rewarded by optional technique mastery)
-MV Alternation model featuring double loops (early Chozo Ruins)
-Flahgraa requires you to shoot to stun the boss and deactivate nodes to incapacitate the boss in order to damage it
-Varia suit gives allows access to high-temperature areas
-Environmental changes (instead of powerups) give access to new micro-areas within Chozo Ruins post-Flahgraa (toxic water > clean water)
-Two different roads within Magmoor caverns to choose from after Flahgraa to access Phendrana Drifts (inverse forking)
-Underground morph ball maze sections with predatory enemies in Magmoor Caverns
-Boost ball allows access to higher levels of half-pipes, and speeding through areas
-Space Jump Boots allows double jumping, making traversing old areas easier and new ones possible
-Alternation between macro-areas after Flahgraa (Phendrana > Talon IV > Phendrana)
-Shooting stalactites to access higher spot (shoot to climb and proceed)
-Sheegoth requires you to shoot the mouth with specific weapon while not using other weapons, as it charges the boss's attacks, making it stronger
-Higher level enemies fill in areas (backtrack filler)
-Thermal visor allows for semi-nightvision, locating certian enemies' weak points, and finding power conduits to activate with wave beam to unlock doors
-Visor/HUD interferance is a cool visual effect
-Lore collection from computers in space pirate base
-Phendrana space pirate base section was cool (Linear fetch and escape)
-Thardus requires you to locate its weak-point with thermal visor, attack it, then switch back to normal visor and target the same point to destroy that point. Rinse and repeat (Some weather effects too)
-Spider ball allows for latching on and riding certain magnetic rails.
-Return to Chozo ruins to explore with spider-ball and other new toys post-Thardus
-Certain beam weapons allows for environmental manipulation giving access to new micro-areas (hall of the elders)
-One-shot sequence break (geothermal core)
-Phendrada depths gravity suit search section (Non-linear fetch and escape)
-Find and activate power conduits (pirate base, crashed frigate)
-Column twist puzzle in Phazon Mines
-2/3rds non-linear item quest to proceed into Phazon Mines depths (X-ray visor/grapple beam free post-power bomb, plasma beam free post-grapple beam)
-X-ray visor allows you to see completely invisible objects (such as walls and platforms), which are sometimes hinted toward by rain droplets
-Grapple beam allows for swinging to areas unable to jump to or otherwise reach, and also quicker area traversal
-New abilities can activate or unlock shortcuts for quicker, more streamlined traversal between areas
-Grand fetch quest assisted by hints on where to find them (Chozo artifacts)
-Level design, enemy design, and hidden powerups all take future upgrades into account for late game exploration
-"Powerup flow"
+- Basic target practice for gate progression early game (shoot to proceed)
+- Atmospheric visual flare such as visor condensation early game (presentation)
+- Scan certain panels to unlock doors/elevators/activate objects ()
+- Basic crippled enemies early game
+- Introducing abilities for progression purposes early game (charge beam to destroy rubble)
+- Ambient creatures reveal map room (hinting)
+- Envoronmental hazards such as electricity/fire etc.
+- Turret defense disabling through use of scanning panels (optional)
+- Timed escape sequence using collection of (some) basic tasks learned through the introduction
+- Abilities you've become familiar with lost, and must be reaquired
+- Areas/rooms are designed somewhat/vaguely realistically, with realistic naming conventions
+- Optional areas and micro-areas visible and some blocked off for later abilities as soon as you reach Tallon IV (teasers)
+- Mysterious artifact temple looks highly significant, even though we cannot immediately make sense of what it is or what to do there. (significant landmark)
+- Elevators serve as access between macro-areas
+- Powerups emit subtle sound when nearby
+- Chozo tree doesn't immediately look special, but reflects blasts just like blast shields (visual implication)
+- Certain walls defined with certain named materials, implying they can be broken with a respective ability
+- Key item rooms lock the player within to escape using the respective item (one-way valves)
+- Hive-mecha fight requires killing mobile enemies to expose weak-point of stationary boss
+- Missle launcher useful in combat, allows for breaking certain walls/barriers, and is particularly useful (though optional) in the NEXT proceding boss fight
+- Plated beetle fight encourages player to use the dodge ability to circle around the enemy to shoot its exposed backside
+- Morph ball allows access through crevices previously unable to traverse
+- During backtracking for items, find optional elevator to magmoor caverns north blocked by intense heat (one in Ruins, another in Overworld)
+- Heavy use of visible, but unusable spider-ball tracks in early Chozo Ruins
+- Scan hidden runics to unlock large door (search and activate to proceed)
+- Incinerator drone fight requires you to jump and duck past the boss's circular attack pattern and to shoot the temporarily exposed weak point while dealing with increasingly present weaker enemies
+- Morph ball bombs allow certain materials to be broken, certain switches to be activated, and further morph ball mobility options
+- Use of 2D-like morph ball puzzles in which you bomb certain blocks to proceed and grab the powerup
+- Timed morph ball bomb slot sequences to access optional energy tank (timed concecutive action sequence)
+- Master morph ball bomb timing to aquire optional missile expansion (rewarded by optional technique mastery)
+- MV Alternation model featuring double loops (early Chozo Ruins)
+- Flahgraa requires you to shoot to stun the boss and deactivate nodes to incapacitate the boss in order to damage it
+- Varia suit gives allows access to high-temperature areas
+- Environmental changes (instead of powerups) give access to new micro-areas within Chozo Ruins post-Flahgraa (toxic water > clean water)
+- Two different roads within Magmoor caverns to choose from after Flahgraa to access Phendrana Drifts (inverse forking)
+- Underground morph ball maze sections with predatory enemies in Magmoor Caverns
+- Boost ball allows access to higher levels of half-pipes, and speeding through areas
+- Space Jump Boots allows double jumping, making traversing old areas easier and new ones possible
+- Alternation between macro-areas after Flahgraa (Phendrana > Talon IV > Phendrana)
+- Shooting stalactites to access higher spot (shoot to climb and proceed)
+- Sheegoth requires you to shoot the mouth with specific weapon while not using other weapons, as it charges the boss's attacks, making it stronger
+- Higher level enemies fill in areas (backtrack filler)
+- Thermal visor allows for semi-nightvision, locating certian enemies' weak points, and finding power conduits to activate with wave beam to unlock doors
+- Visor/HUD interferance is a cool visual effect
+- Lore collection from computers in space pirate base
+- Phendrana space pirate base section was cool (Linear fetch and escape)
+- Thardus requires you to locate its weak-point with thermal visor, attack it, then switch back to normal visor and target the same point to destroy that point. Rinse and repeat (Some weather effects too)
+- Spider ball allows for latching on and riding certain magnetic rails.
+- Return to Chozo ruins to explore with spider-ball and other new toys post-Thardus
+- Certain beam weapons allows for environmental manipulation giving access to new micro-areas (hall of the elders)
+- One-shot sequence break (geothermal core)
+- Phendrada depths gravity suit search section (Non-linear fetch and escape)
+- Find and activate power conduits (pirate base, crashed frigate)
+- Column twist puzzle in Phazon Mines
+- 2/3rds non-linear item quest to proceed into Phazon Mines depths (X-ray visor/grapple beam free post-power bomb, plasma beam free post-grapple beam)
+- X-ray visor allows you to see completely invisible objects (such as walls and platforms), which are sometimes hinted toward by rain droplets
+- Grapple beam allows for swinging to areas unable to jump to or otherwise reach, and also quicker area traversal
+- New abilities can activate or unlock shortcuts for quicker, more streamlined traversal between areas
+- Grand fetch quest assisted by hints on where to find them (Chozo artifacts)
+- Level design, enemy design, and hidden powerups all take future upgrades into account for late game exploration
+- "Powerup flow"
 
-# --- Thoughts
+# --- THOUGHTS
 I think that given the task Retro Studios was given with, they hit the nail on the head making Metroid's debut in 3D, and filling in Super Metroid's shoes. Although not perfect, Prime serves as a great first-person action/adventure game - and perhaps the only of its kind - with such a heavy focus on the MV formula. The atmosphere just great. I think there was lots of thought put into the level design from the micro to the macro level. The levels and areas flow together nicely all things considered, and the emphasis on exploration and encouraging the player to check back on the things they were blue-balled on before was pretty good. Although it does a good job at honoring Super Metroid's design philosophy and atmosphere, the game feel leaves some to be desired- as it is after all a single-stick shooter. The targeting system does its best to keep things smooth, but looking around can feel stiff and slow at times. Platforming while not bad, isn't nearly as smooth and satisfying as in Super Metroid.
 Here's some nitpicks and other thoughts. Although the flow between levels is generally good, I would've maybe liked it if there were more breakable or uncoverable shortcuts to make traveling even more streamlined accross areas. In this way I feel like the grapple beam is underutilized, as it is a prime candidate for this job, but it is also just fun to use. I think it would've been viable to use something other than strictly the "grapple points" as use for the grapple beam, such as maybe some more natural or mechanical elements that fit the environment you're in. Another thing I notice is that most of the extra/optional powerups aren't particularly exciting - as in they mainly consist of 5-stock missile expansions to add to your massive stockpile of missiles (which is nice, but at some point you question whether it becomes like a diminishing returns effect) and power bomb expansions which really dont serve much of a purpose besides breaking certain walls and saying "fuck it" to enemies that you just want to deal with quickly and get over with, and considering how easy it is for power bomb refills to drop from enemies anyway, these expansions really don't feel like they serve much of a meaningful purpose at all. There's also the elemental super missiles for each respective beam weapon, but the vanilla super missle is simply the most efficient in terms of both effectiveness and ammo efficiency, so the other ones are really kinda just "meh". There was only one blemish with the level design in this game which I particulary disliked, and it was retrieving the artifact of newborn. I feel like the fix would be very simply to put it closer to the exit point of the sub-area that it's in (being the Mines depths) but being right in the awkward middle area that it's in, and given that there isn't a backtrack-phase in that area like the other artifacts because it's the very end of the game, theres no way to go back and get it that doesn't feel like a real slog.
 
@@ -83,7 +83,6 @@ Lots of morph ball puzzles/bosses
 Transdimentional alternation (boost ball sequence)
 One-and-done morph ball puzzles (plaza access)
 
-
 # ---------------
 # HOLLOW KNIGHT |
 # ---------------
@@ -100,62 +99,80 @@ Mothwing cloak allows for a sideways dash, ignoring gravity
 # ------------------
 # METAL GEAR SOLID |
 # ------------------
-Briefing tapes (Optional pre-game lore exposition)
-Walking on puddles emit sound, crawling on them omits the sound
-Soliton Radar System (FOV cones)
-Ration system for health
-Hugging a wall, edge of a wall or obstacle lets you peer down or around you to get a view of surroundings relating to the wall
-3-hit combo melee attack starts with two quick punches and a kick with an extended hitbox that knocks enemies down
-Choke hold lets snake knock out an enemy by holding down or kill an enemy by tapping
-Footprints are left in the snow, and guards notice them
-First firearm found in back of truck. It is optional, and is unsilenced and has limited ammo
-Optional chaff and stun grenade pickups can be used to help infultrate the building by getting past the spotlights/cameras
-Chaff grenades temporarily disable certain electronics, including security cameras as well as your radar system
-Security cameras have blindspots
-Enemies disappear on death
-Enemies can occasionaly drop ammo/rations
-Ventilation shaft hides optional extra rations that can be found depending on if you explore the vents
-Both tanks in the tank hangar can be crawled under to conceal yourself
-Metal floor plates function identically to puddles
-Prison hides rations under beds
-First "Boss fight" requires player to shoot basic soldiers coming through a door, and avoiding incoming grenade blasts
-Ocelot fight has the player chase the boss around a square, avoiding his riccochet bullets, and taking advantage of the slow reload time of his revolver to chase and strike. Entering the middle of the square will detonate the C4 tripwires, killing the hostage
-Completing boss fights permanently raises health bar
-To progress further at this point, the player must look on the back of the game CD case to speak with Meryl to proceed
-Tank hanger exit requires the player to dodge a series of vertical moving infrared lasers to avoid being locked in with gas. The lasers can be easily seen with thermal goggles or by smoking
-Claymore mines can be crawled upon to be picked up, or can be detected with an optional mine detector that can be found in the tank hanger once you have a level 2 card
-Raven tank fight has the player fight a mobile tank with a main and secondary gun in a snowfield. You first need to get close enough to the tank to invalidate its main gun by taking advantage of the terrain and crawling along and behind hills to avoid being shot. Once within range, a soldier will try to track you with the secondary gatling gun while the tank body itself is highly maneuverable and dangerous- although it can be compromised with chaff grenades and explosives. The only way to defeat the boss is to lob a grenade into the manhole with replenishing (although limited) grenade and ration supplies scattered accross the snowfield.
-Gray fox fight requires the player to fight dodge, and chase the boss in a CQC duel. Gray fox will dodge any bullets, but chaff grenades can stun him. Gray fox has a variety of attacks for the player to react accordingly to, and the office cubicles allow for looping to an extent. As the fight progresses, Gray fox can turn semi-invisible and teleport behind the player.
-Mantis fight involves the player dodging items being thrown and flown around in different distinct patterns. To defeat the boss you need to plug the controller into port 2
-In the caves past the storage building, the entrance to the comm tower can be seen through cracks in the structure, implying where to end up when going around
-Backtrack to the armory to grab the PSG-1
-Sniper wolf fight involves the player engaging a sniper duel down a very long corridor. Peering down the corridor by hugging the wall and waiting for an opening or baiting out the shot by briefly exposing yourself and reacting to the laser lets you position and take aim. The boss runs between columns to change positions and hide in and out of cover. Taking the optional pentazamin will temporarily stop body tremors
-Interogation room involves the player mashing O quickly for a period of time to maintain your dropping health to stay alive, or give in with SELECT and alter the final ending.
-In the prison, the player must wait for the guard to use the bathroom to either crawl under the bed, or fake blood with ketchup in order for the guard to open the door to investigate upon returning
-Communications tower section involves the player running up a massive spiraling staircase reacting to and shooting guards coming from either direction
-Hind D fight involves the player shooting a helicopter with a stinger missile while the helicopter revolves around the pillar you are on. The player must take cover behind the central box while the chopper fires its gun, then come out and strike. The helicopter can dive below to reposition, then rise back up to attack while the player must use their eyes or ears to keep track of its location
-Blast furnace features a moving crane arm moving along an edge that the player must crouch-sidle past and a secret room with steam geysers
-Vulcan raven fight involves a game of cat and mouse between a large grid of containers, where the player needs to take down raven while avoiding being shot down in his massive line of sight. Raven gets faster and can damage certain containers blocking access between them as the fight progresses. Explosive rockets are viable, but placed explosives are most efficient. Your rations will freeze if not kept warm by keeping them equipped
-Metal gear fight involves the player avoiding the boss's the primary attacks while shooting first its radome, then cockpit. Metal gear has 3 ranged attacks: homing rockets, gatling gun, and laser- each with their own respective method and range of avoiding them. Starting midrange and moving toward MG while the 3 homing missiles fire lets you avoid them, but can set you up for a following laser attack for big damage if you dont move away quickly. The tracking gatling gun can be avoided by maintaining side movement.
+- Briefing tapes (Optional pre-game lore exposition)
+- Walking on puddles emit sound, crawling on them omits the sound
+- Soliton Radar System (FOV cones)
+- Ration system for health
+- Hugging a wall, edge of a wall or obstacle lets you peer down or around you to get a view of surroundings relating to the wall
+- 3-hit combo melee attack starts with two quick punches and a kick with an extended hitbox that knocks enemies down
+- Choke hold lets snake knock out an enemy by holding down or kill an enemy by tapping
+- Footprints are left in the snow, and guards notice them
+- First firearm found in back of truck. It is optional, and is unsilenced and has limited ammo
+- Optional chaff and stun grenade pickups can be used to help infultrate the building by getting past the spotlights/cameras
+- Chaff grenades temporarily disable certain electronics, including security cameras as well as your radar system
+- Security cameras have blindspots
+- Enemies disappear on death
+- Enemies can occasionaly drop ammo/rations
+- Ventilation shaft hides optional extra rations that can be found depending on if you explore the vents
+- Both tanks in the tank hangar can be crawled under to conceal yourself
+- Metal floor plates function identically to puddles
+- Prison hides rations under beds
+- First "Boss fight" requires player to shoot basic soldiers coming through a door, and avoiding incoming grenade blasts
+- Ocelot fight has the player chase the boss around a square, avoiding his riccochet bullets, and taking advantage of the slow reload time of his revolver to chase and strike. Entering the middle of the square will detonate the C4 tripwires, killing the hostage
+- Completing boss fights permanently raises health bar and ammo carrying capacity
+- To progress further at this point, the player must look on the back of the game CD case to speak with Meryl to proceed
+- Tank hanger exit requires the player to dodge a series of vertical moving infrared lasers to avoid being locked in with gas. The lasers can be easily seen with thermal goggles or by smoking
+- Claymore mines can be crawled upon to be picked up, or can be detected with an optional mine detector that can be found in the tank hanger once you have a level 2 card
+- Raven tank fight has the player fight a mobile tank with a main and secondary gun in a snowfield. You first need to get close enough to the tank to invalidate its main gun by taking advantage of the terrain and crawling along and behind hills to avoid being shot. Once within range, a soldier will try to track you with the secondary gatling gun while the tank body itself is highly maneuverable and dangerous- although it can be compromised with chaff grenades and explosives. The only way to defeat the boss is to lob a grenade into the manhole with replenishing (although limited) grenade and ration supplies scattered accross the snowfield.
+- Gray fox fight requires the player to fight dodge, and chase the boss in a CQC duel. Gray fox will dodge any bullets, but chaff grenades can stun him. Gray fox has a variety of attacks for the player to react accordingly to, and the office cubicles allow for looping to an extent. As the fight progresses, Gray fox can turn semi-invisible and teleport behind the player.
+- Mantis fight involves the player dodging items being thrown and flown around in different distinct patterns. To defeat the boss you need to plug the controller into port 2
+- In the caves past the storage building, the entrance to the comm tower can be seen through cracks in the structure, implying where to end up when going around
+- Backtrack to the armory to grab the PSG-1
+- Sniper wolf fight involves the player engaging a sniper duel down a very long corridor. Peering down the corridor by hugging the wall and waiting for an opening or baiting out the shot by briefly exposing yourself and reacting to the laser lets you position and take aim. The boss runs between columns to change positions and hide in and out of cover. Taking the optional pentazamin will temporarily stop body tremors
+- Interogation room involves the player mashing O quickly for a period of time to maintain your dropping health to stay alive, or give in with SELECT and alter the final ending.
+- In the prison, the player must wait for the guard to use the bathroom to either crawl under the bed, or fake blood with ketchup in order for the guard to open the door to investigate upon returning
+- Communications tower section involves the player running up a massive spiraling staircase reacting to and shooting guards coming from either direction
+- Hind D fight involves the player shooting a helicopter with a stinger missile while the helicopter revolves around the pillar you are on. The player must take cover behind the central box while the chopper fires its gun, then come out and strike. The helicopter can dive below to reposition, then rise back up to attack while the player must use their eyes or ears to keep track of its location
+- Blast furnace features a moving crane arm moving along an edge that the player must crouch-sidle past and a secret room with steam geysers
+- Vulcan raven fight involves a game of cat and mouse between a large grid of containers, where the player needs to take down raven while avoiding being shot down in his massive line of sight. Raven gets faster and can damage certain containers blocking access between them as the fight progresses. Explosive rockets are viable, but placed explosives are most efficient. Your rations will freeze if not kept warm by keeping them equipped
+- Metal gear fight involves the player avoiding the boss's the primary attacks while shooting first its radome, then cockpit. Metal gear has 3 ranged attacks: homing rockets, gatling gun, and laser- each with their own respective method and range of avoiding them. Starting midrange and moving toward MG while the 3 homing missiles fire lets you avoid them, but can set you up for a following laser attack for big damage if you dont move away quickly. The tracking gatling gun can be avoided by maintaining side movement.
+- Extreme difficulty removes natural rations from the game, encouraging the player to kill guards so that they can drop them, adding a whole new way or idea of playing the game
+- Apparently cameras can be destroyed with the Stinger launcher
 
-AREAS:
+# --- AREAS
 - Dock
-- Cavern
+    * Dock starts the game with the player being fully shrouded in cover by barrels and a pipe unit. To proceed, the player must crawl under the unit. Optionally, a ration is visible underwater as soon as the game starts, and can be grabbed by going down the stairs and underwater to grab it. Once the player crawls past the pipe unit, a wall is revealed with a guard patrolling nearby in the main part of the room, where there are 4 large stacks of shipping crates in a square-grid pattern. Here, the player is encouraged to hug the wall and wait for the guard to resume patrol. A puddle behind is waiting to the right after going past the guard to trigger the guard's sense of sound. The player is forced to either move up, right, or if the player gets caught, optionally jump off down into the water to escape. There is an identical pipe unit on the reciprocating side of the level with another optional ration behind it. A forklift in the far northeast corner is good for hiding behind to wait for the elevator to come down and sneak inside.
+
 - Heliport
-    * Heliport has two points of infultration- one lower and one higher level. It also has moving spotlights that have a repeating pattern with different points of entry to bypass them
-- Tank hangar
-    * Tank hangar hides extra ammo for socom, as well as optional thermal goggles on second floor. Optionally the player can backtrack with level 1 card to retrieve the socom supressor and cardboard box A from previously locked doors in the tank hangar
--
+    * Heliport has two points of infultration- one ventilation opening in lower and one higher up the stairs, both on the far north end of the level. It also has moving spotlights in the center that have a repeating pattern with different points of entry to bypass them and a set of chaff grenades if you can grab them as a reward for challenging the lights. There is an optional surveillance camera room on the west end of the level which features a swivelling camera with a shipping crate and cranny as a blind spot, and the room holds stun grenades as a reward. Further up the level on the northwest side there is a ventilation opening with sleeping guard with a sleeping guard in front of it as well as a camera. In the far north there is a truck that can be used as cover, and can even be climbed into to optionally recieve a SOCOM pistol with limited ammo. In the east there is a snowy area with 3 boxes in a striaght vertical line that can be used as cover from a patrolling guard. The guard can see the player's footprints in the snow and follow them indefinitely. Behind the final box there is a ration and a staircase upstairs guarded by a swivelling camera. There is also a ditch to the left of this snowy area to crawl past the guard completely into the area with the truck.
+
+- Hangar
+    * Hangar can be entered from two ways depending on how you finish the Heliport. If you enter from the top side, you will be brought to the ceiling ventilation shaft where you will end up being brought down a ladder and start on the second floor where you can find chaff grenades and the optional thermal goggles within a cargo room with a security camera. If you enter from the bottom side, you will follow the rats to the bottom of the hangar and exit on the east side of the bottom floor of the hanger. The hangar features two large tanks that can be hid behind  extra ammo for socom is hidden under the main staircase, as well as optional thermal goggles on second floor. Optionally the player can backtrack once getting level 1 card to retrieve the cardboard box A and socom supressor from previously locked doors in the up and downstairs respectively
+
+- Cell
+    * Cell 
+
 - Armory
-    * Armory features a grid-like layout of individual rooms each with locked or unlocked doors of varying card levels, as well as destructable walls both containing items and level progression. It also features new traps such as infrared lasers and floor traps that can both bee seen with the thermal goggles
--
+    * Armory features a grid-like layout of individual rooms each with locked or unlocked doors of varying card levels, as well as destructable walls both containing optional items on either end of the north side of the level and story progression on the south. It also features new traps such as infrared lasers and floor traps that can both bee seen with the thermal goggles, and most rooms have areas to hid in 
+
 - Nuclear warhead storage building
     * Nuke storage building features crates of dismantled warheads all around, so using standard weaponry is disabled
+
 - Nuke building B1
     * Nuke building B1 features a bathroom where guards occasionally break their routine to go and pee. They can be followed in and are vulnerable while doing so. There is also a Nikita launcher behind a door in the main computer room, as well as ammo hidden under the desks
-- Nuke building B2
-    * Nuke building B2 features a high-voltage generator that electricutes the floor along the long corridors past the main door. The generator is visible through the glass as soon as you enter, but the only way to destroy it is with a remote-controlled missile from the nikita launcher. The corridors are equipped with armed security cameras that can potentially shoot down the rocket. Once you destroy the generator, the player can proceed but the corridors are still filled with a poisonous gas that slowly drains your O2 meter. An optional gas mask is behind one of the many doors in the poisonous corridors, as well as plenty of ammo refills, NVG and the way to progression.
 
+- Nuke building B2
+    * Nuke building B2 features a high-voltage generator that electricutes the floor along the long corridors past the main door. The generator is visible through the glass as soon as you enter, but the only way to destroy it is with a remote-controlled missile from the nikita launcher. The corridors are equipped with armed security cameras that can potentially shoot down the rocket unless you accelerate. Once you destroy the generator, the player can proceed but the corridors are still filled with a poisonous gas that slowly drains your O2 meter. An optional gas mask is behind one of the many doors in the poisonous corridors, as well as plenty of ammo refills, NVG and the way to progression.
+
+- Blast furnace
+    * Blast Furnace
+
+# --- EXPLOITS
+- Some bosses have an infinite loop that you can send them in
+- Equipping and re-equipping the PSG1 resets the shake counter
+
+# --- THOUGHTS
+MGS1 is an interesting one coming back to. Coming back to at after so long and after playing Metroid Prime and MGSV made me dislike the game at first. This was mainly because I was directly comparing the gameplay from both of those games to this one which in hindsight was not the best idea. After thoroughly playing through the game, I've come to appreciate what it is on its own after forcing myself to adapt and overcome to its differences from MGSV. It is a classic for sure but it is certainly not without its flaws- most of them IMO having to do with too with uninspired/questionable level design late game. Not to mention the backtracking, while I personally don't mind it certainly is nowhere near as "gracefully" executed or perhaps "flow-ey" as the Metroid games. Since the game has a very limited camera situation, the radar system is a very useful tool to help give some spacial awareness to the player instead of the player having to use the stationary first-person view constantly or rely on memory or "gamesense", and since the guards' vision-cone is limited and clealy defined, I believe the radar system is helpful (though not essential) for a fully cohesive gameplay experience in this game, at least on the first playthrough.
 
 # ------
 # MGS2 |
@@ -167,7 +184,7 @@ Walking in rain or in puddles followed by walking on a dry surface will result i
 Lockers can be opened and used to be hid in, or to hide another incapacitated guard. Locked doors can also be punched/shot down to reveal contents
 Guards include visual fuzzy detection that extends slightly outside their main vision cone. When triggered, they will pathfind through the shortest path to investigate the area you were suspected of being when it triggered. They will then return to their normal post if undisturbed
 Guards have invisible vision cones that can detect you when you are on a different level above or below them. When you activate this, it will trigger fuzzy detection
-Upon being spotted, the enemy will attempt to radio-in for backup by hiding, or by melee attacking if you're too close. If his queue finishes, the guards will enter 'alert' phase where radar is jammed and guards are aware of your presence. Attack team will be called in as well, and guards will recieve backup if they are killed in this phase, and will previously dead guards will be replaced. Once evaded, the guards will enter 'clearing' mode where guards will clear your area of most hiding spots. Once cleared, the guards will enter 'caution' mode where attack team leaves, and guards are on high alert
+Upon being spotted, the enemy will attempt to radio-in for backup by hiding, or by melee attacking if youre too close. If his queue finishes, the guards will enter 'alert' phase where radar is jammed and guards are aware of your presence. Attack team will be called in as well, and guards will recieve backup if they are killed in this phase, and will previously dead guards will be replaced. Once evaded, the guards will enter 'clearing' mode where guards will clear your area of most hiding spots. Once cleared, the guards will enter 'caution' mode where attack team leaves, and guards are on high alert
 Attack team guards can have riot shields and shotguns
 The effects of a tranquilizer round are highly dependent on where on the body it is shot- the head having the fastest effect
 If a guard is tranquilized next to a nearby guard, that guard will notice and call in for the attack team, triggering 'caution' mode. If an already tranquilized guard is noticed by another guard, that guard will walk over to him and simply wake him up. If a tranquilized guard wakes up on his own, he will simply go back on patrol. If a dead guard is found by another guard, that guard will call in for the attack team as well as a replacement for the dead guard, triggering 'caution' mode
@@ -182,20 +199,27 @@ Hidden C4 Explosives must be frozen with coolant. The location of bombs can be d
 Fatman fight involves an arena similar to the one in vulkan raven, although more open. Fatman is very mobile due to his roller blades, and will place C4 around the map that must all be frozen within the time limit. Fatman can hide bombs in different areas such as on shelves, barrels, and even on top of or below containers. Due to his bomb suit being highly shielded, damage when shooting him is highly minimal, but rapid fire will knock him off balance and reveal his head
 In order to access the Shell 1 core basement, the player must return to the warehouse with the Lvl 2 card and find the room with an AKS-74u (and optionally the M4) in order to blend in with the soldiers there so that the elevator camera won't be alerted
 
-AREAS:
+# --- AREAS
 - Aft deck
+
 - Deck-A, B, C etc.
     * Deck-A, crew's quarters features to long narrow corridors on either side, and a large locker room in the middle
     * Deck-D, crew's quarters features a dining area with a bar and tables to crawl under, a food pantry with shelves to crawl under and a cardboard box, and an IR laser sensor to crawl under with a nearby fire extinguisher to shoot to make the lasers visible
+
 - Crew's quarters
+
 - Crew's lounge
+
 - Navigation deck
+
 - Engine room
     * Engine room port-side has 3 IR sensors and their respective controllers hooked up to semtex explosives. The only way to get past is by deactivating the semtex controllers by shooting them. One is in plain sight, another is visible by standing on top of an object. The last one is visible once the first two are taken out so that you can get close enough to shoot it
+
 - Hold no.1 / 2 etc.
     * Holds feature many soldiers facing a projection of the commandant giving a speech. Progresssion rooms are located at the front of each hold. The player must sneak around the soldiers' field of vision by staying around the edges of the holds and yielding to variables along the way such as avoiding light rays from the projector, soldiers on the ends that move, soldiers
 
 - Shell Cores 1, 2
+
 - Strut-A, B, C etc.
     * Strut A = Pump facility
     * Strut B = Transformer room
@@ -209,15 +233,21 @@ AREAS:
     * Strut J = Power plant
     * Strut K = Biochem lab
     * Each strut is connected by another strut by means of a connecting bridge. Some bridges have a higher and lower entrance to each strut, giving the player the option to choose which level of the next room they wish to infultrate. Connecting bridges are typically guarded by guards and flying camera drones. The drones can move side to side and raise and lower the level they are on- they can also not hear gunshots. The bridges have fully shrouded railings for the player to crawl along, and open guard railings that are see-through, but can be hanged along to get past guards, or get past other obstacles.
+
 - Deep sea dock
     * Deap sea dock features lockers and ventilation shafts to explore and hide in, and guards patrolling a room with boxes, pallets and barrels stacked in another part divided by a connector
+
 - Pump room
     * Pump room features two sets of stairs on either side followed by a pair of lockers next to either staircase. Between the two staircases there is a small cubicle-like control center. In the room south of that is a large square room with a large maze-like pipe complex in the middle that the player must crawl and climb under, over, and along to reach the bomb and optionally the cardboard box
+
 - Warehouse
+
 - Parcel Room
     * Parcel room features a large room with an active conveyer belt moving boxes in a loop along the whole room. Cameras are mounted on columns in the middle of the room, and can be snuck past by crawling under the belt machine without being caught by the guards, or by walking along the conveyer belt at the same speed as the boxes that it carries by. There are also shelves in the far north end of the room to hide under. The conveyer belt machine has small platforms for loading boxes onto, that the player can climb on and take out one of several cardboard boxes to quick-travel to their respective areas.
+
 - Shell 1 core - Air purification room
     * Shell 1 core
+
 - Shell 1 core B1
     * Shell 1
 
