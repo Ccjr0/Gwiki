@@ -1,0 +1,92 @@
+= METROID PRIME =
+
+== GENERAL ==
+* Basic [[glossary#Target Practice|target practice]] for [[glossary#Shoot Targets to Proceed|gate progression]] early game.
+* [[glossary#Aesthetic Presentation|Atmospheric visual flare]] such as visor condensation and rain droplets early game.
+* Scan certain panels to unlock doors/elevators/activate objects. [[glossary#Activate to Proceed|(Activate to Proceed)]]
+* Basic crippled enemies early game. [[glossary#Target Practice|(Target Practice)]], [[glossary#Taste Testing|(Taste Testing)]]
+* Introducing abilities for progression/combat purposes early game (shoot rubble w/ charge, shoot drone w/ missile). [[glossary#Shoot Targets to Proceed|(Shoot Targets to Proceed)]] [[glossary#Target Practice|(Target Practice)]]
+* Ambient creatures [[glossary#Visual Hinting|reveal map room]].
+* [[glossary#Environmental Hazards|Envoronmental Hazards]] such as electricity/fire etc. [[glossary#Yield to Proceed|(Yield to Proceed)]]
+* Turret defense disabling through use of scanning panels (optional). [[glossary#Visual Hinting|(Visual Hinting)]], [[|(Mechanical Hinting)]], [[|(out of box option)]]
+* [[|(Timed escape sequence)]] using collection of (some) basic tasks learned through the tutorial opening.
+* Abilities you've become familiar with lost, and must be reaquired
+* Areas/rooms are designed somewhat/vaguely realistically, with realistic naming conventions
+* Some optional areas and micro-areas visible/blocked off serve as [[glossary#Teasers|teasers]] for later abilities as soon as you reach Tallon IV
+* Mysterious [[glossary#Significant Landmarking|artifact temple looks highly significant]], although cannot immediately be made sense of or what to do there, we can only access it fairly early in the game.
+* Elevators serve as [[glossary#Fast Travel|access between macro-areas]]
+* Powerups [[glossary#Audible Hinting|emit subtle sound when nearby]]
+* Chozo tree doesn't immediately look special, but reflects blasts just like blast shields. [[glossary#Visual Hinting|(Visual Hinting)]]
+* Certain walls [[glossary#Expositional Hinting|defined with certain named materials]], implying they can be broken with a respective ability.
+* Key item rooms lock the player within to escape using the respective item. [[glossary#One-way Valves|(one-way valves)]]
+* Missle launcher useful in combat, allows for breaking certain walls/barriers, and is particularly useful (though optional) in the NEXT proceding boss fight. [[glossary#Area of Effect|(area of effect)]]
+* [[glossary#Cluster Enemies|Cluster enemies]] in some transition areas in Chozo Ruins.
+* Morph ball allows access through crevices previously unable to traverse.
+* During backtracking for items, find optional elevator to magmoor caverns north blocked by intense heat (one in Ruins, another in Overworld).
+* Heavy use of [[glossary#Teasers|visible, but unusable spider-ball tracks]] in early Chozo Ruins.
+* Scan hidden runics to unlock large door. [[glossary#Search and Activate to Proceed|(search and activate to proceed)]]
+* Morph ball bombs allow certain materials to be broken, certain switches to be activated, and further morph ball mobility options
+* Use of 2D-like morph ball puzzles in which you bomb certain blocks to proceed and grab the powerup
+* [[glossary#Timed Consecutive Action Sequence|Timed morph ball bomb slot sequences]] to access optional energy tank.
+* [[glossary#Optional Technique Mastery|Master morph ball bomb timing]] to aquire optional missile expansion.
+* [[glossary#Two-sector Alternation Model|Two-sector alternation model]] featuring a [[glossary#Double Loop|double loop]] in early Chozo Ruins
+* Varia suit allows access to high-temperature areas
+* [[glossary#Environmental Transformation|Environmental transformation]] gives access to some new micro-areas within Chozo Ruins post-Flahgraa (toxic water >> clean water)
+* [[glossary#Inverse Forking|Two different roads]] within Magmoor caverns to choose from after Flahgraa to access Phendrana Drifts
+* Underground morph ball maze sections with predatory enemies in Magmoor Caverns
+* Boost ball allows access to higher levels of half-pipes, and [[glossary#Streamline Ability|speeding through areas]]
+* Space Jump Boots allows double jumping, making [[glossary#Streamline Ability|traversing old areas easier]] and new ones possible
+* [[glossary#Macro Alternation Model|Alternation between macro-areas]] after Flahgraa (Phendrana > Talon IV > Phendrana)
+* Sometimes [[glossary#Shoot and Climb to Proceed|stalactites must be shot]] to access higher spots.
+* Sheegoth requires you to shoot the mouth with specific weapon while not using other weapons, as it charges the boss's attacks, making it stronger
+* Higher level enemies [[glossary#Backtrack Filler|fill in previous areas]] once a certain checkpoint is reached
+* Thermal visor allows for nightvision, locating certian enemies' weak points, and finding power conduits to activate with wave beam to unlock doors
+* Visor/HUD interferance is a cool [[glossary#Aesthetic Presentation|visual effect]]
+* [[glossary#Expositional Lore|Expositional lore]] collection from computers in space pirate base
+* Phendrana space pirate base section was cool. [[glossary#Linear Fetch and Escape|(Linear fetch and escape)]]
+* Spider ball allows for latching on and riding certain magnetic rails, as well as [[glossary#Streamline Ability|easier access]] to some areas.
+* Return to Chozo ruins to explore with spider-ball and other new toys post-Thardus
+* Certain beam weapons allows for [[glossary#Environmental Transformation|environmental transformation]] giving access to new micro-areas. (hall of the elders)
+* [[glossary#One-shot Sequence Break|One-shot sequence break]] (geothermal core)
+* Phendrada depths gravity suit search section features a [[glossary#Linear Fetch-and-escape Sequence|linear fetch-and-escape sequence]] with a series of [[glossary#One-way Valves|one-way valves]]
+* [[glossary#Search and Activate to Proceed|Find and activate power conduits]] (pirate base, crashed frigate)
+* [[glossary#Solve to Proceed|Column twist puzzle]] in Phazon Mines
+* [[glossary#Non-linear Item Quest|2/3rds non-linear item quest]] to proceed into Phazon Mines depths (X-ray visor/grapple beam free post-power bomb, plasma beam free post-grapple beam)
+* X-ray visor allows you to see completely invisible objects (such as walls and platforms), which are sometimes [[glossary#Visual Hinting|hinted toward by rain droplets]]
+* Grapple beam allows for swinging to areas unable to jump to or otherwise reach, and also [[glossary#Streamline Ability|quicker area traversal]]
+* Plasma beam allows for access through red doors, and melting ice. Although it has a limited range, it makes quick work of enemies with its fast and powerful damage that also [[glossary#Tick Rate|sets enemies on fire]] and disintegrates many regular enemies with one charge shot
+* New abilities can enable [[glossary#Unlockable Shortcuts|access through shortcuts]] for quicker, more streamlined traversal between areas and macro-areas
+* Most upgrades are generally [[glossary#Multi-purpose Abilities|multi-purpose tools]] that serve purposes in some combination of progression, combat and/or streamlining
+* [[glossary#Grand Fetch Quest|Grand fetch quest]] assisted by [[glossary#Expositional Hinting|hints on where to find the Chozo artifacts]]
+* Level design, enemy design, and hidden powerups all take future upgrades into account for mid and late game exploration with consideration to the [[glossary#Powerup Flow|"powerup flow"]] to some degree
+
+== AREAS ==
+* *Ruined Courtyard* features a [[glossary#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph-ball bomb slots, and snowy platforms mixed with an [[glossary#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level is a morph-ball tunnel containing an energy tank. Once grabbed, the timed action and transformation sequences must be done over to reach the top and proceed.
+
+* *Tower of Light*
+
+* Observatory Acesss
+
+* Hall of the Elders
+
+* Phendrana Drifts Depths
+
+== BOSSES ==
+* *Hive-mecha* fight requires killing increasingly present mobile enemies and tracking them with [[radar]] and [[glossary#Audible Hinting|audio queues]] to expose the weak-point of stationary boss
+
+* *Plated beetle* fight begins with the player fighting [[glossary#Minions|many regular beetles]] at once in the arena until enough are killed to summon the plated beetle. It encourages player to use the dodge ability [[glossary#Visual Hinting|at the correct time]] to [[glossary#Circle-strafing|circle around the enemy]] to shoot its [[glossary#Backside Weakspot|exposed backside]]
+
+* *Incinerator drone* fight requires you to jump and duck past the boss's [[glossary#Circle-strafing|circular attack pattern]] and to shoot the [[glossary#Peakaboo Weakspot|temporarily exposed weak point]] while dealing with [[glossary#Minions|increasingly present weaker enemies]]
+
+* *Flahgraa* fight requires you to shoot to stun the boss and deactivate nodes to incapacitate the boss in order to damage it
+
+* *Thardus* requires you to [[glossary#Dynamic Weakspot|locate its weak-point]] with thermal visor, attack it, then switch back to normal visor and target the same point to destroy that point. Rinse and repeat. [[glossary#Aesthetic Presentation|(Some weather effects too)]]
+
+== EXPLOITS ==
+
+
+== THOUGHTS ==
+I think that given the task Retro Studios was given with, they hit the nail on the head making Metroids debut in 3D, and filling in Super Metroids shoes. Although not perfect, Prime serves as a great first-person action/adventure game - and perhaps the only of its kind - with such a heavy focus on the MV formula. The atmosphere just great. I think there was lots of thought put into the level design from the micro to the macro level. The levels and areas flow together nicely all things considered, and the emphasis on exploration and encouraging the player to check back on the things they were blue-balled on before was pretty good. Although it does a good job at honoring Super Metroids design philosophy and atmosphere, the game feel leaves some to be desired- as it is after all a single-stick shooter. The targeting system does its best to keep things smooth, but looking around can feel stiff and slow at times. Platforming while not bad, isn't nearly as smooth and satisfying as in Super Metroid.
+
+Heres some nitpicks and other thoughts. Although the flow between levels is generally good, I wouldve maybe liked it if there were more breakable or uncoverable shortcuts to make traveling even more streamlined accross areas than they already were. In this way I feel like the grapple beam is underutilized, as it is a prime candidate for this job, but it is also just fun to use. I think it wouldve been viable to use something other than strictly the "grapple points" as use for the grapple beam, such as maybe some more natural or mechanical elements that fit the environment youre in. Another thing I notice is that most of the extra/optional powerups arent particularly exciting/efficient - as in they mainly consist of 5-stock missile expansions to add to your massive stockpile of missiles (which is nice, but at some point you question whether it becomes like a diminishing returns effect) and power bomb expansions which really dont serve much of a purpose besides breaking certain walls and saying "fuck it" to enemies that you just want to deal with quickly and get over with, and considering how easy it is for power bomb refills to drop from enemies anyway, these expansions really dont feel like they serve much of a meaningful purpose at all. Theres also the elemental super missiles for each respective beam weapon, but the vanilla super missle is simply the most efficient in terms of both effectiveness and ammo efficiency in the vast majority of cases, so the other ones are really kinda just "meh". Another thing that slightly bothered me is the repetitive use of particular enemies in sometimes in early/mid game (Flying Pirates and Shriekbats in particular get overused) and in some instances of the game the topography feels too similar. There was only one blemish with the level design in this game which I particulary disliked, and it was retrieving the artifact of newborn. I feel like the fix would be very simply to put it closer to the exit point of the sub-area that its in (being the Mines depths) but being right in the awkward middle area that its in, and given that there isnt a backtrack-phase in that area like the other artifacts because its the very end of the game, theres no way to go back and get it that doesn't feel like a real slog.
+

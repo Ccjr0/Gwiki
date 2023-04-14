@@ -1,0 +1,15 @@
+*= INDEX =*
+
+== Game Development ==
+*=== Games ===*
+[[Gdev/Metal Gear Solid|Metal Gear Solid]]
+[[Gdev/Metal Gear Solid 2|Metal Gear Solid 2]]
+[[Gdev/Metal Gear Solid V|Metal Gear Solid V]]
+[[Gdev/Metroid Prime|Metroid Prime]]
+[[Gdev/Metroid Prime 2: Echoes|Metroid Prime 2: Echoes]]
+[[Gdev/Resident Evil 4|Resident Evil 4]]
+
+*=== Info ===*
+[[Gdev/glossary|Glossary]]
+[[Gdev/agg|Aggregate]]
+
