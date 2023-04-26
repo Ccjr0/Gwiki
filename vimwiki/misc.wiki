@@ -1,0 +1,16 @@
+== UNREAL ==
+* Growable health with nali fruit seeds
+* Placeable pillar shield
+* Hard enemies are introduced early game but with nerfs (either directly or indirectly) and brought back later without them
+* Skaarj is introduced in a cool way
+* Razorjack features [[riccochet projectile|riccochet]] and [[mouse-guided_projectile|mouse-guided]] weapon fire
+
+== CVS1 ==
+* Backgrounds
+
+== STARFOX ADVENTURES ==
+* Sewer room thing
+* Transitional (loading) areas
+* Darkice Mines [[item transport sequence|explosive barrel trial]]
+    #
+* Very [[tightroping|narrow walkways]] in some shrines

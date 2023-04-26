@@ -1,0 +1,16 @@
+= METROID PRIME 2: ECHOES =
+
+* Scan fallen GF soldiers to obtain their personal lore log
+* Scan to operate crane to lift obstructing crate early game, crate goes to a seperate nearby area via cable, in which you will have to shoot it back down to climb & proceed
+* Central macro-area (Temple grounds) acts as a primary hub with four discinct sectors leading to their respective macro-areas
+* Luminoth update your translator in order to access doors and scan lore of their respective sectors' colors
+* In each sector, the end goal is to find 3 keys to access the dark temple to defeat the boss, and restore the temples energy back to the temples light counterpart
+* Systematic MV alternation model between macro-areas {master/sector layout}
+* Transdimentional puzzles/traversal
+* Delta power storage rack puzzle
+* Lots of morph ball puzzles/bosses
+* "Abandoned base" gate puzzle
+* Transdimentional alternation (boost ball sequence)
+* One-and-done morph ball puzzles (plaza access)
+
+
