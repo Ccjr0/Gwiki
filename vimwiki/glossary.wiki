@@ -1,6 +1,6 @@
 = GLOSSARY =
 
-----------------------------------------
+----
 
 == CARTOGRAPHY ==
 
@@ -39,7 +39,7 @@
 
 ==== Inverse Forking ====
 
-----------------------------------------
+----
 
 == COMBAT ==
 === Cluster Enemies ===
@@ -60,7 +60,7 @@
 
 === Dynamic Weakspot ===
 
-=== Auxillary Weakspot ===
+=== Auxiliary Weakspot ===
 * Defined as a spot directly or indirectly attached to a body to act as a secondary, precursive, or supportive role
 
 === Timed Weakness ===
@@ -76,7 +76,7 @@
 === Area of Effect ===
 * Defined as a
 
-----------------------------------------
+----
 
 == GAMEPLAY ==
 === Mechanical Hinting ===
