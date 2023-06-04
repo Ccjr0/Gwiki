@@ -1,4 +1,4 @@
-= METROID PRIME =
+= Metroid Prime =
 
 == General ==
 * Basic [[glossary#Target Practice|target practice]] for [[glossary#Shoot Targets to Proceed|gate progression]] early game.
@@ -60,6 +60,8 @@
 * [[glossary#Grand Fetch Quest|Grand fetch quest]] assisted by [[glossary#Expositional Hinting|hints on where to find the Chozo artifacts]]
 * Level design, enemy design, and hidden powerups all take future upgrades into account for mid and late game exploration with consideration to the [[glossary#Powerup Flow|"powerup flow"]] to some degree
 
+----
+
 == Areas ==
 * *Ruined Courtyard* features a [[glossary#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph-ball bomb slots, and snowy platforms mixed with an [[glossary#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level is a morph-ball tunnel containing an energy tank. Once grabbed, the timed action and transformation sequences must be done over to reach the top and proceed.
 
@@ -70,6 +72,8 @@
 * Hall of the Elders
 
 * Phendrana Drifts Depths
+
+----
 
 == Bosses ==
 * *Hive-mecha* fight requires killing increasingly present mobile enemies and tracking them with [[radar]] and [[glossary#Audible Hinting|audio queues]] to expose the weak-point of stationary boss
@@ -84,6 +88,8 @@
 
 == Exploits ==
 
+
+----
 
 == Thoughts ==
 * I think that given the task Retro Studios was given with, they hit the nail on the head making Metroid's debut in 3D, and filling in Super Metroid's shoes. Although not perfect, Prime serves as a great first-person action/adventure game - and perhaps the only of its kind - with such a heavy focus on the MV formula. The atmosphere just great.

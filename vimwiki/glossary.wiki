@@ -33,6 +33,8 @@
 
 ==== Environmental Transformation ====
 
+==== Environmental Manipulation ====
+
 ==== Environmental Hazards ====
 
 ==== One-way Valves ====
@@ -159,6 +161,8 @@
 
 === Opportunity Cost ===
 
+=== Deflection ===
+* Deflection is defined as a gameplay scenario where the player bumps around until they finds what to do
 
 == LORE ==
 === Expositional Lore ===

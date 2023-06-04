@@ -33,6 +33,8 @@
 * Extreme difficulty incentivizes players to not use all available diazepam on the first SW fight.
 * Apparently cameras can be destroyed with the Stinger launcher and Nikita. [[glossary#Out-of-box Option|(Out-of-box Option)]]
 
+----
+
 == AREAS ==
 ==== Dock ====
 * The Dock starts the game with the player being fully shrouded in cover by barrels and a pipe unit. To proceed, [[glossary#Basic Mechanical Tutorial|the player must crawl under the unit.]] Optionally, [[glossary#Visual Hinting|a ration is visible underwater]] as soon as the game starts, and can be grabbed by going down the stairs and underwater to grab it. Once the player crawls past the pipe unit, a wall is revealed with a guard patrolling nearby in the main part of the room, where there are 4 large stacks of shipping crates in a [[glossary#Topographic Grid|square-grid pattern]]. Here, the player is encouraged to [[glossary#Yield to Proceed|hug the wall and wait]] for the guard to resume patrol.
@@ -99,6 +101,8 @@
 * Stinger missile tracking
 * Some rooms you can just run straight in and grab exactly what you need, completely avoiding guards' vision
 * Equipping and re-equipping the PSG1 resets the shake counter
+
+----
 
 == THOUGHTS ==
 MGS1 is an interesting one coming back to. Coming back to at after so long and after playing Metroid Prime and MGSV made me dislike the game at first. This was mainly because I was directly comparing the gameplay from both of those games to this one which in hindsight was not the best idea. After thoroughly playing through the game, I've come to appreciate what it is on its own after forcing myself to adapt and overcome to its differences from MGSV. It is a classic for sure but it is certainly not without its flaws* most of them IMO having to do with too with uninspired/questionable level design late game. Not to mention the backtracking, while I personally don't mind it certainly is nowhere near as "gracefully" executed or perhaps "flowey" as the Metroid games. Since the game has a very limited camera situation, the radar system is a very useful tool to help give some spacial awareness to the player instead of the player having to use the stationary first-person view constantly or rely on memory or "gamesense", and since the guards' vision-cone is limited and clearly defined, I believe the radar system is helpful (though not essential) for a fully cohesive gameplay experience in this game, at least on the first playthrough.

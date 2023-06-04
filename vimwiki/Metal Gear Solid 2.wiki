@@ -23,6 +23,8 @@
 * Fatman fight involves an arena similar to the one in vulkan raven, although more open. Fatman is very mobile due to his roller blades, and will place C4 around the map that must all be frozen within the time limit. Fatman can hide bombs in different areas such as on shelves, barrels, and even on top of or below containers. Due to his bomb suit being highly shielded, damage when shooting him is highly minimal, but rapid fire will knock him off balance and reveal his head
 * In order to access the Shell 1 core basement, the player must return to the warehouse with the Lvl 2 card and find the room with an AKS-74u (and optionally the M4) in order to blend in with the soldiers there so that the elevator camera won't be alerted
 
+----
+
 == AREAS ==
 ==== Aft deck ====
 * Deck-A, B, C etc.

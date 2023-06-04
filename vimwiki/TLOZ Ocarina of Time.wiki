@@ -1,0 +1,8 @@
+= Ocarina of Time =
+
+----
+
+== Dungeons ==
+=== Water Temple ===
+* The water temple begins with the player entering the central chamber in the beginning, with many doors being revealed but most of them being either locked or inaccessible, forcing the player to [[glossary#Deflection|scavenge for entrances]] that successfully lead to progression, funnelling the player downward effectively by means of process of elimination. The one entrance available on the top floor is a room is a simple [[two-stage puzzle]] which is quickly terminated after doing the only thing that the player is incentivized to do, being to pull the block having it fall into the first of a [[2-part groove system]]. The one entrance available on the second floor contains a hallway where the player must use the hookshot to latch onto targets above them to reach the compass.
+* The one entrance available on the first floor leads to a room where the player is met with Ruto, where she explains that the dungeon has 3 water levels, and swims upward, hinting the player to follow. By doing this the player is first met with a bomb-wall on the way up that you cannot immediately interact with due to [[bombs not working underwater]], but serves as the first hint toward the central mechanic of the dungeon (how different water levels effect floors and rooms on those floors). Following that is the top of the room which features an exit with a just a room with the map and a panel which [[glossary#Environmental Transformation|changes the water level]] when sung to. This first panel drains all the water. and when jumping back down, encourages the player to explore the first floor.
