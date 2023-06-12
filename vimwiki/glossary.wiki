@@ -29,7 +29,9 @@
 
 ==== Two-sector Alternation Model ====
 
-==== Double Loop ====
+==== Hub and Branch Model ====
+
+==== Double Loop Model ====
 
 ==== Environmental Transformation ====
 
@@ -40,6 +42,8 @@
 ==== One-way Valves ====
 
 ==== Inverse Forking ====
+
+==== Webbing ====
 
 ----
 
@@ -52,15 +56,16 @@
 * Defined as a gameplay strategy in which the player strafes in a circular motion around a target.
 
 === Exposed Weakspot ===
-* Defined as a spot directly or indirectly attached to a body that is more-or-less constantly exposed. (e.g. an enemy's head).
+* Defined as a weakspot directly or indirectly attached to a body that is more-or-less constantly exposed. (e.g. an enemy's head).
 
 === Shrouded Weakspot ===
-* Defined as a spot directly or indirectly attached to a body that is only exposed to a certain position relative to the weakspot (e.g. an enemy's backside).
+* Defined as a weakspot directly or indirectly attached to a body that is only exposed to a certain position relative to the weakspot (e.g. an enemy's backside).
 
 === Peakaboo Weakspot ===
-* Defined as a spot directly or indirectly attached to a body that fluctuates between being exposed and unexposed.
+* Defined as a weakspot directly or indirectly attached to a body that fluctuates between being exposed and unexposed. (e.g. an enemy's blinking eye).
 
 === Dynamic Weakspot ===
+* Defined as a weakspot directly or indirectly attached to a body that changes its properties (such as location, size etc.) in a distinguishable way.
 
 === Auxiliary Weakspot ===
 * Defined as a spot directly or indirectly attached to a body to act as a secondary, precursive, or supportive role
@@ -78,6 +83,8 @@
 === Area of Effect ===
 * Defined as a
 
+=== Tick Damage ===
+
 ----
 
 == GAMEPLAY ==
@@ -85,10 +92,13 @@
 * Defined as a gameplay situation where the player is hinted information directly associated with gameplay mechanics.
 
 === Audible Hinting ===
+* Defined as a gameplay situation where the player is hinted information by audible means.
 
 === Visual Hinting ===
+* Defined as a gameplay situation where the player is hinted information through visual queues.
 
 === Expositional Hinting ===
+* Defined as a gameplay situation where the player is hinted information by systematic explaination.
 
 === Solve to Proceed ===
 * Defined as a gameplay situation where the player is either forced or incentivized to solve a puzzle of some kind to proceed further or achieve an outcome.
@@ -109,20 +119,23 @@
 * Yield to proceed is defined as a gameplay situation where the player is either forced or incentivized yield and react properly to something to proceed further or achieve an outcome.
 
 === Out-of-box Option ===
-* Out-of-box options are defined as situations where the player is either forced or incentivized to "think outside the box" to proceed or achieve an outcome.
+* Defined as situations where the player is forced, incentivized, or otherwise rewarded for "thinking outside the box"
 
 === Basic Mechanical Tutorial ===
 
 ==== Target Practice ====
-* Target practice is defined as a gameplay situation where
+* Target practice is defined as a gameplay situation where the player is forced or incentivized to shoot or attack targets for means of practice. Similar to [[#Taste Testing]] but at a more elementary level.
 
 === Taste Testing ===
+* Defined as a gameplay situation where either a player is encouraged or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
 
 === Teasers ===
 
 === Fast Travel ===
 
 === Timed Consecutive Action Sequence ===
+
+=== Ordered Consecutive Action Sequence ===
 
 === Timed Escape Sequence ===
 
@@ -141,12 +154,10 @@
 
 === Fetch Quest ===
 
-==== Grand Fetch Quest ====
+=== Grand Fetch Quest ===
 * Grand fetch quest
 
 === Powerup Flow ===
-
-=== Tick Damage ===
 
 === Non-linear Item Quest ===
 
@@ -170,7 +181,7 @@
 
 
 == PRESENTATION ==
-=== Aesthetic Presentation ===
+=== Graphical GFX ===
 
 
 == STEALTH ==
