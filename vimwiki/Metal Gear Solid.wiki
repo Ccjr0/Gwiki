@@ -88,7 +88,7 @@
 
 * Psycho Mantis fight involves the player dodging items being thrown and flown around in different distinct patterns. To defeat the boss you need to [[glossary#Out-of-box Option|plug the controller into port 2]].
 
-* Sniper Wolf fight involves the player engaging a sniper duel down a [[glossary#Topographic Long Hall|very long corridor]]. Peering down the corridor by hugging the wall and waiting for an opening or [[baiting out the shot]] by briefly exposing yourself and reacting to the laser lets you position and take aim. The boss runs between columns to change positions and hide in and out of cover. Taking the optional diazepam will temporarily stop body tremors.
+* Sniper Wolf fight involves the player engaging a sniper duel down a very long corridor. Peering down the corridor by hugging the wall and waiting for an opening or [[baiting out the shot]] by briefly exposing yourself and reacting to the laser lets you position and take aim. The boss runs between columns to change positions and hide in and out of cover. Taking the optional diazepam will temporarily stop body tremors.
 
 * Hind D fight involves the player shooting a [[glossary#Man VS Machine Scenario|helicopter]] with a stinger missile while the helicopter [[glossary#King Kong|revolves around the pillar you are on]]. The player must take cover behind cover while the chopper fires its gun, then come out and strike. The helicopter can dive below to reposition, then rise back up to attack while the player must use their eyes [[glossary#Radar System|(Soliton Radar)]], [[|(tracking)]] and ears to keep track of its location.
 

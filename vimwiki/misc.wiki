@@ -1,4 +1,4 @@
-== UNREAL ==
+== Unreal ==
 * Growable health with nali fruit seeds
 * Placeable pillar shield
 * Hard enemies are introduced early game but with nerfs (either directly or indirectly) and brought back later without them
@@ -8,9 +8,12 @@
 == CVS1 ==
 * Backgrounds
 
-== STARFOX ADVENTURES ==
+== Starfox Adventures ==
 * Sewer room thing
 * Transitional (loading) areas
 * Darkice Mines [[item transport sequence|explosive barrel trial]]
-    #
 * Very [[tightroping|narrow walkways]] in some shrines
+
+== Maniac Mansion ==
+
+== Ao Oni ==

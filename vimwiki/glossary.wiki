@@ -3,72 +3,79 @@
 ----
 
 == CARTOGRAPHY ==
+=== Macro-areas ===
+* Large sectors consisting of many areas.
 
 === Areas ===
-
-=== Macro-areas ===
+* Areas within macro-areas.
 
 === Micro-areas ===
+* Small areas within areas.
 
-==== Topographic Intersection ====
-* Defined as a
+=== Topographic Intersection ===
 
-==== Topographic Grid ====
+=== Topographic Grid ===
 
-==== Topographic Reciprocation ====
+=== Topographic Reciprocation ===
 
-==== Topographic Consecutive Cover ====
+=== Topographic Consecutive Cover ===
 
-==== Topographic Long Hall ====
+=== Multi-point Access ===
 
-==== Multi-point Access ====
+=== Multi-point Exit ===
 
-==== Multi-point Exit ====
+=== Unlockable Shortcuts ===
 
-==== Unlockable Shortcuts ====
+=== Two-sector Alternation Model ===
 
-==== Two-sector Alternation Model ====
+=== Hub and Spoke Model ===
 
-==== Hub and Branch Model ====
+=== Web Model/Webbing ===
 
-==== Double Loop Model ====
+=== Double Loop Model ===
 
-==== Environmental Transformation ====
+=== Master/Sector Model ===
 
-==== Environmental Manipulation ====
+=== Environmental Transformation ===
 
-==== Environmental Hazards ====
+=== Environmental Manipulation ===
 
-==== One-way Valves ====
+=== Environmental Hazards ===
 
-==== Inverse Forking ====
+=== One-way Valves ===
 
-==== Webbing ====
+=== Inverse Forking ===
+
+=== One-shot Scenario ===
 
 ----
 
 == COMBAT ==
 === Cluster Enemies ===
+* Enemies that attack in very high numbers that are otherwise typically very weak on their own.
 
 === Minions ===
+* One or more enemies that fight alongside a distinguishably stronger or prime opponent. Typically used in boss/miniboss fights.
+
+=== Multi-Stage Fight ===
 
 === Circle-strafing ===
-* Defined as a gameplay strategy in which the player strafes in a circular motion around a target.
+* A gameplay strategy in which the player strafes in a circular motion around a target to gain an advantage.
 
 === Exposed Weakspot ===
-* Defined as a weakspot directly or indirectly attached to a body that is more-or-less constantly exposed. (e.g. an enemy's head).
+* A weakspot directly or indirectly attached to a body that is more-or-less constantly exposed. (e.g. an enemy's head).
 
 === Shrouded Weakspot ===
-* Defined as a weakspot directly or indirectly attached to a body that is only exposed to a certain position relative to the weakspot (e.g. an enemy's backside).
+* A weakspot directly or indirectly attached to a body that is only exposed to a certain position relative to the weakspot (e.g. an enemy's backside).
 
 === Peakaboo Weakspot ===
-* Defined as a weakspot directly or indirectly attached to a body that fluctuates between being exposed and unexposed. (e.g. an enemy's blinking eye).
+* A weakspot directly or indirectly attached to a body that fluctuates between being exposed and unexposed. (e.g. an enemy's blinking eye).
 
 === Dynamic Weakspot ===
-* Defined as a weakspot directly or indirectly attached to a body that changes its properties (such as location, size etc.) in a distinguishable way.
+* A weakspot directly or indirectly attached to a body that changes its properties (such as location, size, behavior, etc.) in a distinguishable way.
 
 === Auxiliary Weakspot ===
-* Defined as a spot directly or indirectly attached to a body to act as a secondary, precursive, or supportive role
+* A weakspot directly or indirectly attached to a body to act as a secondary, precursive, or supportive role
 
 === Timed Weakness ===
 
@@ -81,7 +88,6 @@
 === Ring-out ===
 
 === Area of Effect ===
-* Defined as a
 
 === Tick Damage ===
 
@@ -89,49 +95,53 @@
 
 == GAMEPLAY ==
 === Mechanical Hinting ===
-* Defined as a gameplay situation where the player is hinted information directly associated with gameplay mechanics.
+* A gameplay situation where the player is hinted information directly associated with gameplay mechanics.
 
 === Audible Hinting ===
-* Defined as a gameplay situation where the player is hinted information by audible means.
+* A gameplay situation where the player is hinted information by audible means.
 
 === Visual Hinting ===
-* Defined as a gameplay situation where the player is hinted information through visual queues.
+* A gameplay situation where the player is hinted information through visual queues.
 
 === Expositional Hinting ===
-* Defined as a gameplay situation where the player is hinted information by systematic explaination.
+* A gameplay situation where the player is hinted information by systematic explaination.
 
 === Solve to Proceed ===
-* Defined as a gameplay situation where the player is either forced or incentivized to solve a puzzle of some kind to proceed further or achieve an outcome.
+* A gameplay situation where the player is either forced or incentivized to solve a puzzle of some kind to proceed further or achieve an outcome.
 
 === Activate to Proceed ===
-* Defined as a gameplay situation where the player is either forced or incentivized to activate something in order to proceed further or achieve an outcome.
+* A gameplay situation where the player is either forced or incentivized to activate something in order to proceed further or achieve an outcome.
 
 ===== Search and Activate to Proceed =====
-* Defined as a gameplay situation where the player is either forced or incentivized to search for whatever needs to be activated in order to proceed further or achieve an outcome.
+* A gameplay situation where the player is either forced or incentivized to search for whatever needs to be activated in order to proceed further or achieve an outcome.
 
 === Shoot Targets to Proceed ===
-* Defined as a gameplay situation where the player is either forced or incentivized to shoot a set number of targets to proceed further or achieve an outcome.
+* A gameplay situation where the player is either forced or incentivized to shoot a set number of targets to proceed further or achieve an outcome.
 
 ==== Shoot and Climb to Proceed ====
-* Defined as a gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
+* A gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
 
 === Yield to Proceed ===
 * Yield to proceed is defined as a gameplay situation where the player is either forced or incentivized yield and react properly to something to proceed further or achieve an outcome.
 
 === Out-of-box Option ===
-* Defined as situations where the player is forced, incentivized, or otherwise rewarded for "thinking outside the box"
+* Situations where the player is forced, incentivized, or otherwise rewarded for "thinking outside the box"
 
 === Basic Mechanical Tutorial ===
 
 ==== Target Practice ====
-* Target practice is defined as a gameplay situation where the player is forced or incentivized to shoot or attack targets for means of practice. Similar to [[#Taste Testing]] but at a more elementary level.
+* A gameplay situation where the player is forced or incentivized to shoot or attack targets for means of practice. Similar to [[#Taste Testing]] but at a more elementary level.
 
 === Taste Testing ===
-* Defined as a gameplay situation where either a player is encouraged or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
+* A gameplay situation where either a player is encouraged or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
 
 === Teasers ===
+Describes certain items, places or more abstract things that are inaccessible, but are made sure the player knows about them, or can know about them. (a.k.a. blue-balling)
 
 === Fast Travel ===
+A mechanic that allows the player to quickly travel to another area/macro-area. Typically this mechanic is unlocked or granted somehow, to contrast between normal travel.
+
+=== Consecutive Action Sequence ===
 
 === Timed Consecutive Action Sequence ===
 
@@ -148,8 +158,6 @@
 
 === Linear Fetch and Escape ===
 
-=== One-shot Sequence Break ===
-
 === Linear Fetch-and-escape Sequence ===
 
 === Fetch Quest ===
@@ -163,26 +171,44 @@
 
 === Multi-purpose Abilities ===
 
-=== Infinite Loop Exploit ===
-
 === Mechanical Realignment ===
 
-=== Systematic Gatekeeping ===
-* Systematic gatekeeping is defined as
+=== Environmental Puzzle ===
+
+=== Inventory Puzzle ===
+
+=== Mechanical Puzzle ===
+
+=== Sokoban Puzzle ===
+* Describes a puzzle where the player must push an object(s) into the correct spot(s). For example, these typically include - but are not limited to - pushing a block to hold a switch. The block could even lose friction when pushing it, requiring the player to find a correct route using stops or pegs.
+
+=== Extrinsic Gatekeeping ===
+
+=== Intrinsic Gatekeeping ===
 
 === Opportunity Cost ===
 
+=== Visual Cloaking ===
+* AKA "Visual Filtering" describes things that only appear or "activate" through select "filters" (e.g. X-ray specs unveiling certain items).
+
 === Deflection ===
-* Deflection is defined as a gameplay scenario where the player bumps around until they finds what to do
+* Loosely describes a gameplay scenario where the player bumps around until they find where to go.
+
+=== Infinite Loop Exploit ===
+
+----
 
 == LORE ==
 === Expositional Lore ===
-* Expositional lore defines lore that is given to the player by means of systematic interpretation or explaination.
+* Lore that is given to the player by means of systematic interpretation or explaination.
 
+----
 
 == PRESENTATION ==
 === Graphical GFX ===
+The kinds of visual effects that grab your attention or provide ambiance, sometimes taking advantage of certain hardware/software traits.
 
+----
 
 == STEALTH ==
 === Hiding Spots ===
@@ -191,22 +217,22 @@
 * Blindspots are are defined as
 
 === Breadcrumbs ===
-* Breadcrumbs are defined as what you leave behind either after doing an action (e.g. cartridge casings), or passively such as walking (e.g. footsteps).
+* What you leave behind either after doing an action (e.g. cartridge casings), or passively such as walking (e.g. footsteps).
 
 === Sound Emitters ===
-* Sound emitters are defined as bodies that emit sound - typically in a context where that sound can be detected by other sound-sensitive bodies.
+* Bodies that emit sound (e.g. gunshots/noisy floors) - typically in a context where that sound can be detected by other sound-sensitive bodies.
 
 === Sound Suppressors ===
-* Sound suppressors are defined as bodies or mechanics that can suppress sounds - typically in a context where that sound can be detected by other sound-sensitive bodies.
+* Bodies or mechanics that can suppress sounds (e.g. silencers/sound suppressing floors) - typically in a context where that sound can be detected by other sound-sensitive bodies.
 
 === Visual Receptors ===
-* Visual receptors are defined as bodies or mechanics that can perceive strictly visual information (e.g. video cameras).
+* Bodies or mechanics that can perceive strictly visual information (e.g. video cameras).
 
 === Sound Receptors ===
-* Sound receptors are defined as bodies or mechanics that can perceive strictly audible information (e.g. microphones).
+* Bodies or mechanics that can perceive strictly audible information (e.g. microphones).
 
 === Dynamic Receptors ===
-* Dynamic receptors are defined as bodies or mechanics that have a distinguishable ability to fluctuate their perceptibility (e.g. sleeping guards).
+* Bodies or mechanics that have a distinguishable ability to fluctuate their perceptibility (e.g. sleeping guards).
 
 === Special Receptors ===
 
