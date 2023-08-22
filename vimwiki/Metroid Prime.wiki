@@ -23,8 +23,8 @@
 * [[glossary#Cluster Enemies|Cluster enemies]] in some transition areas in Chozo Ruins.
 * Morph ball allows access through crevices previously unable to traverse.
 * During backtracking for items, find optional elevator to magmoor caverns north blocked by intense heat (one in Ruins, another in Overworld).
-* Heavy use of [[glossary#Teasers|visible, but unusable spider-ball tracks]] in early Chozo Ruins.
-* Scan hidden runics to unlock large door. [[glossary#Search and Activate to Proceed|(search and activate to proceed)]]
+* Heavy use of [[glossary#Teasers|visible, but unusable]] spider-ball tracks in early Chozo Ruins.
+* [[glossary#Search and Activate to Proceed|Scan hidden runics]] to unlock large door.
 * Morph ball bombs allow certain materials to be broken, certain switches to be activated, and further morph ball mobility options
 * Use of 2D-like morph ball puzzles in which you bomb certain blocks to proceed and grab the powerup
 * [[glossary#Timed Consecutive Action Sequence|Timed morph ball bomb slot sequences]] to access optional energy tank.
@@ -73,6 +73,7 @@ Tower of light is a very tall, cylindrical room featuring sets of platforms reac
 Upon entering from a vertical door, the player is greeted with stacked crates with turrets behind them. If activated by proximity, the turrets will [[blast open the crates]] and shoot the player.
 
 === Hall of the Elders ===
+A pseudo-miniboss fight always begins in this room, but it's
 
 ----
 
