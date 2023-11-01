@@ -1,6 +1,4 @@
-= Metroid Prime =
-
-== GENERAL ==
+== GENERAL/MISC ==
 * Basic [[glossary#Target Practice|target practice]] for [[glossary#Shoot Targets to Proceed|gate progression]] early game.
 * [[glossary#Aesthetic Presentation|Atmospheric visual flare]] such as visor condensation and rain droplets early game.
 * Scan certain panels to [[glossary#Activate to Proceed|unlock doors/elevators and activate objects.]]
@@ -16,7 +14,7 @@
 * Mysterious [[glossary#Significant Landmarking|artifact temple looks highly significant]], although cannot immediately be made sense of or what to do there, we can only access it fairly early in the game.
 * Elevators serve as [[glossary#Fast Travel|access between macro-areas]]
 * Powerups [[glossary#Audible Hinting|emit subtle sound when nearby]]
-* Chozo tree doesn't immediately look special, but reflects blasts just like blast shields. [[glossary#Visual Hinting|(Visual Hinting)]]
+* Chozo tree doesn't immediately look special, but [[glossary#Visual Hinting|reflects blasts]] just like blast shields.
 * Certain walls [[glossary#Expositional Hinting|defined with certain named materials]], implying they can be broken with a respective ability.
 * Key item rooms [[glossary#One-way Valves|lock the player from within]] to escape using the respective item.
 * Missile launcher useful in combat, allows for breaking certain walls/barriers, and is particularly useful (though optional) in the NEXT proceding boss fight as the [[glossary#Area of Effect|blast radius]] can kill multiple enemies.
@@ -64,29 +62,36 @@
 
 == AREAS ==
 === Ruined Courtyard ===
-Ruined Courtyard features a [[glossary#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph-ball bomb slots, and snowy platforms mixed with an [[glossary#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level, a morph-ball tunnel containing an energy tank is [[glossary#Visual Hinting|hinted at]] with a glowing rim. Once grabbed, the timed action and transformation sequences must be done over again to reach the top and proceed.
+* Ruined Courtyard features a [[glossary#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph-ball bomb slots, and snowy platforms mixed with an [[glossary#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level, a morph-ball tunnel containing an energy tank is [[glossary#Visual Hinting|hinted at]] with a glowing rim. Once grabbed, the timed action and transformation sequences must be done over again to reach the top and proceed.
 
 === Tower of Light ===
-Tower of light is a very tall, cylindrical room featuring sets of platforms reaching to the top. On four sections along the circumference of the cylindrical room there are [[stress points]] indicating that they can be damaged. The stress points can be destroyed with 3 missiles each for a total of 12 missiles minimum for each round. Upon dispatching the stress points, the room [[glossary#Environmental Transformation|truncates itself from the middle]], thereby lowering the upper part of the room, where the player repeats the process twice more, with increased challenge coming from moving [[missile reflecting enemies]] along the stress points and [[sun rays obscuring your vision]]. [[glossary#Quantitative Gatekeeping|36 missiles are required]] to complete the room in one go. [[glossary#Replenishment Mob|Replenishment mobs]] are used to assist with keeping enough missiles.
+* Tower of light is a very tall, cylindrical room featuring sets of platforms reaching to the top. On four sections along the circumference of the cylindrical room there are [[stress points]] indicating that they can be damaged. The stress points can be destroyed with 3 missiles each for a total of 12 missiles minimum for each round. Upon dispatching the stress points, the room [[glossary#Environmental Transformation|truncates itself from the middle]], thereby lowering the upper part of the room, where the player repeats the process twice more, with increased challenge coming from moving [[missile reflecting enemies]] along the stress points and [[sun rays obscuring your vision]]. [[glossary#Quantitative Gatekeeping|36 missiles are required]] to complete the room in one go. [[glossary#Replenishment Mob|Replenishment mobs]] are used to assist with keeping enough missiles.
 
 === Observatory Access ===
-Upon entering from a vertical door, the player is greeted with stacked crates with turrets behind them. If activated by proximity, the turrets will [[blast open the crates]] and shoot the player.
+* Upon entering from a vertical door, the player is greeted with stacked crates with turrets behind them. If activated by proximity, the turrets will [[blast open the crates]] and shoot the player.
 
 === Hall of the Elders ===
-A pseudo-miniboss fight always begins in this room, but it's
+* A pseudo-miniboss fight always begins in this room, but it's
 
 ----
 
 == BOSSES ==
+=== Hive Mecha ===
 * Hive-mecha fight requires killing increasingly present mobile enemies and tracking them with [[radar]] and [[glossary#Audible Hinting|audio queues]] to expose the weak-point of stationary boss. Rinse and repeat three times to win.
 
+=== Plated Beetle ===
 * Plated beetle fight begins with the player fighting [[glossary#Minions|many regular beetles]] at once in the arena until enough are killed to summon the plated beetle. It encourages player to use the dodge ability [[glossary#Visual Hinting|at the correct time]] to [[glossary#Circle-strafing|circle around the enemy]] to shoot its [[glossary#Backside Weakspot|exposed backside]]
 
+=== Incinerator Drone ===
 * Incinerator drone fight requires you to jump and duck past the boss's [[glossary#Circle-strafing|circular attack pattern]] and to shoot the [[glossary#Peakaboo Weakspot|temporarily exposed weak point]] while dealing with [[glossary#Minions|increasingly present weaker enemies]]
 
+=== Flahgraa ===
 * Flahgraa fight requires you to shoot to stun the boss and deactivate nodes to incapacitate the boss in order to damage it
 
+=== Thardus ===
 * Thardus requires you to [[glossary#Dynamic Weakspot|locate its weak-point]] with thermal visor, attack it, then switch back to normal visor and target the same point to destroy that point. Rinse and repeat. [[glossary#Aesthetic Presentation|(Some weather effects too)]]
+
+----
 
 == EXPLOITS ==
 === Early Space Jump Boots ===

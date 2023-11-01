@@ -1,7 +1,5 @@
-= METAL GEAR SOLID 2 =
-
-== GENERAL ==
-* Pressing the action button while hugging against a low enough surface can enable you to climb on top of the object
+== GENERAL/MISC ==
+* Pressing the action button while hugging against a low enough surface can enable you to climb on top of the object. Doing the same on a railing enables you to hang and shimmy on it.
 * Picking up and dropping incapacitated guards can sometimes drop ammo
 * 3-hit combo no longer has extended hitbox
 * Walking in rain or in puddles followed by walking on a dry surface will result in [[glossary#Breadcrumbs|wet footsteps being left behind]], and guards can notice and follow them
@@ -26,53 +24,54 @@
 ----
 
 == AREAS ==
-==== Aft deck ====
+=== Aft deck ===
 * Deck-A, B, C etc.
     * Deck-A, crew's quarters features to long narrow corridors on either side, and a large locker room in the middle
     * Deck-D, crew's quarters features a dining area with a bar and tables to crawl under, a food pantry with shelves to crawl under and a cardboard box, and an IR laser sensor to crawl under with a nearby fire extinguisher to shoot to make the lasers visible
 
-* Crew's quarters
+=== Crew's Quarters ===
 
-* Crew's lounge
+=== Crew's Lounge ===
 
-* Navigation deck
+=== Navigation Deck ===
 
-* Engine room
-    * Engine room port-side has 3 IR sensors and their respective controllers hooked up to semtex explosives. The only way to get past is by deactivating the semtex controllers by shooting them. One is in plain sight, another is visible by standing on top of an object. The last one is visible once the first two are taken out so that you can get close enough to shoot it
+=== Engine Room ===
+* Engine room port-side has 3 IR sensors and their respective controllers hooked up to semtex explosives. The only way to get past is by deactivating the semtex controllers by shooting them. One is in plain sight, another is visible by standing on top of an object. The last one is visible once the first two are taken out so that you can get close enough to shoot it
 
-* Hold no.1 / 2 etc.
+=== Hold no. 1 / 2 etc. ===
     * Holds feature many soldiers facing a projection of the commandant giving a speech. Progresssion rooms are located at the front of each hold. The player must sneak around the soldiers' field of vision by staying around the edges of the holds and yielding to variables along the way such as avoiding light rays from the projector, soldiers on the ends that move, soldiers
 
-* Shell Cores 1, 2
+=== Shell Cores 1, 2 ===
 
-* Strut-A, B, C etc.
-    * Strut A = Pump facility
-    * Strut B = Transformer room
-    * Strut C = Dining hall
-    * Strut D = Sediment Pool
-    * Strut E = Material distribution facility
-    * Strut F = Warehouse
-    * Strut G = Oil processing facility
-    * Strut H = Warehouse
-    * Strut I = Assembly facility
-    * Strut J = Power plant
-    * Strut K = Biochem lab
-    * Each strut is connected by another strut by means of a connecting bridge. Some bridges have a higher and lower entrance to each strut, giving the player the option to choose which level of the next room they wish to infultrate. Connecting bridges are typically guarded by guards and flying camera drones. The drones can move side to side and raise and lower the level they are on- they can also not hear gunshots. The bridges have fully shrouded railings for the player to crawl along, and open guard railings that are see-through, but can be hanged along to get past guards, or get past other obstacles.
+=== Strut-A, B, C etc. ===
+* Each strut is connected by another strut by means of a connecting bridge. Some bridges have a higher and lower entrance to each strut, giving the player the option to choose which level of the next room they wish to infultrate. Connecting bridges are typically guarded by guards and flying camera drones. The drones can move side to side and raise and lower the level they are on- they can also not hear gunshots. The bridges have fully shrouded railings for the player to crawl along, and open guard railings that are see-through, but can be hanged along to get past guards, or get past other obstacles.
 
-* Deep sea dock
-    * Deap sea dock features lockers and ventilation shafts to explore and hide in, and guards patrolling a room with boxes, pallets and barrels stacked in another part divided by a connector
+* Strut A = Pump facility
+* Strut B = Transformer room
+* Strut C = Dining hall
+* Strut D = Sediment Pool
+* Strut E = Material distribution facility
+* Strut F = Warehouse
+* Strut G = Oil processing facility
+* Strut H = Warehouse
+* Strut I = Assembly facility
+* Strut J = Power plant
+* Strut K = Biochem lab
 
-* Pump room
-    * Pump room features two sets of stairs on either side followed by a pair of lockers next to either staircase. Between the two staircases there is a small cubicle-like control center. In the room south of that is a large square room with a large maze-like pipe complex in the middle that the player must crawl and climb under, over, and along to reach the bomb and optionally the cardboard box
+=== Deep Sea Dock ===
+* Deap sea dock features lockers and ventilation shafts to explore and hide in, and guards patrolling a room with boxes, pallets and barrels stacked in another part divided by a connector
 
-* Warehouse
+=== Pump Room ===
+* Pump room features two sets of stairs on either side followed by a pair of lockers next to either staircase. Between the two staircases there is a small cubicle-like control center. In the room south of that is a large square room with a large maze-like pipe complex in the middle that the player must crawl and climb under, over, and along to reach the bomb and optionally the cardboard box
 
-* Parcel Room
-    * Parcel room features a large room with an active conveyer belt moving boxes in a loop along the whole room. Cameras are mounted on columns in the middle of the room, and can be snuck past by crawling under the belt machine without being caught by the guards, or by walking along the conveyer belt at the same speed as the boxes that it carries by. {moving cover} There are also shelves in the far north end of the room to hide under. The conveyer belt machine has small platforms for loading boxes onto, that the player can climb on and take out one of several cardboard boxes to fast-travel to their respective areas. {fast-travel}
+=== Warehouse ===
 
-* Shell 1 core - Air purification room
-    * Shell 1 core
+=== Parcel Room ===
+* Parcel room features a large room with an active conveyer belt moving boxes in a loop along the whole room. Cameras are mounted on columns in the middle of the room, and can be snuck past by crawling under the belt machine without being caught by the guards, or by walking along the conveyer belt at the same speed as the boxes that it carries by. {moving cover} There are also shelves in the far north end of the room to hide under. The conveyer belt machine has small platforms for loading boxes onto, that the player can climb on and take out one of several cardboard boxes to fast-travel to their respective areas. {fast-travel}
 
-* Shell 1 core B1
-    * Shell 1
+=== Shell 1 Core - Air Purification Room ===
+* Shell 1 core
+
+Shell 1 Core B1
+* Shell 1
 

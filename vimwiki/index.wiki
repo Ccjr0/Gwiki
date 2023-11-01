@@ -1,16 +1,18 @@
 = GAMEWIKI =
 
 == Games ==
+[[Dark Souls III]]
 [[Final Fantasy VIII]]
 [[Metal Gear Solid]]
 [[Metal Gear Solid 2]]
+[[Metal Gear Solid 3]]
 [[Metal Gear Solid V]]
 [[Metroid Prime]]
 [[Metroid Prime 2: Echoes]]
 [[TLOZ Ocarina of Time]]
 [[Resident Evil 4]]
 [[Super Mario 64]]
-[[Dark Souls III]]
+[[Super Metroid]]
 
 == Info ==
 [[glossary]]

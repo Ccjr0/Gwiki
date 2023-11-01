@@ -1,5 +1,3 @@
-= METAL GEAR SOLID V =
-
 * Porta potties and dumpsters can be used to hide corpses/yourself
 * Enemy guards change shift according to day/night cycle
 * Extraction objectives

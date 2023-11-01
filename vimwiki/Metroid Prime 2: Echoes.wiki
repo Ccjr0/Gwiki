@@ -1,5 +1,3 @@
-= METROID PRIME 2: ECHOES =
-
 * Scan fallen GF soldiers to obtain their personal lore log
 * Scan to operate crane to lift obstructing crate early game, crate goes to a seperate nearby area via cable, in which you will have to shoot it back down to climb & proceed
 * Central macro-area (Temple grounds) acts as a primary hub with four discinct sectors leading to their respective macro-areas

@@ -12,13 +12,15 @@
 === Micro-areas ===
 * Small areas within areas.
 
-=== Topographic Intersection ===
+=== Intersection ===
 
-=== Topographic Grid ===
+=== Grid ===
 
-=== Topographic Reciprocation ===
+=== Reciprocation ===
 
-=== Topographic Consecutive Cover ===
+=== Consecutive Cover ===
+
+=== Shrouding ===
 
 === Multi-point Access ===
 
@@ -30,7 +32,7 @@
 
 === Hub and Spoke Model ===
 
-=== Web Model/Webbing ===
+=== Web Model ===
 
 === Double Loop Model ===
 
@@ -46,16 +48,20 @@
 
 === Inverse Forking ===
 
-=== One-shot Scenario ===
-
 ----
 
 == COMBAT ==
+=== Area of Effect ===
+* Damage that is dealt over a wide area of space in an intance, typically a circular area.
+
 === Cluster Enemies ===
 * Enemies that attack in very high numbers that are otherwise typically very weak on their own.
 
+=== Mobs ===
+* One or more group(s) of hostile enemies. Typically distinguished as "mobs" in boss/miniboss fights.
+
 === Minions ===
-* One or more enemies that fight alongside a distinguishably stronger or prime opponent. Typically used in boss/miniboss fights.
+* One or more group(s) of enemies that fight alongside a distinguishably stronger or primary opponent. Typically used in boss/miniboss fights.
 
 === Multi-Stage Fight ===
 
@@ -79,32 +85,39 @@
 
 === Timed Weakness ===
 
-=== Cat and Mouse Scenario ===
+=== Cat and Mouse ===
 
-=== King Kong Scenario ===
+=== King Kong ===
 
-=== Man VS Machine Scenario ===
+=== Mano-E-Mano ===
 
-=== Ring-out ===
+=== Man VS Machine ===
 
-=== Area of Effect ===
+=== Ring Out ===
 
 === Tick Damage ===
+* Damage that is dealt over a set frequency or "ticks". Typically only small damage dealt per tick.
+
+=== Incapacitation ===
+* Describes a mechanic that disables or nullifies a receptor or hazard temporarily or indefinitely without necessarily [[#Termination|killing]] it.
+
+=== Termination ===
+* Describes a mechanic that disables or nullifies a receptor or hazard permanently. Usually defined in a context where [[#Incapacitation|Incapacitation]] is also an option.
 
 ----
 
 == GAMEPLAY ==
-=== Mechanical Hinting ===
-* A gameplay situation where the player is hinted information directly associated with gameplay mechanics.
-
 === Audible Hinting ===
-* A gameplay situation where the player is hinted information by audible means.
+* A gameplay situation where the player is hinted information through audible queues.
 
 === Visual Hinting ===
 * A gameplay situation where the player is hinted information through visual queues.
 
+=== Mechanical Hinting ===
+* A gameplay situation where the player is hinted information directly associated with gameplay mechanics that can be conveyed either audibly, visually, or by other means. Not to be confused with either [[#Audible Hinting|Audible Hinting]] or [[#Visual Hinting|Visual Hinting]].
+
 === Expositional Hinting ===
-* A gameplay situation where the player is hinted information by systematic explaination.
+* A gameplay situation where the player is hinted or explicated information by systematic explaination.
 
 === Solve to Proceed ===
 * A gameplay situation where the player is either forced or incentivized to solve a puzzle of some kind to proceed further or achieve an outcome.
@@ -112,13 +125,13 @@
 === Activate to Proceed ===
 * A gameplay situation where the player is either forced or incentivized to activate something in order to proceed further or achieve an outcome.
 
-===== Search and Activate to Proceed =====
+=== Search and Activate to Proceed ===
 * A gameplay situation where the player is either forced or incentivized to search for whatever needs to be activated in order to proceed further or achieve an outcome.
 
 === Shoot Targets to Proceed ===
 * A gameplay situation where the player is either forced or incentivized to shoot a set number of targets to proceed further or achieve an outcome.
 
-==== Shoot and Climb to Proceed ====
+=== Shoot and Climb to Proceed ===
 * A gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
 
 === Yield to Proceed ===
@@ -129,8 +142,8 @@
 
 === Basic Mechanical Tutorial ===
 
-==== Target Practice ====
-* A gameplay situation where the player is forced or incentivized to shoot or attack targets for means of practice. Similar to [[#Taste Testing]] but at a more elementary level.
+=== Target Practice ===
+* A gameplay situation where the player is forced or incentivized to shoot or attack targets for means of practice. Similar to [[#Taste Testing|taste testing]] but at a more elementary level.
 
 === Taste Testing ===
 * A gameplay situation where either a player is encouraged or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
@@ -176,11 +189,14 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 === Environmental Puzzle ===
 
 === Inventory Puzzle ===
+* Describes a puzzle where the player must use something relating to their inventory or an item(s) in their inventory to solve.
 
 === Mechanical Puzzle ===
 
 === Sokoban Puzzle ===
 * Describes a puzzle where the player must push an object(s) into the correct spot(s). For example, these typically include - but are not limited to - pushing a block to hold a switch. The block could even lose friction when pushing it, requiring the player to find a correct route using stops or pegs.
+
+=== Systematic Gatekeeping ===
 
 === Extrinsic Gatekeeping ===
 
@@ -188,13 +204,23 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 
 === Opportunity Cost ===
 
-=== Visual Cloaking ===
+=== Button Masher ===
+
+=== Cloaking ===
 * AKA "Visual Filtering" describes things that only appear or "activate" through select "filters" (e.g. X-ray specs unveiling certain items).
 
 === Deflection ===
-* Loosely describes a gameplay scenario where the player bumps around until they find where to go.
+* Loosely describes a gameplay scenario where the player bumps around until they find where to go by process of elimination.
+
+=== Mechanical Realignment ===
 
 === Infinite Loop Exploit ===
+
+=== One-shot ===
+
+=== Curveball ===
+
+=== Road Less Traveled ===
 
 ----
 
@@ -205,36 +231,42 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 ----
 
 == PRESENTATION ==
-=== Graphical GFX ===
-The kinds of visual effects that grab your attention or provide ambiance, sometimes taking advantage of certain hardware/software traits.
+=== Graphical FX ===
+(GFX) The kinds of visual effects that grab your attention or provide ambiance, sometimes taking advantage of certain hardware/software traits.
 
+=== Easter Eggs ===
 ----
 
 == STEALTH ==
 === Hiding Spots ===
+* Self explanitory.
 
 === Blindspots ===
-* Blindspots are are defined as
+* Ditto.
 
 === Breadcrumbs ===
-* What you leave behind either after doing an action (e.g. cartridge casings), or passively such as walking (e.g. footsteps).
+* What you leave behind either after performing an action (e.g. cartridge casings), or passively such as walking (e.g. footsteps).
 
 === Sound Emitters ===
-* Bodies that emit sound (e.g. gunshots/noisy floors) - typically in a context where that sound can be detected by other sound-sensitive bodies.
+* Bodies that emit sound (e.g. gunshots, noisy floors) - typically in a context where that sound can be detected by other [[#Sound Receptors|sound-sensitive bodies]].
 
 === Sound Suppressors ===
-* Bodies or mechanics that can suppress sounds (e.g. silencers/sound suppressing floors) - typically in a context where that sound can be detected by other sound-sensitive bodies.
+* Bodies or mechanics that can suppress sounds (e.g. silencers, sound suppressing floors) - typically in a context where that sound can be detected by other [[#Sound Receptors|sound-sensitive bodies]].
 
 === Visual Receptors ===
-* Bodies or mechanics that can perceive strictly visual information (e.g. video cameras).
+* Bodies or mechanics that can perceive strictly/primarily visual information (e.g. video cameras, watchguards).
 
 === Sound Receptors ===
-* Bodies or mechanics that can perceive strictly audible information (e.g. microphones).
-
-=== Dynamic Receptors ===
-* Bodies or mechanics that have a distinguishable ability to fluctuate their perceptibility (e.g. sleeping guards).
+* Bodies or mechanics that can perceive strictly/primarily audible information (e.g. microphones).
 
 === Special Receptors ===
+* Bodies or mechanics that can perceive strictly/primarily auxiliary information or information alternative to the main two- being audible and visual.
+
+=== Super Receptors ===
+* Bodies or mechanics that have a distinguishable ability to perceive several forms of information (e.g. humans, bloodhounds).
+
+=== Dynamic Receptors ===
+* Bodies or mechanics that have a distinguishable ability to fluctuate their perceptibility (e.g. sleepy guards).
 
 === Fuzzy Detection ===
-
+* A mechanic that describes a buffer between being discovered and being hidden.
