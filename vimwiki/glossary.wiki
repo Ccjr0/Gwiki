@@ -68,6 +68,8 @@
 === Circle-strafing ===
 * A gameplay strategy in which the player strafes in a circular motion around a target to gain an advantage.
 
+=== Tracking ===
+
 === Exposed Weakspot ===
 * A weakspot directly or indirectly attached to a body that is more-or-less constantly exposed. (e.g. an enemy's head).
 
@@ -102,7 +104,7 @@
 * Describes a mechanic that disables or nullifies a receptor or hazard temporarily or indefinitely without necessarily [[#Termination|killing]] it.
 
 === Termination ===
-* Describes a mechanic that disables or nullifies a receptor or hazard permanently. Usually defined in a context where [[#Incapacitation|Incapacitation]] is also an option.
+* Describes a mechanic that disables or nullifies a receptor or hazard permanently. Usually defined in a context where [[#Incapacitation|incapacitation]] is also an option.
 
 ----
 

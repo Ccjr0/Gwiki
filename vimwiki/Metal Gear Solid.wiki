@@ -11,16 +11,13 @@
 * Enemies can occasionally drop ammo/rations when killed.
 * Rations are a consumable item used for health restoration. They [[restore a set amount of life when consumed]]. They [[spawn naturally in pre-set spots]] on the map, and can be respawned and [[farmed]] by moving far enough away from the area and coming back. They can be held in your immediate inventory to be used automatically should your life drop below the minimum threshold.
 * [[non-regeneratory HP]], [[natural health spawns]], [[passive item activation]]
-%% * Optional chaff and stun grenade pickups can be achieved by getting past the cameras/spotlights to help infiltrate the building.
 * [[glossary#Incapacitation|Chaff grenades]] temporarily disable certain electronics, including security cameras as well as your own radar system.
 * Security cameras have [[glossary#Blindspots|blindspots]] to take advantage of.
-%% * Both tanks in the tank hangar can be [[glossary#Hiding Spots|crawled under]] to conceal yourself.
 * Numbered doors occupy the entirety of the complex, [[glossary#Systematic Gatekeeping|gatekeeping]] the player from entering certain rooms at certain points in the game.
 * Completing boss fights permanently raises health bar and ammo carrying capacity.
 * To progress further at some point, the player must [[glossary#Out-of-box Option|look on the back of the game CD case]] to speak with Meryl to proceed.
 * Claymore mines can be crawled upon to be picked up, or can be detected with an optional [[glossary#Cloaking|mine detector]] that can be found in the tank hanger once you have a level 2 card.
 * Backtrack to the armory to grab the PSG-1 sniper rifle to face Sniper Wolf.
-* Interrogation room involves the player mashing O quickly for a period of time to maintain your dropping health to stay alive, or give in with SELECT and alter the final ending.
 * In the prison, the player must wait for the guard to use the bathroom to either crawl under the bed, or fake blood with ketchup in order for the guard to open the door to investigate upon returning.
 * Communications tower section involves the player running up a massive spiraling staircase reacting to and shooting guards coming from either direction.
 * Extreme difficulty removes natural rations from the game, encouraging the player to kill guards so that they can drop them, adding a whole new way or idea of playing the game. [[glossary#Mechanical Realignment|mechanical realignment]]
@@ -47,7 +44,7 @@
 
 === Hangar ===
 * Hangar can be [[glossary#Multi-point Access|entered from two ways]] depending on how you finish the Heliport. If you enter from the top side, you will be brought to the ceiling ventilation shaft where you will end up being [[glossary#Road Less Traveled|rewarded a ration]], and brought down a ladder and start on the second floor where the floor is covered with a [[glossary#Sound Emitters|noisy metal plating]]. You can find chaff grenades and the optional thermal goggles within a cargo room with a security camera.
-* If you enter from the bottom side, you will follow the rats to the bottom of the hangar and exit on the east side of the bottom floor of the hanger. The hangar features [[glossary#Hiding Spots|two large tanks]] that can be hid behind (and under) extra ammo for SOCOM is hidden under the main staircase, as well as optional thermal goggles and chaff grenades on second floor. Optionally the player can backtrack once getting level 1 card to retrieve the cardboard box A and socom supressor from previously locked doors in the up and downstairs respectively.
+* If you enter from the bottom side, you will follow the rats to the bottom of the hangar and exit on the east side of the bottom floor of the hanger. The hangar features [[glossary#Hiding Spots|two large tanks]] that can be hid behind (and under), extra ammo for SOCOM is hidden under the main staircase, as well as optional thermal goggles and chaff grenades on second floor. Optionally the player can backtrack once getting level 1 card to retrieve the cardboard box A and socom supressor from previously locked doors in the up and downstairs respectively.
 * Tank hanger main exit requires the player to dodge a series of vertical moving [[glossary#Yield to Proceed|infrared lasers]] to avoid being locked in with gas. The lasers can be [[glossary#Cloaking|easily revealed with thermal goggles]] or by [[glossary#Out-of-box Option|smoking]], but strangely enough they can also be barely seen by tne naked eye.
 
 === Cell ===
@@ -100,8 +97,8 @@
 === Sniper Wolf I ===
 * Sniper Wolf fight involves the player engaging a sniper duel down a very long corridor. You will [[glossary#Ring Out|automatically be shot]] if you cross the boundary line by going to far forward, sending you back to the arena. Peering down the corridor by hugging the wall and waiting for an opening or [[baiting out the shot]] by briefly exposing yourself and reacting to the laser lets you position and take aim. The boss runs between columns to change positions and hide in and out of cover. Taking the optional diazepam will temporarily stop body tremors. On EX difficulty, you are are incentivized to [[glossary#Opportunity Cost|not take more diazepam than necessary]], because you won't find refills on the way to the next fight with Wolf.
 
-=== Interogation ===
-* After
+=== Interrogation ===
+* Interrogation room involves the player mashing O quickly for a period of time to maintain your dropping health to stay alive, or give in with SELECT and alter the final ending.
 
 === Soldiers II ===
 * The first communications tower begins with a [[glossary#Scripted Event|scripted event]] where the player is caught by a video camera, and guards come rushing in from the doorway they came in. A rope on the ground is meant to be picked up at this time for progression after this segment. There are optionally some [[glossary#Supplements|ammo pickups]] around the base of the stairwell that can be picked up during or after the fight is over, as well as the rope. This fight involves the player climbing the staircase and dealing with guards coming from both sides. You are meant to react to guards coming from the front by shooting them quickly with the FAMAS, and the guards behind you can be dealt with in the same way, but you can also spam [[glossary#Out-of-box Option|HE grenades and claymores]] to kill them as they come up. CQC is also effective at knocking down the guards if they get too close and running away from them, but it's optimal if they don't get the chance to come that close. [[glossary#Out-of-box Option|Stun grenades]] are also very effective in this fight, as they [[glossary#Incapacitation|temporarily incapacitate]] guards coming from both sides.
@@ -110,12 +107,12 @@
 * Hind D fight involves the player shooting a [[glossary#Man VS Machine|helicopter]] with a stinger missile while the helicopter [[glossary#King Kong|revolves around the pillar you are on]]. The player must take cover behind cover while the chopper fires its gun, then come out and strike. The helicopter can dive below to reposition, then rise back up to attack while the player must use their eyes [[glossary#Radar System|(Soliton Radar)]], and ears to keep track of its location.
 
 === Sniper Wolf II ===
-* The second sniper wolf fight takes place in a dark snowfield where visibility is compromised. The sniper scope in tandem with the thermal goggles works well to easily spot wolf behind cover. This fight is mechanically the same as the first one, but is different in that the only effective place to take cover is a hill on the right side of the arena. The [[glossary#Out-of-box Option|nikita launcher]] is a viable weapon in this fight since the boss is on the same ground level, and the stinger launcher can be used to track the boss's location.
+* The second sniper wolf fight takes place in a dark snowfield where visibility is compromised. The sniper scope in tandem with the thermal goggles works well to easily spot wolf behind cover. This fight is mechanically the same as the first one, but is different in that the only effective place to take cover is a hill on the right side of the arena. The [[glossary#Out-of-box Option|nikita launcher]] is a viable weapon in this fight since the boss is on the same ground level, and the stinger launcher can be used to [[glossary#Tracking|track the boss's location]].
 
 === Vulkan Raven II ===
 * Vulcan Raven fight involves a game of [[glossary#Cat and Mouse|cat and mouse]] between a [[glossary#Grid|large grid of containers]], where the player needs to take down raven while avoiding being shot down in his massive line of sight between the corridors of the containers. Raven gets faster as his health lowers and can damage certain containers, [[glossary#Environmental Transformation|blocking access between them]] as the fight progresses. Explosive rockets are viable, but placed explosives are most efficient. Your rations will freeze if not kept warm by keeping them equipped but can be warmed again by [[glossary#Out-of-box Option|holding them]] out in your main slot.
 
-=== Metal Gear ===
+=== Metal Gear REX ===
 * Metal Gear fight involves the player avoiding the boss's the primary attacks while shooting first its radome [[glossary#Exposed Weakspot|weak point]], then cockpit. Metal gear has 3 ranged attacks: homing rockets, gatling gun, and laser- each with [[their own respective method and range of avoiding them]]. Starting midrange and moving toward MG while anticipating the 3 homing missiles firing (or watching the camera to determine which side they're coming from) lets you avoid them, but can set you up for a following laser attack for big damage if you don't move away quickly. The tracking gatling gun can be avoided by maintaining side movement.
 
 === Liquid Snake I ===
