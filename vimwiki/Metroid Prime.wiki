@@ -1,4 +1,9 @@
 == GENERAL/MISC ==
+* Optional lore expositions and information are gathered with the scan visor throughout the entire game. A logbook keeps track of important data you've collected and can be read anytime.
+* Health and ammo drop from crates and enemies (as needed by the player's current health/ammo) throughout the game.
+* Boss health bars appear upon scanning them.
+* After shooting very quickly for an extended time, Samus's arm-cannon will [[glossary#Graphical FX|emit heat-waves]].
+
 * Basic [[glossary#Target Practice|target practice]] for [[glossary#Shoot Targets to Proceed|gate progression]] early game.
 * [[glossary#Aesthetic Presentation|Atmospheric visual flare]] such as visor condensation and rain droplets early game.
 * Scan certain panels to [[glossary#Activate to Proceed|unlock doors/elevators and activate objects.]]
@@ -61,21 +66,87 @@
 ----
 
 == AREAS ==
-=== Ruined Courtyard ===
+
+=== PIRATE FRIGATE ===
+* The pirate frigate serves as a temporary tutorial area to get the player accustomed to the game's controls and mechanics. This area is also "reused" later in a completely different way. The game provides [[expositional hints]] by telling them how to activate and use certain mechanics and weapons such as scan visor, morph ball, missiles, charge beam etc. and features a basic boss fight and [[escape sequence]] at the end before revoking several of the player's abilities that they had learned to use.
+
+==== Exterior Docking Hangar ====
+* The game begins with an open platform with the player facing two columns with [[glossary#Shoot Targets to Proceed|buttons that must be shot]] to proceed. The perimeter of the platform is blocked off with what are essentially [[glossary#Invisible Walls|invisible walls]]  so that the player can move freely in the tutorial area without falling. These barriers glow when touched or shot to provide more [[glossary#Immersive Feedback|immersive feedback]] than if they were to merely exist without being seen. Using the scan visor to [[glossary#Search and Activate to Proceed|find and activate]] certain [[glossary#Cloaking|hidden targets]] allows the player to aim and shoot [[glossary#Target Practice|higher targets]] to deactivate the force field to proceed. From here, standard doors can be opened by shooting them.
+
+==== Air Lock ====
+* Upon entering, mist creates [[glossary#Graphical FX|visor condensation]] for added effect, and well as floating parasites in zero-gravity that explode when shot- [[glossary#Graphical FX|spraying blood]] on the player's visor.
+
+==== Emergency Evacuation Area ====
+* This area presents low level enemies that are non-threatening to [[glossary#Target Practice|practice shooting]].
+
+==== Deck Alpha Umbilical Hall ====
+* A rubble blockage requires a [[glossary#Shoot Targets to Proceed|charge beam shot]] to blow it open and proceed.
+
+==== Map Facility ====
+* A cutscene plays showing parasites [[glossary#Visual Hinting|scampering into a hole]] and into the map room, implying that the morph ball can (optionally) be used to acquire a map of the area.
+
+==== Connection Elevator to Deck Beta ====
+* Here, elevators are shown how they work. First, [[glossary#Search and Activate to Proceed|find the node]] to scan its respective elevator, and [[glossary#Activate to Proceed|step into the hologram]] to activate the elevator.
+
+==== Deck Beta Conduit Hall ====
+* A blockage fills the room with a [[glossary#Visual Hinting|small hole]] to fit a morph ball inside, but an electrical hazard also guards the hole. [[Yield to Proceed|Timing is needed]] to get past it safely.
+
+==== Biotech Research Area 1 ====
+* [[glossary#Taste Testing|Crippled enemies]] patrol the room, but also a large ventilation shaft cover [[glossary#Foreshadowing|appears to be unstable]], but doesn't do anything at the moment.
+* Upon returning to this area during the escape sequence, a massive explosion allows for jumping atop broken rubble to climb back up to what was a covered ventilation shaft, but is now accessible.
+
+==== Biohazard Containment ====
+* Security defense turrets guard the halls of this area and are hostile. The player is instructed to optionally use missiles, but [[glossary#Out-of-box Option|scanning a hidden nearby node]] will deactivate the nearby turret, rendering it harmless. Nearby tanks hold some basic [[glossary#Foreshadowing|enemies and creatures]] of Tallon IV to be examined, as well as a cell with a violent, shaking door with some creature inside, merely to distract and interest of the player.
+
+==== Reactor Core Entrance ====
+* Following a cargo lift with an encounter with a fully capable enemy, and a cargo door with morph ball needed to activate and open, the reactor core entrance features a [[|save room]] before a fight with [[#Parasite Queen|the boss]]. Following the defeat over the boss begins the escape sequence.
+
+==== Ventilation Shaft ====
+* Following the aforementioned ventilation opening allows full access to the vent shaft. Massive [[glossary#Cluster Enemies|clusters of parasites]] scurry in panic, and are mildly harmful such large numbers. [[glossary#Graphical FX|Heat vapor]] can also condensate on the visor. A room with a massive sliding piston requires the player to move along with the piston and enter the side door before the piston strokes again.
+
+==== Biotech Research Area 2 ====
+* Meta Ridley makes his appearance in a cutscene, and the player must [[#glossaryTaste Testing|use the grapple beam]] to fly over the pool to proceed.
+
+==== Connection Elevator to Deck Alpha ====
+* Upon scanning a panel to deactivate a defense turret, and avoiding another [[glossary#Yield to Proceed|electrical hazard]], a cutscene plays after activating the elevator that removes most of your suit augmentations and abilities. Upon exiting back through the air lock and into the docking hangar completes this area.
+
+
+=== TALLON IV ===
+* Tallon IV is the first "true" macro-area of the game after the tutorial sequence, and serves somewhat as a weak-hubworld, as it is the area of origin, and offers paths to every other macro-area in the main game, but isn't structured too strongly or differently from other macro-areas that are less hub-like.
+
+==== Landing Site ====
+* The game now starts off with having landed on Tallon IV, and immediately the player is presented with several doors to go through. The path to the elevator to Chozo Ruins being the intended way to progression.
+* The pond nearby the ship can be jumped into and is full of fish, and the raindrops from above make [[glossary#Graphical FX|droplets on your visor]] when you look up at them.
+
+==== Tallon Canyon ====
+
+
+=== CHOZO RUINS ===
+
+==== Main Plaza ====
+
+
+
+==== Ruined Courtyard ====
 * Ruined Courtyard features a [[glossary#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph-ball bomb slots, and snowy platforms mixed with an [[glossary#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level, a morph-ball tunnel containing an energy tank is [[glossary#Visual Hinting|hinted at]] with a glowing rim. Once grabbed, the timed action and transformation sequences must be done over again to reach the top and proceed.
 
-=== Tower of Light ===
+==== Tower of Light ====
 * Tower of light is a very tall, cylindrical room featuring sets of platforms reaching to the top. On four sections along the circumference of the cylindrical room there are [[stress points]] indicating that they can be damaged. The stress points can be destroyed with 3 missiles each for a total of 12 missiles minimum for each round. Upon dispatching the stress points, the room [[glossary#Environmental Transformation|truncates itself from the middle]], thereby lowering the upper part of the room, where the player repeats the process twice more, with increased challenge coming from moving [[missile reflecting enemies]] along the stress points and [[sun rays obscuring your vision]]. [[glossary#Quantitative Gatekeeping|36 missiles are required]] to complete the room in one go. [[glossary#Replenishment Mob|Replenishment mobs]] are used to assist with keeping enough missiles.
 
-=== Observatory Access ===
+=== PHENDRANA DRIFTS ===
+
+==== Observatory Access ====
 * Upon entering from a vertical door, the player is greeted with stacked crates with turrets behind them. If activated by proximity, the turrets will [[blast open the crates]] and shoot the player.
 
-=== Hall of the Elders ===
+==== Hall of the Elders ====
 * A pseudo-miniboss fight always begins in this room, but it's
 
 ----
 
 == BOSSES ==
+
+=== Parasite Queen ===
+
 === Hive Mecha ===
 * Hive-mecha fight requires killing increasingly present mobile enemies and tracking them with [[radar]] and [[glossary#Audible Hinting|audio queues]] to expose the weak-point of stationary boss. Rinse and repeat three times to win.
 

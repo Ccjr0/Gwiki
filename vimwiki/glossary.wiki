@@ -48,6 +48,9 @@
 
 === Inverse Forking ===
 
+=== Invisible Walls ===
+* Self explanitory, typically used to imply to the player that a certain area/spot is inaccessible
+
 ----
 
 == COMBAT ==
@@ -224,6 +227,10 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 
 === Road Less Traveled ===
 
+=== Masher ===
+
+=== QTE ===
+
 ----
 
 == LORE ==
@@ -235,6 +242,8 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 == PRESENTATION ==
 === Graphical FX ===
 (GFX) The kinds of visual effects that grab your attention or provide ambiance, sometimes taking advantage of certain hardware/software traits.
+
+=== Immersive Feedback ===
 
 === Easter Eggs ===
 ----
@@ -272,3 +281,5 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 
 === Fuzzy Detection ===
 * A mechanic that describes a buffer between being discovered and being hidden.
+
+=== Alert ===

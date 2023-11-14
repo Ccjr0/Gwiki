@@ -72,6 +72,7 @@
 * In the caves past the storage building, the entrance to the comm tower can be [[glossary#Visual Hinting|seen through cracks]] in the structure, implying where to end up when going around. The area is guarded by [[glossary#Super Receptors|wolves]].
 
 === Snowfield ===
+* Snowfield features a
 
 === Blast furnace ===
 * Blast furnace features a moving crane arm moving along an edge that the player [[glossary#Yield to Proceed|must either crouch/sidle past]] or [[glossary#Out-of-box Option|destroy with a missile]], an [[glossary#Unlockable Shortcuts|unlockable shortcut-elevator]] at the end of the level, and a secret room with steam geysers of varying heights [[glossary#Yield to Proceed|(Yield to Proceed)]]
@@ -98,7 +99,7 @@
 * Sniper Wolf fight involves the player engaging a sniper duel down a very long corridor. You will [[glossary#Ring Out|automatically be shot]] if you cross the boundary line by going to far forward, sending you back to the arena. Peering down the corridor by hugging the wall and waiting for an opening or [[baiting out the shot]] by briefly exposing yourself and reacting to the laser lets you position and take aim. The boss runs between columns to change positions and hide in and out of cover. Taking the optional diazepam will temporarily stop body tremors. On EX difficulty, you are are incentivized to [[glossary#Opportunity Cost|not take more diazepam than necessary]], because you won't find refills on the way to the next fight with Wolf.
 
 === Interrogation ===
-* Interrogation room involves the player mashing O quickly for a period of time to maintain your dropping health to stay alive, or give in with SELECT and alter the final ending.
+* Interrogation room involves the player [[glossary#Masher|mashing O quickly]] for a period of time to maintain your dropping health to stay alive, or give in with SELECT and alter the final ending.
 
 === Soldiers II ===
 * The first communications tower begins with a [[glossary#Scripted Event|scripted event]] where the player is caught by a video camera, and guards come rushing in from the doorway they came in. A rope on the ground is meant to be picked up at this time for progression after this segment. There are optionally some [[glossary#Supplements|ammo pickups]] around the base of the stairwell that can be picked up during or after the fight is over, as well as the rope. This fight involves the player climbing the staircase and dealing with guards coming from both sides. You are meant to react to guards coming from the front by shooting them quickly with the FAMAS, and the guards behind you can be dealt with in the same way, but you can also spam [[glossary#Out-of-box Option|HE grenades and claymores]] to kill them as they come up. CQC is also effective at knocking down the guards if they get too close and running away from them, but it's optimal if they don't get the chance to come that close. [[glossary#Out-of-box Option|Stun grenades]] are also very effective in this fight, as they [[glossary#Incapacitation|temporarily incapacitate]] guards coming from both sides.
@@ -112,7 +113,7 @@
 === Vulkan Raven II ===
 * Vulcan Raven fight involves a game of [[glossary#Cat and Mouse|cat and mouse]] between a [[glossary#Grid|large grid of containers]], where the player needs to take down raven while avoiding being shot down in his massive line of sight between the corridors of the containers. Raven gets faster as his health lowers and can damage certain containers, [[glossary#Environmental Transformation|blocking access between them]] as the fight progresses. Explosive rockets are viable, but placed explosives are most efficient. Your rations will freeze if not kept warm by keeping them equipped but can be warmed again by [[glossary#Out-of-box Option|holding them]] out in your main slot.
 
-=== Metal Gear REX ===
+=== Metal Gear ===
 * Metal Gear fight involves the player avoiding the boss's the primary attacks while shooting first its radome [[glossary#Exposed Weakspot|weak point]], then cockpit. Metal gear has 3 ranged attacks: homing rockets, gatling gun, and laser- each with [[their own respective method and range of avoiding them]]. Starting midrange and moving toward MG while anticipating the 3 homing missiles firing (or watching the camera to determine which side they're coming from) lets you avoid them, but can set you up for a following laser attack for big damage if you don't move away quickly. The tracking gatling gun can be avoided by maintaining side movement.
 
 === Liquid Snake I ===
