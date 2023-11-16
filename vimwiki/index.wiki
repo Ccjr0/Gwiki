@@ -3,18 +3,20 @@
 == Games ==
 [[Dark Souls III]]
 [[Final Fantasy VIII]]
-[[Metal Gear Solid]]
+
+[[Metal Gear Solid/Metal Gear Solid|Metal Gear Solid]]
 [[Metal Gear Solid 2]]
 [[Metal Gear Solid 3]]
 [[Metal Gear Solid V]]
-[[Metroid Prime]]
-[[Metroid Prime 2: Echoes]]
-[[TLOZ Ocarina of Time]]
-[[Resident Evil 4]]
-[[Super Mario 64]]
+
+[[Metroid Prime/Metroid Prime|Metroid Prime]]
+[[Metroid Prime 2/Metroid Prime 2|Metroid Prime 2]]
 [[Super Metroid]]
 
+[[TLOZ Ocarina of Time/TLOZ Ocarina of Time|TLOZ Ocarina of Time]]
+[[Resident Evil 4/Resident Evil 4|Resident Evil 4]]
+[[Super Mario 64]]
+
 == Info ==
-[[glossary]]
-[[aggregate]]
+[[reference|Reference]]
 

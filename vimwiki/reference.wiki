@@ -1,16 +1,16 @@
-= GLOSSARY =
+= REFERENCE =
 
 ----
 
 == CARTOGRAPHY ==
-=== Macro-areas ===
-* Large sectors consisting of many areas.
+=== Macro-area ===
+* A distinguishably large sector consisting of more than one area.
 
-=== Areas ===
-* Areas within macro-areas.
+=== Area ===
+* An area within macro-areas.
 
-=== Micro-areas ===
-* Small areas within areas.
+=== Micro-area ===
+* A small sector within an area.
 
 === Intersection ===
 
@@ -50,6 +50,8 @@
 
 === Invisible Walls ===
 * Self explanitory, typically used to imply to the player that a certain area/spot is inaccessible
+
+=== Streamlining ===
 
 ----
 
@@ -98,7 +100,7 @@
 
 === Man VS Machine ===
 
-=== Ring Out ===
+=== Ring-out ===
 
 === Tick Damage ===
 * Damage that is dealt over a set frequency or "ticks". Typically only small damage dealt per tick.
@@ -107,7 +109,7 @@
 * Describes a mechanic that disables or nullifies a receptor or hazard temporarily or indefinitely without necessarily [[#Termination|killing]] it.
 
 === Termination ===
-* Describes a mechanic that disables or nullifies a receptor or hazard permanently. Usually defined in a context where [[#Incapacitation|incapacitation]] is also an option.
+* Describes a mechanic that disables or nullifies a receptor or hazard permanently. Usually defined in a context where it can have notable consequences, or where [[#Incapacitation|incapacitation]] is also an option.
 
 ----
 

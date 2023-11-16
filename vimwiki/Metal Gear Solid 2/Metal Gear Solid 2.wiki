@@ -1,17 +1,21 @@
+= METAL GEAR SOLID 2 =
+
+----
+
 == GENERAL/MISC ==
 * Guards have invisible vision cones that can detect you when you are on a different level above or below them. When you activate this, it will trigger fuzzy detection.
-* Guards include [[glossary#Fuzzy Detection|visual fuzzy detection]] that extends slightly outside their main vision cone. When triggered, they will pathfind through the shortest path to investigate the area you were suspected of being when it triggered. They will then return to their normal post if undisturbed.
+* Guards include [[reference#Fuzzy Detection|visual fuzzy detection]] that extends slightly outside their main vision cone. When triggered, they will pathfind through the shortest path to investigate the area you were suspected of being when it triggered. They will then return to their normal post if undisturbed.
 * Picking up and dropping incapacitated guards can sometimes drop ammo.
 * 3-hit combo no longer has extended hitbox from the first game.
 * Pressing the action button while hugging against a low enough surface can enable you to climb on top of the object. Doing the same on a railing enables you to hang and shimmy on it.
-* Walking in rain or in puddles followed by walking on a dry surface will result in [[glossary#Breadcrumbs|wet footsteps being left behind]], and guards can notice and follow them.
+* Walking in rain or in puddles followed by walking on a dry surface will result in [[reference#Breadcrumbs|wet footsteps being left behind]], and guards can notice and follow them.
 * Lockers can be opened and used to be hid in, or to hide another incapacitated/dead guard. Locked doors can also be punched/shot down to reveal contents.
 * Upon being spotted, the enemy will attempt to radio-in for backup by hiding, or by melee attacking if youre too close. If his queue finishes, the guards will enter 'alert' phase where radar is jammed and guards are aware of your presence. Attack team will be called in as well, and guards will recieve backup if they are killed in this phase, and will previously dead guards will be replaced. Once evaded, the guards will enter 'clearing' mode where guards will clear your area of most hiding spots. Once cleared, the guards will enter 'caution' mode where attack team leaves, and guards are on high alert.
 * Attack team guards can have riot shields and shotguns.
 * The effects of a tranquilizer round are highly dependent on where on the body it is shot- the head having the fastest effect.
 * If a guard is tranquilized next to a nearby guard, that guard will notice and call in for the attack team, triggering 'caution' mode. If an already tranquilized guard is noticed by another guard, that guard will walk over to him and simply wake him up. If a tranquilized guard wakes up on his own, he will simply go back on patrol. If a dead guard is found by another guard, that guard will call in for the attack team as well as a replacement for the dead guard, triggering 'caution' mode.
-* Depending on area and lighting, player and enemy models [[glossary#Breadcrumbs|give off shadows]], and can even be seen by enemies.
-* [[glossary#Interactable Elements|Interactable elements]] include fire hydrants, steam ducts, light bulbs, wine glasses, electric bells, icecubes, bags of flour, glass panes, pots and pans.
+* Depending on area and lighting, player and enemy models [[reference#Breadcrumbs|give off shadows]], and can even be seen by enemies.
+* [[reference#Interactable Elements|Interactable elements]] include fire hydrants, steam ducts, light bulbs, wine glasses, electric bells, icecubes, bags of flour, glass panes, pots and pans.
 * Playing through "Tanker" on hard locks certain doors to access the ship, forcing the player to go through a different (longer) path to reach the destination. In addition to generally more soldiers in certain areas throughout the game, hard mode can add more mission objectives such as a higher number of bombs to freeze in the "Plant" level.
 * Olga fight involves a handgun dual between several bits of cover for both the boss and the player as well as environmental elements the boss uses against the player, such as a bright spotlight and tarp being held down by bricks. The boss can also throw grenades behind cover she things the player is hiding behind.
 * Soldier fight is very similar in substance to the Olga fight but with less environmental variables, multiple enemies, and in a very tight, narrow corridor.

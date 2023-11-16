@@ -1,0 +1,142 @@
+= METAL GEAR SOLID =
+
+----
+
+== GENERAL/MISC ==
+* Briefing tapes serve as optional pre-game [[../reference#Expositional Lore|lore exposition]].
+* Soliton [[Radar System]] features player and enemy FOV cones, radar blips, and topography.
+* Hugging a wall, edge of a wall or obstacle lets you peer down or around you to get a [[../reference#Visual Advantage|view of surroundings]] relating to the wall.
+* Guards have set routines like in previous titles.
+* Walking on puddles [[../reference#Sound Emitters|emit sound]], crawling on them [[../reference#Sound Suppressors|suppresses the sound]]. Nearby guards can [[../reference#Mechanical Hinting|notice and investigate]] the sounds.
+* [[../reference#Breadcrumbs|Footprints]] are left in the snow when walked on, and guards can notice and follow them.
+* 3-hit combo melee attack starts with two quick punches and a kick with an extended hitbox that knocks enemies down. Hitting the same enemy enough will [[../reference#Incapacitation|temporarily immobilize them]].
+* Choke hold lets snake [[../reference#Incapacitation|knock out an enemy]] by holding down or [[../reference#Termination|kill an enemy]] by tapping.
+* Enemies' bodies disappear on death.
+* Enemies can occasionally drop ammo/rations when killed.
+* Rations are a consumable item used for health restoration. They [[restore a set amount of life when consumed]]. They [[spawn naturally in pre-set spots]] on the map, and can be respawned and [[farmed]] by moving far enough away from the area and coming back. They can be held in your immediate inventory to be used automatically should your life drop below the minimum threshold.
+* [[non-regeneratory HP]], [[natural health spawns]], [[passive item activation]]
+* [[../reference#Incapacitation|Chaff grenades]] temporarily disable certain electronics, including security cameras as well as your own radar system.
+* Security cameras have [[../reference#Blindspots|blindspots]] to take advantage of.
+* Numbered doors occupy the entirety of the complex, [[../reference#Systematic Gatekeeping|gatekeeping]] the player from entering certain rooms at certain points in the game.
+* Completing boss fights permanently raises health bar and ammo carrying capacity.
+* To progress further at some point, the player must [[../reference#Out-of-box Option|look on the back of the game CD case]] to speak with Meryl to proceed.
+* Claymore mines can be crawled upon to be picked up, or can be detected with an optional [[../reference#Cloaking|mine detector]] that can be found in the tank hanger once you have a level 2 card.
+* Backtrack to the armory to grab the PSG-1 sniper rifle to face Sniper Wolf.
+* In the prison, the player must wait for the guard to use the bathroom to either crawl under the bed, or fake blood with ketchup in order for the guard to open the door to investigate upon returning.
+* Communications tower section involves the player running up a massive spiraling staircase reacting to and shooting guards coming from either direction.
+* Extreme difficulty removes natural rations from the game, encouraging the player to kill guards so that they can drop them, adding a whole new way or idea of playing the game. [[../reference#Mechanical Realignment|mechanical realignment]]
+* Apparently, [[../reference#Out-of-box Option|cameras can be destroyed]] with the Stinger launcher and Nikita.
+* [[../reference#Easter Eggs|Ghosts of the developers]] are scattered around the whole complex, and can only bee seen with the photo camera.
+
+----
+
+== AREAS ==
+=== Dock ===
+* The Dock starts the game with the player being [[../reference#Shrouding|fully shrouded in cover]] by barrels and a pipe unit. To proceed, [[../reference#Basic Mechanical Tutorial|the player must crawl under the unit]] as [[../reference#Expositional Hinting|instructed]] by Col. Campbell. Optionally, [[../reference#Visual Hinting|a ration is visible underwater]] as soon as the game starts, and can be grabbed by going down the stairs and underwater to reach it. If the player opts for this, an [[../reference#Mechanical Hinting|02 meter will appear]], showing that snake can spend only a limited time underwater.
+* Once the player crawls past the pipe unit, a wall is revealed with a guard patrolling nearby in the main part of the room, where there are 4 large stacks of shipping crates in a [[../reference#Grid|square-grid pattern]]. Here, the player is encouraged to [[../reference#Yield to Proceed|hug the wall and wait]] for the guard to resume patrol.
+* A [[../reference#Sound Emitter|puddle]] is waiting to the right after going past the guard to trigger the [[../reference#Mechanical Hinting|guard's sense of sound]]. The player is forced to either move up, right, or if the player gets caught, optionally [[../reference#Out-of-box Option|jump off down into the water to escape]].
+* There is an identical pipe unit on the [[../reference/#Reciprocation|reciprocating side of the level]] with another ration behind it. This optionally could've been walked to in the very beginning [[../reference#Out-of-box-Option|across the pool]] as well. A [[../reference#Hiding Spots|forklift]] in the far northeast corner is good for hiding behind to [[../reference#Wait to Proceed|wait for the elevator to come down]] and sneak inside, and also has a ration behind it.
+
+=== Heliport ===
+* The Heliport has [[../reference#Two-point Exit|two points of exit]]- one ventilation opening in lower and one higher up the stairs, both on the far north end of the level. It also has moving [[../reference#Visual Receptors|spotlights]] along the helipad in the center that have a repeating pattern with different points of entry to bypass them and optionally a set of chaff grenades in the middle [[../reference#Yield to Proceed|if you can grab them]] as a reward for challenging the lights.
+* There is an optional [[../reference#Yield to Proceed|surveillance camera room]] on the west end of the level which features a [[../reference#Visual Receptors|swivelling camera]] with a [[../reference#Blind Spots|shipping crate and crevice]] as blind spots, and the room holds [[../reference|stun grenades]] as a reward.
+* Further up the level on the northwest side there is a ventilation opening to the next area with a [[../reference#Dynamic Receptors|sleeping guard]] in front of it as well as a [[../reference#Visual Receptors#|camera]].
+* In the far north there is a [[../reference#Hiding Spots|truck]] that can be used as cover (in, around, and under) and can even be climbed into to optionally receive a SOCOM pistol with limited ammo. The truck can also be hidden [[../reference#Hiding Spots|within and under]] to evade guards.
+* In the east there is a snowy area with [[../reference#Consecutive Cover|3 identical boxes in a straight line]] that can be used as cover from a patrolling guard. The guard can see the player's [[../reference#Breadcrumbs|footprints in the snow]] and [[../reference#Mechanical Hinting|follow them indefinitely]]- occasionally looking behind. There is also a [[../reference#Blind Spots|ditch]] to the left of this snowy area to [[../reference#Out-of-box Option|crawl past the guard completely]] into the north area with the truck. Behind the final box however there is a ration.
+* Following that in the northeast is an upward staircase guarded by a [[../reference#Visual Receptors|swivelling camera]] that can be bypassed through its [[../reference#Blindspots|blindspot]]. To emphasize the presence of said camera, a [[../reference#Scripted Event|scripted cutscene]] plays in either this instance or the previously mentioned instance of the camera room. Either cutscene is necessary to be triggered before leaving the level. [[../reference#Mechanical Minting|(Mechanical Hinting)]], [[../reference#Yield to Proceed|(Yield to Proceed)]]
+* Following the aforementioned staircase is the second level of the watch bridge in the far north section where the second ventilation opening is found, along with a guard patrolling back and forth along the bridge. On [[../reference#Reciprocation|either end of the bridge]], there are [[../reference#Hiding Spots|barriers]] to hide behind to wait out the patrolling guard and enter the upstairs ventilation.
+
+=== Hangar ===
+* Hangar can be [[../reference#Multi-point Access|entered from two ways]] depending on how you finish the Heliport. If you enter from the top side, you will be brought to the ceiling ventilation shaft where you will end up being [[../reference#Road Less Traveled|rewarded a ration]], and brought down a ladder and start on the second floor where the floor is covered with a [[../reference#Sound Emitters|noisy metal plating]]. You can find chaff grenades and the optional thermal goggles within a cargo room with a security camera.
+* If you enter from the bottom side, you will follow the rats to the bottom of the hangar and exit on the east side of the bottom floor of the hanger. The hangar features [[../reference#Hiding Spots|two large tanks]] that can be hid behind (and under), extra ammo for SOCOM is hidden under the main staircase, as well as optional thermal goggles and chaff grenades on second floor. Optionally the player can backtrack once getting level 1 card to retrieve the cardboard box A and socom supressor from previously locked doors in the up and downstairs respectively.
+* Tank hanger main exit requires the player to dodge a series of vertical moving [[../reference#Yield to Proceed|infrared lasers]] to avoid being locked in with gas. The lasers can be [[../reference#Cloaking|easily revealed with thermal goggles]] or by [[../reference#Out-of-box Option|smoking]], but strangely enough they can also be barely seen by tne naked eye.
+
+=== Cell ===
+* Upon entering the cell building, the player can hug the wall to the right to [[../reference#Visual Hinting|see inside the room across]] in that instance. The room in question, though is merely where the prisoner is being held captive.
+* No guards occupy this area, so the player is free to roam around. In order to reach the hostage, the player must crawl inside the ventilation shaft through a ladder placed at the south end of the level. A hidden [[../reference#Out-of-box Option|ventilation hole]] next to the ladder hides a ration for players who are observant or curious enough. Once inside the vent shaft, the player can look down through grates above cell blocks to observe optional lore and the way to progression, as well as the [[../reference#Systematic Gatekeeping|level 1 card key]] and a box of ammo for the proceeding [[#Soldiers|boss fight]].
+* After the boss fight, the player can roam around the office and each cell block where there are [[../reference#Out-of-box Option|rations hidden under the beds]].
+
+=== Armory ===
+* Armory features a [[../reference#Togographic Grid|grid-like layout]] of individual rooms each with locked or unlocked doors of [[../reference#Systematic Gatekeeping|varying card levels]], as well as [[../reference#Environmental Transformation|destructible walls]] both containing optional items on either end of the north side of the level and story progression on the south.
+* It also features new traps such as [[../reference#Yield to Proceed|infrared lasers and floor traps]] that can both be seen with the [[../reference#Cloaking|thermal goggles]], and most rooms have areas to hide within.
+
+=== Canyon ===
+
+=== Nuclear warhead storage building ===
+* Nuke storage building features crates of dismantled warheads all around, so using standard weaponry is disabled. When the player aquires the PSG-1 later, they can [[../reference#Out-of-box Option|snipe the enemies]] through the garage door to circumvent the weapon suspension.
+
+=== Nuke building B1 ===
+* Nuke building B1 features a hallway, a main room, and a bathroom where guards occasionally [[../reference#Mechanical Hinting|break their routine]] to go and pee. They can be followed in and are vulnerable while doing so. In the hallway there are [[two columns]] on [[either side]] to hide behind. The main room features  Some computer desks can be [[../reference#Hiding Spots|hidden under]] There is also a Nikita launcher behind a door in the main computer room, as well as ammo [[../reference#Out-of-box Option|hidden under the desks]]
+
+=== Nuke building B2 ===
+* Nuke building B2 features a high-voltage generator that electrocutes the floor along the long corridors past the main door. The generator is [[../reference#Visual Hinting|visible through the glass]] as soon as you enter, but the only way to [[../reference#Shoot to Proceed|destroy it]] is with a remote-controlled missile from the nikita launcher.
+* The corridors are equipped with armed security cameras that can potentially shoot down the rocket unless you accelerate. Once you destroy the generator, the player can proceed but the corridors are still filled with a poisonous gas that slowly drains your O2 meter. An optional gas mask is behind one of the many doors in the poisonous corridors, as well as plenty of ammo refills, NVG and the way to progression, but the player must still be conscience about the armed security cameras that watch the rooms and hallways.
+
+=== Cave ===
+* In the caves past the storage building, the entrance to the comm tower can be [[../reference#Visual Hinting|seen through cracks]] in the structure, implying where to end up when going around. The area is guarded by [[../reference#Super Receptors|wolves]].
+
+=== Snowfield ===
+* Snowfield features a
+
+=== Blast furnace ===
+* Blast furnace features a moving crane arm moving along an edge that the player [[../reference#Yield to Proceed|must either crouch/sidle past]] or [[../reference#Out-of-box Option|destroy with a missile]], an [[../reference#Unlockable Shortcuts|unlockable shortcut-elevator]] at the end of the level, and a secret room with steam geysers of varying heights [[../reference#Yield to Proceed|(Yield to Proceed)]]
+
+----
+
+== BOSSES ==
+=== Soldiers I ===
+* First boss fight against guards requires player to shoot [[../reference#Mobs|basic soldiers coming through a door]], and avoiding incoming [[../reference#Area of Effect|grenade blasts]] with proper positioning. The guards will drop ammo and rations when killed to assist the player. This is the first time the player is heavily incentivezed to use a firearm.
+
+=== Revolver Ocelot ===
+* Ocelot fight has the player chase the boss around a square arena, avoiding his ricochet bullets, and taking advantage of the [[../reference#Timed Weakness|slow reload time]] of his revolver to chase and strike. [[../reference#Ring-out|Entering the middle of the square will detonate the C4 tripwires]], killing the hostage.
+
+=== Vulkan Raven I ===
+* Raven tank fight has the player [[../reference#Man VS Machine|fight a mobile tank]] with a main and secondary gun in a snowfield. You first need to get close enough to the tank to invalidate its main gun by taking advantage of the terrain and crawling along and behind hills to avoid being shot. Once within range, a soldier will try to track you with the secondary gatling gun while the tank body itself is highly maneuverable and dangerous- although it can be compromised with chaff grenades and explosives. The only way to defeat the boss is to lob a grenade into the manhole with replenishing (although limited) grenade and ration supplies scattered across the snowfield.
+
+=== Gray Fox ===
+* Gray Fox fight requires the player to fight, dodge, and chase the boss in a [[CQC duel]]. Gray fox will dodge any bullets, but [[../reference#Out-of-box Option|chaff grenades can stun him]]. Gray fox has a variety of attacks for the player to react accordingly to, and the office cubicles allow for [[looping]] to an extent. As the fight progresses, Gray fox can turn semi-invisible and teleport behind the player.
+
+=== Psycho Mantis ===
+* Psycho Mantis fight involves the player dodging items being thrown and flown around in different distinct patterns while shooting/punching Mantis. At some point, Mantis will turn himself invisible and move around the player for a surprise attack. To counter this, the player can use [[../reference#Out-of-box Option|first-person mode]] to interact telepathically with Mantis and see where he his relative to the player through Mantis' POV. You can aim your weapon in the correct direction and attack him as he reveals himself. To defeat the boss you need to [[../reference#Out-of-box Option|plug the controller into port 2]].
+
+=== Sniper Wolf I ===
+* Sniper Wolf fight involves the player engaging a sniper duel down a very long corridor. You will [[../reference#Ring Out|automatically be shot]] if you cross the boundary line by going to far forward, sending you back to the arena. Peering down the corridor by hugging the wall and waiting for an opening or [[baiting out the shot]] by briefly exposing yourself and reacting to the laser lets you position and take aim. The boss runs between columns to change positions and hide in and out of cover. Taking the optional diazepam will temporarily stop body tremors. On EX difficulty, you are are incentivized to [[../reference#Opportunity Cost|not take more diazepam than necessary]], because you won't find refills on the way to the next fight with Wolf.
+
+=== Interrogation ===
+* Interrogation room involves the player [[../reference#Masher|mashing O quickly]] for a period of time to maintain your dropping health to stay alive, or give in with SELECT and alter the final ending.
+
+=== Soldiers II ===
+* The first communications tower begins with a [[../reference#Scripted Event|scripted event]] where the player is caught by a video camera, and guards come rushing in from the doorway they came in. A rope on the ground is meant to be picked up at this time for progression after this segment. There are optionally some [[../reference#Supplements|ammo pickups]] around the base of the stairwell that can be picked up during or after the fight is over, as well as the rope. This fight involves the player climbing the staircase and dealing with guards coming from both sides. You are meant to react to guards coming from the front by shooting them quickly with the FAMAS, and the guards behind you can be dealt with in the same way, but you can also spam [[../reference#Out-of-box Option|HE grenades and claymores]] to kill them as they come up. CQC is also effective at knocking down the guards if they get too close and running away from them, but it's optimal if they don't get the chance to come that close. [[../reference#Out-of-box Option|Stun grenades]] are also very effective in this fight, as they [[../reference#Incapacitation|temporarily incapacitate]] guards coming from both sides.
+
+=== Hind D ===
+* Hind D fight involves the player shooting a [[../reference#Man VS Machine|helicopter]] with a stinger missile while the helicopter [[../reference#King Kong|revolves around the pillar you are on]]. The player must take cover behind cover while the chopper fires its gun, then come out and strike. The helicopter can dive below to reposition, then rise back up to attack while the player must use their eyes [[../reference#Radar System|(Soliton Radar)]], and ears to keep track of its location.
+
+=== Sniper Wolf II ===
+* The second sniper wolf fight takes place in a dark snowfield where visibility is compromised. The sniper scope in tandem with the thermal goggles works well to easily spot wolf behind cover. This fight is mechanically the same as the first one, but is different in that the only effective place to take cover is a hill on the right side of the arena. The [[../reference#Out-of-box Option|nikita launcher]] is a viable weapon in this fight since the boss is on the same ground level, and the stinger launcher can be used to [[../reference#Tracking|track the boss's location]].
+
+=== Vulkan Raven II ===
+* Vulcan Raven fight involves a game of [[../reference#Cat and Mouse|cat and mouse]] between a [[../reference#Grid|large grid of containers]], where the player needs to take down raven while avoiding being shot down in his massive line of sight between the corridors of the containers. Raven gets faster as his health lowers and can damage certain containers, [[../reference#Environmental Transformation|blocking access between them]] as the fight progresses. Explosive rockets are viable, but placed explosives are most efficient. Your rations will freeze if not kept warm by keeping them equipped but can be warmed again by [[../reference#Out-of-box Option|holding them]] out in your main slot.
+
+=== Metal Gear ===
+* Metal Gear fight involves the player avoiding the boss's the primary attacks while shooting first its radome [[../reference#Exposed Weakspot|weak point]], then cockpit. Metal gear has 3 ranged attacks: homing rockets, gatling gun, and laser- each with [[their own respective method and range of avoiding them]]. Starting midrange and moving toward MG while anticipating the 3 homing missiles firing (or watching the camera to determine which side they're coming from) lets you avoid them, but can set you up for a following laser attack for big damage if you don't move away quickly. The tracking gatling gun can be avoided by maintaining side movement.
+
+=== Liquid Snake I ===
+
+=== Liquid Snake II ===
+
+----
+
+== EXPLOITS ==
+* Some bosses like Ocelot have an [[../reference#Infinite Loop Exploit|infinite loop]] that you can send them in, trivializing challenge to a degree.
+
+* Stinger launcher tracks enemies through walls and objects.
+
+* Some rooms you can just run straight in and grab exactly what you need, completely avoiding guards' vision.
+
+* Equipping and re-equipping the PSG1 resets the shake counter.
+
+----
+
+== THOUGHTS ==
+* MGS1 is an interesting one coming back to. Coming back to at after so long and after playing Metroid Prime and MGSV made me dislike the game at first. This was mainly because I was directly comparing the gameplay from both of those games to this one which in hindsight was not the best idea. After thoroughly playing through the game, I've come to appreciate what it is on its own after forcing myself to adapt and overcome to its differences from MGSV. It is a classic for sure but it is certainly not without its flaws* most of them IMO having to do with too with uninspired/questionable level design late game, rather than the awkward combat. Not to mention the backtracking, while I personally don't mind it certainly is nowhere near as "gracefully" executed or perhaps "flowey" as the Metroid games. Since the game has a very limited camera situation, the radar system is a very useful tool to help give some spacial awareness to the player instead of the player having to use the stationary first-person view constantly or rely on memory or "gamesense", and since the guards' vision-cone is limited and clearly defined, I believe the radar system is helpful (though not essential) for a fully cohesive gameplay experience in this game, at least on the first playthrough.
+
