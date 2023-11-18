@@ -155,11 +155,11 @@
 === Taste Testing ===
 * A gameplay situation where either a player is encouraged or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
 
-=== Teasers ===
-Describes certain items, places or more abstract things that are inaccessible, but are made sure the player knows about them, or can know about them. (a.k.a. blue-balling)
+=== Teaser ===
+* Describes a certain item, place or more abstract thing that is inaccessible, but are made sure the player knows about, or can know about them. (a.k.a. blue-balling)
 
 === Fast Travel ===
-A mechanic that allows the player to quickly travel to another area/macro-area. Typically this mechanic is unlocked or granted somehow, to contrast between normal travel.
+* A mechanic that allows the player to quickly travel to another area/macro-area. Typically this mechanic is unlocked or granted somehow, to contrast between normal travel.
 
 === Consecutive Action Sequence ===
 
@@ -205,9 +205,9 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 
 === Systematic Gatekeeping ===
 
-=== Extrinsic Gatekeeping ===
+=== Item Check ===
 
-=== Intrinsic Gatekeeping ===
+=== Skill Check ===
 
 === Opportunity Cost ===
 

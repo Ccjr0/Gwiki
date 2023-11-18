@@ -2,7 +2,7 @@
 
 ----
 
-== GENERAL/MISC ==
+== GENERAL/OVERVIEW ==
 * Optional [[../reference#Expositional Lore|lore expositions]], [[../reference#Expositional Hinting|information]] and [[../reference#Easter Egg|easter eggs]] are gathered with the scan visor throughout the entire game. A [[logbook]] keeps track of the important data you've collected and can be read anytime.
 * Scan certain panels to [[../reference#Activate to Proceed|unlock doors/elevators and activate objects.]]
 * Health and ammo drop from crates and enemies (as needed by the player's current health/ammo) throughout the game.
@@ -68,11 +68,11 @@
 * A blockage fills the room with a [[../reference#Visual Hinting|small hole]] to fit a morph ball inside, but an electrical hazard also guards the hole. [[Yield to Proceed|Timing is needed]] to get past it safely.
 
 ==== Biotech Research Area 1 ====
-* [[../reference#Taste Testing|Crippled enemies]] patrol the room, but also a large ventilation shaft cover [[../reference#Teasers|appears to be unstable]], but doesn't do anything at the moment.
+* [[../reference#Taste Testing|Crippled enemies]] patrol the room, but also a large ventilation shaft cover [[../reference#Teaser|appears to be unstable]], but doesn't do anything at the moment.
 * Upon returning to this area during the escape sequence, a massive explosion allows for jumping atop broken rubble to climb back up to what was a covered ventilation shaft, but is now accessible.
 
 ==== Biohazard Containment ====
-* Security defense turrets guard the halls of this area and are hostile. The player is instructed to optionally use missiles, but [[../reference#Out-of-box Option|scanning a hidden nearby node]] will deactivate the nearby turret, rendering it harmless. Nearby tanks hold some basic [[../reference#Teasers|enemies and creatures]] of Tallon Overworld to be examined, as well as a cell with a violent, shaking door with some creature inside, merely to distract and interest of the player.
+* Security defense turrets guard the halls of this area and are hostile. The player is instructed to optionally use missiles, but [[../reference#Out-of-box Option|scanning a hidden nearby node]] will deactivate the nearby turret, rendering it harmless. Nearby tanks hold some basic [[../reference#Teaser|enemies and creatures]] of Tallon Overworld to be examined, as well as a cell with a violent, shaking door with some creature inside, merely to distract and interest of the player.
 
 ==== Reactor Core Entrance ====
 * Following a cargo lift with an encounter with a fully capable enemy, and a cargo door with morph ball needed to activate and open, the reactor core entrance features a [[|save room]] before a fight with [[#Parasite Queen|the boss]]. Following the defeat over the boss begins the escape sequence.
@@ -89,12 +89,12 @@
 === TALLON OVERWORLD ===
 [[file:metroidprime_map_tallon.jpg|>> MAP <<]]
 * Tallon Overworld is the first "true" [[macro-area]] of the game after the tutorial sequence, and serves somewhat as a weak-hubworld, as it is the area of origin, and offers paths to every other macro-area in the main game, but isn't rigidly structured or much differently from other macro-areas that are less hub-like, nor does it serve any large significance in the game until the middle and later stages of the game.
-* Stage 1 of Tallon Overworld is the basic initial exploration phase of the game with several paths to choose from as well as several areas and [[../reference#Micro-areas|micro-areas]] the player [[../reference#Teasers|cannot access]] while exploring. Blast shields reflect beam shots and crevices can only be bypassed with morph ball, both of which are acquired later in Chozo Ruins stage 1.
-* After stage 1 of Chozo Ruins has been completed, the player can opt to return to Tallon to explore the other areas that were previously inaccessible. Upon doing so, they should find the elevator door to begin the first stage of [[#MAGMOOR CAVERNS|Magmoor Caverns.]]
+* Stage 1 of Tallon Overworld is the basic initial exploration phase of the game with several paths to choose from as well as several areas and [[../reference#Micro-areas|micro-areas]] the player [[../reference#Teaser|cannot access]] while exploring. Blast shields reflect beam shots and crevices can only be bypassed with morph ball, both of which are acquired later in Chozo Ruins stage 1.
+* After stage 1 of Chozo Ruins has been completed, the player can opt to return to Tallon to explore the other areas that were previously inaccessible. Upon doing so, they should find the elevator door to begin the first stage of [[#MAGMOOR CAVERNS|Magmoor Caverns]].
 
 ==== Landing Site ====
-* The game now starts off with having landed on Tallon Overworld, and immediately the player is presented with several doors to go through. The path to the elevator to Chozo Ruins being the intended way to progression.
-* Some optional areas and micro-areas visible/blocked off serve as [[../reference#Teasers|teasers]] for later abilities as soon as you reach Tallon Overworld
+* The game now starts off with having landed on Tallon Overworld, and immediately the player is presented with several doors visible. The path to the elevator to the Chozo Ruins being the intended way to progression.
+* A suspicious crevice surrounded by tangleweed hides a missile expansion from within, but [[../reference#Teasers|access is restricted]] to those who have acquired morph ball.
 
 ==== Tallon Canyon ====
 
@@ -112,35 +112,36 @@
 * [[../reference#Two-sector Alternation Model|Two-sector alternation model]] featuring a [[../reference#Double Roundabout|roundabout]] and two [[branches]] in Stage 1 Chozo Ruins.
 * Due to the [[../reference#Floor is Lava|toxic acid]], many rooms have hazardous floors that should be avoided as much as possible.
 * [[../reference#Cluster Enemies|Cluster enemies]] occupy most of the cylindrical transition halls, and they drop loads of health/ammo due to their numbers. They scurry and gather collectively in a set spot to deal damage upon contact, so you are initially incentivized to shoot them, but once the morph ball is aquired, you can quickly [[../reference#Out-of-box Option|roll past them]] without having to deal with this, [[../reference#Streamline Ability|streamlining]] the process.
-* Heavy use of [[../reference#Teasers|visible, but unusable]] spider ball tracks in stage 1, to really drive home the idea that spider ball will be useful in this area later.
+* Heavy use of [[../reference#Teaser|visible, but unusable]] spider ball tracks in stage 1, to really drive home the idea that spider ball will be useful in this area later.
 * Upon defeating the first [[#Flahgraa|boss]], the [[../reference#Environmental Transformation|toxic acid becomes clean water]]- marking the end of stage 1, but is only able to be walked into and explored to a very limited extent at this point.
 * Stage 2 of Chozo Ruins comes after spider ball is acquired, as well as other [[../reference#Streamline Ability|new toys]] found throughout the game to help streamline re-traversal and unlock more secrets. The spider ball teasers in the first stage heavily imply that you can make use of them here. Although we've seen several instances of tracks here, the only one of those that is needed for further progression is in the [[#Furnace|furnace]].
+* During the backtracking phase After grabbing the boost ball Phendrana, the player can take the branch leading back to Chozo Ruins from the [[#Monitor Station|monitor station]] and perform the second roundabout starting from the [[#Vault|vault]] if they hadn't already, but during the trek back to Tallon Overworld the player will run into the half-pipe within the [[#Main Plaza|main plaza]] from before and can grab the missile upgrade that they couldn't before, reminding the player of the technique they had to learn from within the [[#Phendrana Canyon|Phendrana canyon]] which can help the player remember this technique for [[#Tallon Canyon|progression]] nearby. This works in tandem with the half-pipe found in the [[#Ruined Shrine|ruined shrine]] if they decide to re-examine that as well.
 
 ==== Main Plaza ====
 * Similar to the [[#Landing Site|landing site]], this area opens the player up to several paths to choose from with only one correct combination for progression, but several ways to explore in and out.
 * A Chozo tree in the center doesn't immediately look special, but [[../reference#Visual Hinting|reflects missiles]] similar in nature to blast shields.
 * A missile upgrade sits within a crevice atop a half-pipe, impossible to acquire at this point in time.
-* An energy tank perched on a high cliff behind a door grabs the player's attention as it can [[../reference#Teasers|merely be seen]], with no clues yet as of how to acquire it.
+* An energy tank perched on a high cliff behind a door grabs the player's attention as it can [[../reference#Teaser|merely be seen]], with no clues yet as of how to acquire it.
 
 ==== Eyon Tunnel ====
 * Eyons- sentinel-like ocular creatures that shoot lasers from walls- fill this room. They are generally non-threatening and easy to avoid. Shooting them will temporarily [[../reference#Incapacitation|close them shut]].
 * A small railing with an opening implies that if morph ball was used that you could go under the rail, but this is mostly impractical in this case.
 
 ==== Ruined Nursery ====
-* Upon entering, a morph ball puzzle with a missile upgrade appears on the wall, but [[../reference#Teasers|cannot be interacted with]] at this time, as the morph ball has not been acquired.
+* Upon entering, a morph ball puzzle with a missile upgrade appears on the wall, but [[../reference#Teaser|cannot be interacted with]] at this time, as the morph ball has not been acquired.
 * A save room sits atop this area as well, but war wasps appear in groups when their hive is approached. You can preemptively [[../reference#Termination|destroy the hive]] with a missile, but only once they are acquired from the first [[#Hive Mecha|boss]].
-* Once bombs have been acquired, the player can return to the morph ball puzzle, where must bomb a certain block first to grab the missile upgrade.
+* Once bombs have been acquired, the player can return to the morph ball [[../reference#Sokoban Puzzle|block puzzle]], where must bomb a certain block first to grab the missile upgrade.
 
 ==== Ruined Gallery ====
 * A [[../reference#Visual Hinting|fractured wall]] sits in plain view on the bottom level from the entrance, but cannot be opened without the missile launcher.
-* Also on the bottom level is a small patch of ambient weeds that [[../reference#Visual Hinting|grab your attention]], as to hint towards a [[../reference#Teasers|morph ball tunnel]] that also requires bombs to access.
+* Also on the bottom level is a small patch of ambient weeds that [[../reference#Visual Hinting|grab your attention]], as to hint towards a [[../reference#Teaser|morph ball tunnel]] that also requires bombs to access.
 * A blast shield on the door blocks access from the [[map room]] of this macro-area, but can be opened on the way back from grabbing the missile launcher.
 
 ==== Totem Access ====
 * Plazmites- firefly-like creatures- roam the dark hallway, and [[../reference/Termination|their light goes out]] upon death, [[../reference#Mechanical Hinting|making the room noticeably darker]].
 
 ==== Transport Access North ====
-* After defeating the [[#Hive Mecha|boss]], a blast shield guarding the door to the room can be opened, revealing an energy tank, but also shows a tunnel in plain sight the size of a morph ball, heavily reminding the player to [[../reference#Teasers|return to explore it]] once the morph ball has been acquired.
+* After defeating the [[#Hive Mecha|boss]], a blast shield guarding the door to the room can be opened, revealing an energy tank, but also shows a tunnel in plain sight the size of a morph ball, heavily reminding the player to [[../reference#Teaser|return to explore it]] once the morph ball has been acquired.
 * Once the morph ball has been acquired from the [[#Plated Beetle|boss]], the player can immediately return and explore the tunnel, revealing a morph ball section with automated lifts. The exit of the tunnel is raised, and the player [[../reference#One-way Valves|cannot go back]] through the other way unless they acquire bombs, whereby then then the player can blow up [[../reference#Streamlining|blocks in the tunnel to bypass the lifts]].
 
 ==== Ruined Shrine ====
@@ -151,21 +152,25 @@
 * After finishing the first stage of Chozo Ruins, and arriving from the [[#Hive Totem|hive totem]], the player is immediately incentivized to move on to the [[#MAGMOOR CAVERNS|next area]], but can alternatively begin the second roundabout with bombs having been finally acquired, eventually leading back to the elevator to continue.
 
 ==== Hive Totem ====
-* Many war wasps occupy the room, and a spider ball rail is [[../reference#Teasers|front-and-center]], but nothing can immediately be done here in the first stage.
+* Many war wasps occupy the room, and a spider ball rail is [[../reference#Teaser|front-and-center]], but nothing can immediately be done here in the first stage.
 * Upon defeating the final [[#Flaghraa|boss]] of the first stage of the Ruins, you are [[../reference#One-way Valve|dropped from the top to the bottom]] of the room, and subsequently led back to the [[#Transport to Magmoor Cavers North|elevator room]]. From before
 
 ==== Vault ====
-* [[../reference#Activate to Proceed|Three locking mechanisms]] keep a missile upgrade locked within the vault. Unless the player has acquired bombs, the player can merely [[../reference#Teasers|observe]], and return on the second roundabout. However, upon exiting this room and the next, they are greeted with the perched energy tank seen in the [[#Main Plaza|main plaza]] before, thereby completing the first roundabout.
-* Beginning on the second roundabout after the player has bombs, they can attempt to unlock the mechanisms on the vault, and while the first two are straightforward, the third lock [[../ref#Intrinsic Gatekeeping|requires mastery]] of bomb-hopping.
+* [[../reference#Activate to Proceed|Three locking mechanisms]] keep a missile upgrade locked within the vault. Unless the player has acquired bombs, the player can merely [[../reference#Teaser|observe]], and return on the second roundabout. However, upon exiting this room and the next, they are greeted with the perched energy tank seen in the [[#Main Plaza|main plaza]] before, thereby completing the first roundabout.
+* Beginning on the second roundabout after the player has bombs, they can attempt to unlock the mechanisms on the vault, and while the first two are straightforward, the third lock [[../ref#Skill Check|requires mastery]] of bomb-hopping.
 
 ==== Meditation Fountain ====
 * More plazmites roam the dark room and react identically to how they did [[#Totem Access|before]], but visibility is now severely limited upon [[../reference#Termination|killing them]].
-* A fountain spews toxic acid below a long magnetic spider ball track, but the player [[../reference#Teasers|cannot interact]] with it at this point in time.
-%% War wasp death visual hinting...
+* A fountain spews toxic acid below a long magnetic spider ball track, but the player [[../reference#Teaser|cannot interact]] with it at this point in time.
+* After defeating [[#Flahgraa|Flahgraa]] and cleansing the water, the fountain in the center can now function as intended whereas before it was clogged. A plazmite even hints at this as it [[../reference#Visual Hinting|dies when flying over the water jet]]. While the player can jump into the jet with morph ball, [[../reference#Teaser|they cannot do anything]] until they have acquired the spider ball, as it is the other piece needed to ride the magnetic rail and grab the missile upgrade.
+
+==== Magma Pool ====
+* Similarly to the Magmoor Caverns, the magma pool is so hot that it will slowly burn you to death [[../reference#Teaser|if you try to enter it]] without the Varia suit.
+* Upon returning with the Varia suit post-stage 1 Chozo, the room can be entered, but not much can be done besides look across to the other side, but the [[../reference#Teaser|grapple points imply]] that it can be crossed later.
 
 ==== Arboretum ====
 * Reaper vines guard the platforms as they swing violently when approached, and [[../reference#Shoot to Proceed|must be shot]] to force them to temporarily retract.
-* Upon moving up the walkway, the player is met with tunnels in the wall, but blockage within the tunnels [[#../reference#Teasers|requires bombs]] in order to proceed any higher.
+* Upon moving up the walkway, the player is met with tunnels in the wall, but blockage within the tunnels [[#../reference#Teaser|requires bombs]] in order to proceed any higher.
 * After acquiring bombs from the [[#Incinerator Drone|boss]], the wall tunnels can now be cleared, allowing access up the walkway. The player is also incentivized to [[../reference#Shoot to Proceed|shoot the toxic venom weed]] to avoid taking big damage from within the tunnel. While climbing, the player may notice that they must [[../reference#Search and Activate to Proceed|find and scan]] four runic symbols (as they may have [[#Mechanical Hinting|done before]] in a [[#Watery Hall|previous room]]) to unlock the gate and reveal the final [[#Flahgraa|boss room]] for this stage.
 * A patch of more venom weed at the bottom also hide one of these symbols. [[../reference#Shoot to Proceed|Shooting them]] will force them into hiding, allowing it to be activated.
 
@@ -182,21 +187,21 @@
 * A blocked tunnel sits aside the powerup, and bombs are required to access it (as well as missiles for the blast door), leading to the [[#Dynamo|dynamo]].
 
 ==== Dynamo ====
-* The dynamo contains a metal structure containing a missile upgrade, and yet another inaccessable rail track, further [[../reference#Teasers|conditioning]] the player to come back once they've acquired spider ball.
+* The dynamo contains a metal structure containing a missile upgrade, and yet another inaccessable rail track, further [[../reference#Teaser|conditioning]] the player to come back once they've acquired spider ball.
 
 ==== Energy Core Access ====
-* Eyons guard this room similarly to the [[#Eyon Tunnel|eyon tunnel]], but an alternate path below the ground allows you to bypass them, but since it's blocked by rubble, the player can only use it [[../resources#Teasers|once they've acquired bombs]].
+* Eyons guard this room similarly to the [[#Eyon Tunnel|eyon tunnel]], but an alternate path below the ground allows you to bypass them, but since it's blocked by rubble, the player can only use it [[../resources#Teaser|once they've acquired bombs]].
 
 ==== Energy Core ====
 * Two paths split the room upon entry, with acid blocking one, but a morph ball tunnel marking progression in the other. The space in the center is flooded with acid.
-* The patient stone toad blocks access to another switch and swallows morph balls when approached, but can only be [[../reference#Teasers|destroyed from within]] with bombs from the upcoming [[#Incinerator Drone|boss]].
+* The patient stone toad blocks access to another switch and swallows morph balls when approached, but can only be [[../reference#Teaser|destroyed from within]] with bombs from the upcoming [[#Incinerator Drone|boss]].
 * Upon acquiring the bombs, the stone toad can be destroyed and bypassed, allowing access to the switch to initiate the [[../reference#Timed Consecutive Action Sequence|timed morph ball bomb slot sequence]]. The first switch drains the acid in the center, clearing the room and the path from before, the second switch raises two elevators in the center to access the room with the final switch which raises the final elevators, enabling access to the [[#Furnace|furnace]]. The acid remains drained and the elevators aloft permanently once the switch sequence is completed.
 
 ==== Burn Dome ====
 
 
 ==== Furnace ====
-* Upon entering the furnace, another [[../reference#Teasers|unusable magnetic rail system]] makes an appearance, but a basic tunnel next to it allows access to an energy tank.
+* Upon entering the furnace, another [[../reference#Teaser|unusable magnetic rail system]] makes an appearance, but a basic tunnel next to it allows access to an energy tank.
 
 ==== Tower of Light ====
 * Tower of light is a very tall, cylindrical room featuring sets of platforms reaching to the top. On four sections along the circumference of the cylindrical room there are [[stress points]] indicating that they can be damaged. The stress points can be destroyed with 3 missiles each for a total of 12 missiles minimum for each round. Upon dispatching the stress points, the room [[../reference#Environmental Transformation|truncates itself from the middle]], thereby lowering the upper part of the room, where the player repeats the process twice more, with increased challenge coming from moving [[missile reflecting enemies]] along the stress points and [[sun rays obscuring your vision]].
@@ -210,29 +215,47 @@
 
 === MAGMOOR CAVERNS ===
 [[file:metroidprime_map_magmoor.jpg|>> MAP <<]]
-* Magmoor caverns gets effectively unlocked once the varia suit has been acquired, as it is a high-heat zone. Thus, there is lots of [[../reference#Floor is Lava|dangerous lava]] all around. By this point, the player should have enough platforming experience avoiding acid in Chozo Ruins to be able to respect the lava.
+* Magmoor caverns gets effectively unlocked once the Varia suit has been acquired, as it is a high-heat zone. Thus, there is lots of [[../reference#Floor is Lava|dangerous lava]] all around. By this point, the player should have enough platforming experience avoiding acid in Chozo Ruins to be able to respect the lava.
 * Magmoor caverns functions more like a transitional macro-area to bridge the gap between other macro-areas, almost like a weak hub-world but more snakey and trial-like in nature. Barely any extended focus is given to here as opposed to other areas.
-* Stage 1 of Magmoor Caverns is essentially an inverse fork where you can enter from two very seperate areas (from either the [[#Transport to Magmoor Cavers North|Ruins]] or [[#Root Cave|Overworld]]), but they eventually meet and converge with each other into the path needed for progression by the end of this stage.
+* Stage 1 of Magmoor Caverns is essentially an inverse fork where you can enter from two very seperate areas (from either the [[#Transport to Magmoor Cavers North|Ruins]] or [[#Root Cave|Overworld]]), but they eventually meet and converge with each other into the path needed for progression by the end of this stage. Additionally, both branches of the fork have one achievable powerup within them, giving explorational integrity to either path both coming in during this stage, and coming out after Phendrana stage 1.
 
 ==== Burning Trail ====
-* After descending upon automated lifts and encountering a save room, the player is offered a [[../reference#Teasers|sneak peek]] into Magmoor Caverns, but they cannot safely explore until after acquiring the varia suit after Chozo Ruins stage 1.
+* After descending upon automated lifts and encountering a save room, the player is offered a [[../reference#Teaser|sneak peek]] into Magmoor Caverns, but they cannot safely explore until after acquiring the Varia suit after Chozo Ruins stage 1.
 
 ==== Lake Tunnel ====
-* Slowly descending platforms guarded by alternating flamethrower traps surrounded by lava force the player to [[../reference#Yield to Proceed|yield to traps and lava]] before traversing the meat of the caverns.
+* Slowly descending platforms guarded by alternating flamethrower traps surrounded by lava force the player to [[../reference#Yield to Proceed|yield to traps and lava]] before encountering burrowers, which pop in and out from underground and [[../reference#Peakaboo Weakspot|must be shot in midair]] as the attack. The real meat of the caverns soon begins.
 
 ==== Lava Lake ====
 
 ==== Pit Tunnel ====
 * The open area is blocked by a tall gate, but the way through is an underground hole on either side. The pit is crawling with triclops, a creature that will punish you by spitting you back out the hole you came in if it grabs you. Bomb placement is key to properly dispatch of them and make it to the other side.
-%% Streamlined with double jump
+%% Streamlined with double jump...
 
 ==== Triclops Pit ====
 * With just one entrance and one exit, a massive underground pit of triclops hold the secret to a missile powerup.
-%% Invisible platforms
+%% Invisible platforms...
 
 ==== Monitor Station ====
 * The inverse fork characteristic of stage 1 forms a convergence at this room, where both branches of the fork meet. The [[../reference#Landmarking|massive structure]] in the room guarded by defense turrets indicates importance, and incentivizes the player to climb and explore it- first and foremost.
-* While walking across the bridge leading to the next room, a [[../reference#Teasers|scaffold that's barely out of reach]] can be seen to the side, with another bridge directly above the current one. The significance of this is ambiguous at this point.
+* While walking across the bridge leading to the next room, a [[../reference#Teaser|scaffold that's barely out of reach]] can be seen to the side, with another bridge directly above the current one. The significance of this is ambiguous at this point.
+
+==== Transport to Tallon Overworld West ====
+* Upon entering from Tallon Overworld, the player is met with two opposite rooms. Unless the player has completed Chozo Ruins stage 1 and obtained the Varia suit, neither room will be explorable as they will slowly burn you to death.The two doors bring the player toward [[#Transport Tunnel B|transport tunnel B]], and the [[#Twin Fires Tunnel|twin fires tunnel]].
+
+==== Transport Tunnel B ====
+* A long river of lava with no platforms fills nearly the whole room end-to-end, but a small opening in the ground with a magnetic rail looks like it leads to the other side, but without spider ball, the player [[../reference#Teaser|cannot interact]] with it and reach the other side.
+
+==== Twin Fires Tunnel ====
+* an opening in the wall on either side provides access to a double-rail track similar to a railroad for the morph ball to ride through, but a disturbed magmoor makes an appearance at the end. The player can merely rush through as fast as they can to bypass him, and proceed.
+
+==== Twin Fires ====
+* Flamethrowers mounted to the ceiling activate at set intervals, so the player must [[../reference#Yield to Proceed|respect them]] to avoid being pushed by them into the lava.
+* A distant platform is too far away to jump to without falling into the lava, but a [[../reference#Skill Check|morph ball scaffold without guard rails]] goes across the ceiling of the room and rewards the player not only with a powerup, but leads them to the distant platform, but one small mistake on the scaffold can send the player plummeting into the lava.
+* A triclops roams the platform in search of morph balls to toss into the lava. The player can either avoid him all together or kill him with a bomb. A morph ball tunnel can be used to take the player back to the entrance.
+* Upon entering from the [[#Shore Tunnel|shore tunnel]] (or post-stage 1 Phendrana), the player can simply take the tunnel that leads to the other side without needing to take the ceiling scaffold.
+
+==== Shore Tunnel ====
+* The center of a [[../reference#Visual Hinting|damaged tunnel]] made of [[../reference#Expositional Hinting|bendezium]] has an [[../reference#Audible Hinting|audible missile upgrade]] beneath it.
 
 ==== Transport Tunnel A ====
 * Upon entering the morph ball tunnel, a [[../reference#Visual Hinting|tall space directly above]] hints that there might be something up there, but as it's above a destructible [[../Visual Hinting|metal box over lava]], reckless bombing will punish the player. If the player has completed the [[#Vault|vault puzzle]], they should [[#Mechanical Hinting|recall the bomb-hopping tech]] from before which is needed to complete the optional trial. Three bomb-hops are necessary to grab the energy tank at the top, and since the metal boxes break (and respawn) after two bombs, the bomb-hops must be performed consecutively.
@@ -241,7 +264,7 @@
 
 ==== Geothermal Core ====
 
-%% Underground morph ball maze sections with predatory enemies in Magmoor Caverns
+%% Underground morph ball maze sections with predatory enemies in Magmoor Caverns...
 
 === PHENDRANA DRIFTS ===
 [[file:metroidprime_map_phendrana.jpg|>> MAP <<]]
@@ -254,11 +277,12 @@
 * Several clusters of frozen ice debris impede initial entry, but are quickly and permanently cleaned up with either charge beam or missiles.
 
 ==== Phendrana Shorelines ====
-* Not unlike Chozo Ruins and Tallon, this [[../reference#Plaza|introductory area opens up quickly]] to a wide open space with several doors and secrets.
+* Not unlike Chozo Ruins and Tallon, this [[../reference#Plaza|introductory area opens up quickly]] to a wide open space with several doors and secrets, as well as a lovely pool of water that you can jump into.
 * To progress further, the player must locate a [[../reference#Visual Hinting|suspicious metal structure]] within a building to destroy and bypass and [[../reference#Activate to Proceed|scan a panel]] to unlock the door directly above the ceiling. From there, the player must perform a platforming exercise to reach the top of the building to proceed.
 * While the keys to unlock the door to progression are blocked behind a metal structure, The save room is straight ahead from the enterance in a wide cave under the platforming secion, [[incentivizing the player somewhat]] to notice the save room first.
-* While exploring or platforming especially, the player should [[../reference#Visual Hinting|notice floating platforms]] leading to a distant door atop a tall structure. Attempting to mount these hovering platforms [[../reference#Teasers|proves futile]] at this time, however.
-* A missile upgrade [[../reference#Teasers|sits out of reach]] within frozen ice behind a pillar, as it is [[../reference#Expositional Hinting|explained]] that extreme heat is required to melt the ice.
+* While exploring or platforming especially, the player should [[../reference#Visual Hinting|notice floating platforms]] leading to a distant door atop a tall structure. Attempting to mount these hovering platforms [[../reference#Teaser|proves futile]] at this time, however.
+* A missile upgrade [[../reference#Teaser|sits out of reach]] within frozen ice behind a pillar, as it is [[../reference#Expositional Hinting|explained]] that extreme heat is required to melt the ice.
+* Upon completing the first stage of Phendrana Drifts, the player backtracks toward the very high cliff connected to the [[#Ice Ruins Access|ice ruins access]], to encounter a cutscene showing the massive shadow of Meta Ridley [[../reference#Visual Hinting|flying past Phendrana's exit]], thereby hinting the player that they are done with this area for now. Luckily, this means the player can merely [[../reference#Streamlining|jump down from here]], greatly streamlining the process of backtracking through this area.
 
 ==== Ice Ruins Access ====
 * Scatter bombus roam the cylindrical halls of this area, with [[../reference#Yield to Proceed|rotating electrical currents]] featuring [[../reference#Visual Hinting|gaps large enough]] to roll through with correct timing to come out unscathed.
@@ -266,6 +290,17 @@
 ==== Ice Ruins East ====
 * Sleeping sheegoth babies are brought awake when approached or disturbed, confronting the player with the first basic enemies strong enough to pose a real threat to the player's life. Given that they are similar in nature to the [[#Plated Beetle|plated beetle]] from earlier, the player should have [[../reference#Callback|the necessary skill set]] to fight the pack of two baby sheegoths.
 * Baby sheegoths are vulnerable only in their [[../reference#Shrouded Weakspot|exposed backside]], and will generally face the player as to keep it protected, using an aggresive array of both long and short range attacks. Therefore, circle-strafing is an essential strategy. However, once their backside shell has been damaged, they will become [[more aggressive]] in desperation, so they'd best be terminated as soon as possible. Upon death, they can even use cold breath as a [[dying attack]], which if the player is caught in range of will deal some damage and freeze the player, forcing them to [[mash jump]] to escape the ice.
+
+==== Ruins Entryway ====
+* After fighting the sheegoth babies from before, a few crates are laid around this room to help replenish health/supplies, but pulse bombus from [[#Hive Totem|before]] have reappeared, and remind the player not only to [[../Yield to Proceed|mind their attacks]], but [[../reference#Callback|refrain from charging ]] your weapon as to not get damaged in the process of replenishing.
+
+==== Ice Ruins West ====
+* Besides more baby sheegoths, this room also features the first [[../reference#Teaser|visible purple door]] perched atop a tall cliff, which is particularly notable in stage 1 of Phendrana.
+* A [[../reference#Expositional Lore|Chozo lore]] within a ruined building sits atop of- and [[../reference#Visual Hinting|hints the player]] toward- a tall foothold that [[../reference#Teaser|cannot yet be accessed]].
+
+==== Phendrana Canyon ====
+* Upon entering and dropping down, the player can [[../reference#Activate to Proceed|activate a panel]] to summon a series of floating platforms leading up to the boost ball upgrade that disintegrate once landed upon, thereby [[#../reference#Skill Check|forcing the player to jump swiftly and consecutively]] to attain the upgrade. If failed, the player can walk back up to the panel and retry as needed, but they are [[../reference#One-way Valve|locked from within]] the room until they grab the upgrade and [[#../reference#Skill Check|master using it]] on the half-pipe to land on the foothold that allows them to exit. Once done, the player has completed stage 1 of Phendrana Drifts, and must now backtrack to begin stage 2 of [[#TALLON OVERWORLD|Tallon Overworld]].
+* Alternatively, the player can [[../reference#Out-of-box Option|hop back up atop the corners of crates]], assuming they haven't already broken them to reach the exit.
 
 ==== Ruined Courtyard ====
 * Ruined Courtyard features a [[../reference#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph ball bomb slots, and snowy platforms mixed with an [[../reference#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level, a morph ball tunnel containing an energy tank is [[../reference#Visual Hinting|hinted at]] with a glowing rim. Once grabbed, the timed action and transformation sequences must be repeated to reach the top and proceed.
@@ -275,7 +310,6 @@
 
 === PHAZON MINES ===
 [[file:metroidprime_map_mines.jpg|>> MAP <<]]
-%% * [[../reference#Solve to Proceed|Column twist puzzle]] in Phazon Mines
 
 ----
 
@@ -350,10 +384,17 @@
 === Design Flaws ===
 * I do question the game's ability to point the player in the right direction at a couple points in the game. In this way, I think the developers relied too much on the hint system to mask flaws in the level design. Two examples stick out to me and those are the half-pipe in Tallon Overworld and sunken frigate entrance after grabbing the ice beam. I understand why the developers included the hint system- to guide players who inevitably get lost to their next progression point without giving _too_ much information away on how to get there (most of the time). I just think that most of the items and progression points did this well enough on their own without the need for the hint system, while a select few did not.
 
+%% Phendrana Drifts save room thing...
+
+%% Magmoor backtracking thing...
+
 * The half-pipe example requires the player to go _all_ the way back to Tallon Overworld after acquiring the boost ball to locate a specific and easy to miss half-pipe that is required to get the space jump boots. It's not the backtracking itself that particularly bothers me, it's just that the answer the boost ball is too obtuse on its own (without the hint) to justify its design choice, I think.
 
 * The most egregious example of this comes mid-game after the ice beam is acquired. Once the spider ball is acquired, you are greeted with an ice door upon entering the next elevator room. This ice door was to serve as the main hint on where to go after acquiring the ice beam shortly after. Or perhaps even the ice door in the research core. The problem is that these doors are easy to ignore and forget, and on top of that- once acquiring the ice beam- you are given two more paths to explore immediately. One leads to Magmoor Caverns for optional stuff, and the other leads to the entrance to the sunken frigate which is also blocked by an ice door. If the player enters the frigate before going back to Phendrana Drifts to grab the gravity suit, then they will have to though a slog of underwater scavenger hunting and platforming only to be told to go straight back all the way up from where they came. This blatant flaw easily could've been fixed in a couple ways just off the top of my head. One way is to move the door that drops you into the frigate crash site from Chozo Ruins _behind_ the body of water, that way the player is still gatekept by that instead of given premature access to the frigate. Another way to solve this is to simply put a door early on in the frigate that's inaccessible to anyone without the gravity suit, so that the player doesn't get premature access to the reactor core and cargo freight just to trek back in the most crude way possible- being explicitly told to.
 
-* Another blemish with the level design in this game which I particularly disliked (disregarding the no-hint stuff), was retrieving the artifact of newborn. I feel like the fix would be very simply to put it closer to the entrance/exit point of the area that its in (being the Phazon Mines depths) instead of being right in the awkward middle area that its in, and given that there isn't a backtrack-phase in that area like the other artifacts because its the very end of the game, there's no real way to go back and get it that doesn't feel like a real slog.
-%% However, going back through the unlocked gate...
+%% Other magmoor backtracking thing...
 
+* Another blemish with the level design in this game which I particularly disliked (disregarding the no-hint stuff), was retrieving the artifact of newborn. I feel like the fix would be very simply to put it closer to the entrance/exit point of the area that its in (being the Phazon Mines depths) instead of being right in the awkward middle area that its in, and given that there isn't a backtrack-phase in that area like the other artifacts because its the very end of the game, there's no real way to go back and get it that doesn't feel like a real slog.
+%% However, going back through the unlocked gate... If there was a phazon tunnel thing in the middle maybe...
+
+%% Door color thing... beam swapping thing...
