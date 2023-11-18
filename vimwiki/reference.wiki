@@ -4,13 +4,13 @@
 
 == CARTOGRAPHY ==
 === Macro-area ===
-* A distinguishably large sector consisting of more than one area.
+* A distinguishably large area consisting of more than one meso-area.
 
-=== Area ===
-* An area within macro-areas.
+=== Meso-area ===
+* An area within a macro-area.
 
 === Micro-area ===
-* A small sector within an area.
+* A small sector within an meso-area.
 
 === Intersection ===
 
@@ -44,7 +44,7 @@
 
 === Environmental Hazards ===
 
-=== One-way Valves ===
+=== One-way Valve ===
 
 === Inverse Forking ===
 
@@ -135,8 +135,8 @@
 === Search and Activate to Proceed ===
 * A gameplay situation where the player is either forced or incentivized to search for whatever needs to be activated in order to proceed further or achieve an outcome.
 
-=== Shoot Targets to Proceed ===
-* A gameplay situation where the player is either forced or incentivized to shoot a set number of targets to proceed further or achieve an outcome.
+=== Shoot to Proceed ===
+* A gameplay situation where the player is either forced or incentivized to shoot one or more targets to proceed further or achieve an outcome.
 
 === Shoot and Climb to Proceed ===
 * A gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
@@ -247,7 +247,7 @@ A mechanic that allows the player to quickly travel to another area/macro-area. 
 
 === Immersive Feedback ===
 
-=== Easter Eggs ===
+=== Easter Egg ===
 ----
 
 == STEALTH ==

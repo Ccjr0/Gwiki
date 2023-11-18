@@ -3,14 +3,14 @@
 ----
 
 == GENERAL/MISC ==
-* Optional [[../reference#Expositional Lore|lore expositions]] and [[../reference#Expositional Hinting|information]] are gathered with the scan visor throughout the entire game. A [[logbook]] keeps track of the important data you've collected and can be read anytime.
+* Optional [[../reference#Expositional Lore|lore expositions]], [[../reference#Expositional Hinting|information]] and [[../reference#Easter Egg|easter eggs]] are gathered with the scan visor throughout the entire game. A [[logbook]] keeps track of the important data you've collected and can be read anytime.
 * Scan certain panels to [[../reference#Activate to Proceed|unlock doors/elevators and activate objects.]]
 * Health and ammo drop from crates and enemies (as needed by the player's current health/ammo) throughout the game.
 * Areas/rooms are designed only vaguely realistically, with realistic naming conventions.
-* Abilities you've become familiar with lost early-game, and must be progressively reacquired.
-* Powerups [[../reference#Audible Hinting|emit subtle sound when nearby]].
+* Abilities you've become familiar with are lost early-game, and must be progressively reacquired.
+* Powerups [[../reference#Audible Hinting|emit subtle sound]] when nearby.
 * Missile launcher useful in combat, allows for breaking certain walls/barriers, and has a blast radius that can kill multiple small enemies.
-* Certain walls [[../reference#Expositional Hinting|defined with certain named materials]], implying they can be broken with a respective ability.
+* Certain walls, barriers, and objects are [[../reference#Expositional Hinting|defined with explicitly named materials]], implying they can be broken with a respective ability.
 * Morph ball allows access through crevices previously unable to traverse.
 * Key item rooms typically [[../reference#One-way Valves|lock the player from within]] to escape using the respective item.
 * Morph ball bombs allow certain materials to be broken, certain switches to be activated, and further morph ball mobility options.
@@ -26,12 +26,12 @@
 * Plasma beam allows for access through red doors, and melting ice. Although it has a limited range, it makes quick work of enemies with its fast and powerful damage that also [[../reference#Tick Damage|sets enemies on fire]] and disintegrates many regular enemies with one charge shot
 * Most upgrades are generally [[../reference#Multi-purpose Abilities|multi-purpose tools]] that serve purposes in some combination of progression, combat and/or streamlining
 * New abilities can enable [[../reference#Unlockable Shortcuts|access through shortcuts]] for quicker, more streamlined traversal between areas and macro-areas
-* [[../reference#Grand Fetch Quest|Grand fetch quest]] assisted by [[../reference#Expositional Hinting|hints on where to find the Chozo artifacts]]
-* Level design, enemy design, and hidden powerups all take future upgrades into account for mid and late game exploration with consideration to the [[../reference#Powerup Flow|"powerup flow"]] to some degree
-* [[../reference#Aesthetic Presentation|Atmospheric visual flare]] such as visor condensation, rain/water droplets, visual static, enemies' blood, and facial reflections appear throughout the game. Also, shooting very quickly for an extended time, Samus's arm-cannon will [[../reference#Graphical FX|emit heat-waves]].
+* Upon acquiring all key upgrades, the games [[../reference#Grand Fetch Quest|grand fetch quest]] begins, assisted by [[../reference#Expositional Hinting|hints]] on where to find the Chozo artifacts. These hints are scanned at the [[#Artifact Temple|artifact temple]], where a name of the area to find them is highlighted, and a vague description on how to achieve them.
+* Level design, enemy design, and hidden powerups all take future upgrades into account for mid and late game exploration with consideration to the [[../reference#Powerup Flow|"powerup flow"]] to some degree.
+* [[../reference#Graphical FX|Atmospheric visual flare]] such as visor condensation, rain/water droplets, visual static, enemies' blood, and facial reflections appear throughout the game. Also, shooting very quickly for an extended time, Samus's arm-cannon will [[../reference#Graphical FX|emit heat-waves]].
 
 %% * Certain beam weapons allows for [[../reference#Environmental Transformation|environmental transformation]] giving access to new micro-areas. (hall of the elders)
-%% * [[../reference#Macro-Alternation Model|Alternation between macro-areas]] after Flahgraa (Phendrana > Tallon IV > Phendrana)
+%% * [[../reference#Macro-Alternation Model|Alternation between macro-areas]] after Flahgraa (Phendrana > Tallon Overworld > Phendrana)
 %% * [[../reference#Inverse Forking|Two different roads]] within Magmoor caverns to choose from after Flahgraa to access Phendrana Drifts
 %% * Turret defense disabling through use of scanning panels (optional). [[../reference#Visual Hinting|(Visual Hinting)]], [[|(Mechanical Hinting)]], [[|(out of box option)]]
 %% * Elevators serve as [[../reference#Fast Travel|access between macro-areas]]
@@ -42,12 +42,12 @@
 
 === PIRATE FRIGATE ===
 [[file:metroidprime_map_frigate.jpg|>> MAP <<]]
-* The pirate frigate serves as a temporary tutorial area to get the player accustomed to the game's controls and mechanics. This area is also "reused" later in a completely different way. The game provides [[expositional hints]] by telling them how to activate and use certain mechanics and weapons such as scan visor, morph ball, missiles, charge beam etc. and features a basic boss fight and [[timed escape sequence]] at the end before revoking several of the player's abilities that they had learned to use.
+* The pirate frigate serves as a temporary tutorial area to get the player accustomed to the game's controls and mechanics in the very beginning of the game. This area is also reused later in a completely different way from the tutorial section. The game provides [[expositional hints]] by telling them how to activate and use certain mechanics and weapons such as scan visor, morph ball, missiles, charge beam etc., and features a basic boss fight and [[timed escape sequence]] at the end before revoking several of the player's abilities that they had learned to use.
 
 ==== Exterior Docking Hangar ====
-* The game begins with an open platform with the player facing two columns with [[../reference#Shoot Targets to Proceed|buttons that must be shot]] to proceed.
-* Using the scan visor to [[../reference#Search and Activate to Proceed|find and activate]] certain [[../reference#Cloaking|hidden targets]] allows the player to aim and shoot [[../reference#Target Practice|higher targets]] to deactivate the force field to proceed. From here, standard doors can be opened by shooting them.
-* The perimeter of the platform is blocked off with what are essentially [[../reference#Invisible Walls|invisible walls]]so that the player can move freely in the tutorial area without falling. These barriers glow when touched or shot to provide more [[../reference#Immersive Feedback|immersive feedback]] than if they were to merely exist without being seen.
+* The game begins with an open platform with the player facing two columns with [[../reference#Shoot Targets to Proceed|buttons that must be shot]] in order to deactivate the first force field and proceed.
+* Using the scan visor to [[../reference#Search and Activate to Proceed|find and activate]] certain [[../reference#Cloaking|hidden targets]] allows the player to aim and shoot [[../reference#Target Practice|higher targets]] to deactivate the next force field to proceed. From here, standard doors can be opened by shooting them.
+* The perimeter of the platform is blocked off with what are essentially [[../reference#Invisible Walls|invisible walls]] so that the player can move freely in the tutorial area without falling. These barriers glow when touched or shot to provide more [[../reference#Immersive Feedback|immersive feedback]] than if they were to merely exist without being seen.
 
 ==== Air Lock ====
 * Upon entering, mist creates [[../reference#Graphical FX|visor condensation]] for added effect, and well as floating parasites in zero-gravity that explode when shot- [[../reference#Graphical FX|spraying blood]] on the player's visor.
@@ -72,7 +72,7 @@
 * Upon returning to this area during the escape sequence, a massive explosion allows for jumping atop broken rubble to climb back up to what was a covered ventilation shaft, but is now accessible.
 
 ==== Biohazard Containment ====
-* Security defense turrets guard the halls of this area and are hostile. The player is instructed to optionally use missiles, but [[../reference#Out-of-box Option|scanning a hidden nearby node]] will deactivate the nearby turret, rendering it harmless. Nearby tanks hold some basic [[../reference#Teasers|enemies and creatures]] of Tallon IV to be examined, as well as a cell with a violent, shaking door with some creature inside, merely to distract and interest of the player.
+* Security defense turrets guard the halls of this area and are hostile. The player is instructed to optionally use missiles, but [[../reference#Out-of-box Option|scanning a hidden nearby node]] will deactivate the nearby turret, rendering it harmless. Nearby tanks hold some basic [[../reference#Teasers|enemies and creatures]] of Tallon Overworld to be examined, as well as a cell with a violent, shaking door with some creature inside, merely to distract and interest of the player.
 
 ==== Reactor Core Entrance ====
 * Following a cargo lift with an encounter with a fully capable enemy, and a cargo door with morph ball needed to activate and open, the reactor core entrance features a [[|save room]] before a fight with [[#Parasite Queen|the boss]]. Following the defeat over the boss begins the escape sequence.
@@ -86,34 +86,41 @@
 ==== Connection Elevator to Deck Alpha ====
 * Upon scanning a panel to deactivate a defense turret, and avoiding another [[../reference#Yield to Proceed|electrical hazard]], a cutscene plays after activating the elevator that removes most of your suit augmentations and abilities. Upon exiting back through the air lock and into the docking hangar completes this area.
 
-=== TALLON IV ===
+=== TALLON OVERWORLD ===
 [[file:metroidprime_map_tallon.jpg|>> MAP <<]]
-* Tallon IV is the first "true" [[macro-area]] of the game after the tutorial sequence, and serves somewhat as a weak-hubworld, as it is the area of origin, and offers paths to every other macro-area in the main game, but isn't rigidly structured or much differently from other macro-areas that are less hub-like, nor does it serve any large significance in the game until the middle and later stages of the game.
-* Stage 1 of Tallon IV is the basic initial exploration phase of the game with several paths to choose from as well as several areas and [[../reference#Micro-areas|micro-areas]] the player [[../reference#Teasers|cannot access]] while exploring. Blast shields reflect beam shots and crevices can only be bypassed with morph ball, both of which are acquired later in Chozo Ruins stage 1.
+* Tallon Overworld is the first "true" [[macro-area]] of the game after the tutorial sequence, and serves somewhat as a weak-hubworld, as it is the area of origin, and offers paths to every other macro-area in the main game, but isn't rigidly structured or much differently from other macro-areas that are less hub-like, nor does it serve any large significance in the game until the middle and later stages of the game.
+* Stage 1 of Tallon Overworld is the basic initial exploration phase of the game with several paths to choose from as well as several areas and [[../reference#Micro-areas|micro-areas]] the player [[../reference#Teasers|cannot access]] while exploring. Blast shields reflect beam shots and crevices can only be bypassed with morph ball, both of which are acquired later in Chozo Ruins stage 1.
+* After stage 1 of Chozo Ruins has been completed, the player can opt to return to Tallon to explore the other areas that were previously inaccessible. Upon doing so, they should find the elevator door to begin the first stage of [[#MAGMOOR CAVERNS|Magmoor Caverns.]]
 
 ==== Landing Site ====
-* The game now starts off with having landed on Tallon IV, and immediately the player is presented with several doors to go through. The path to the elevator to Chozo Ruins being the intended way to progression.
-* Some optional areas and micro-areas visible/blocked off serve as [[../reference#Teasers|teasers]] for later abilities as soon as you reach Tallon IV
+* The game now starts off with having landed on Tallon Overworld, and immediately the player is presented with several doors to go through. The path to the elevator to Chozo Ruins being the intended way to progression.
+* Some optional areas and micro-areas visible/blocked off serve as [[../reference#Teasers|teasers]] for later abilities as soon as you reach Tallon Overworld
 
 ==== Tallon Canyon ====
 
+==== Root Cave ====
+%% After 2/3rds non-linear fetch quest,
+
 ==== Artifact Temple ====
-* Mysterious [[../reference#Significant Landmarking|artifact temple looks highly significant]], although cannot immediately be made sense of or what to do there, we can only access it fairly early in the game.
+* The mysterious artifact temple [[../reference#Significant Landmarking|looks highly significant]], although cannot immediately be made sense of or what to do there, we can only access it fairly early in the game.
+
+==== Life Grove ====
 
 === CHOZO RUINS ===
 [[file:metroidprime_map_chozo.jpg|>> MAP <<]]
 * Chozo Ruins is the first [[macro-area]] of significant importance in the game, as stage 1 really establishes the metroidvania model efficiently.
 * [[../reference#Two-sector Alternation Model|Two-sector alternation model]] featuring a [[../reference#Double Roundabout|roundabout]] and two [[branches]] in Stage 1 Chozo Ruins.
+* Due to the [[../reference#Floor is Lava|toxic acid]], many rooms have hazardous floors that should be avoided as much as possible.
 * [[../reference#Cluster Enemies|Cluster enemies]] occupy most of the cylindrical transition halls, and they drop loads of health/ammo due to their numbers. They scurry and gather collectively in a set spot to deal damage upon contact, so you are initially incentivized to shoot them, but once the morph ball is aquired, you can quickly [[../reference#Out-of-box Option|roll past them]] without having to deal with this, [[../reference#Streamline Ability|streamlining]] the process.
-* Heavy use of [[../reference#Teasers|visible, but unusable]] spider ball tracks in stage 1, to drive home the fact that spider ball is useful in this area.
-* Upon defeating the first [[#Flahgraa|boss]], the [[../reference#Environmental Transformation|toxic water becomes clean]]- marking the end of stage 1, but is only able to be walked into and explored to a very limited extent at this point.
-* Stage 2 of Chozo Ruins comes after spider ball is acquired, as well as other new toys found throughout the game to help streamline re-traversal and acquire more powerups. The spider ball teasers in the first stage heavily imply that you can make use of them here. Although several instances make use of tracks to acquire optional upgrades, the only room that is needed for progression in this stage is the [[#Furnace|furnace]].
+* Heavy use of [[../reference#Teasers|visible, but unusable]] spider ball tracks in stage 1, to really drive home the idea that spider ball will be useful in this area later.
+* Upon defeating the first [[#Flahgraa|boss]], the [[../reference#Environmental Transformation|toxic acid becomes clean water]]- marking the end of stage 1, but is only able to be walked into and explored to a very limited extent at this point.
+* Stage 2 of Chozo Ruins comes after spider ball is acquired, as well as other [[../reference#Streamline Ability|new toys]] found throughout the game to help streamline re-traversal and unlock more secrets. The spider ball teasers in the first stage heavily imply that you can make use of them here. Although we've seen several instances of tracks here, the only one of those that is needed for further progression is in the [[#Furnace|furnace]].
 
 ==== Main Plaza ====
 * Similar to the [[#Landing Site|landing site]], this area opens the player up to several paths to choose from with only one correct combination for progression, but several ways to explore in and out.
 * A Chozo tree in the center doesn't immediately look special, but [[../reference#Visual Hinting|reflects missiles]] similar in nature to blast shields.
 * A missile upgrade sits within a crevice atop a half-pipe, impossible to acquire at this point in time.
-* An energy tank perched on a [[../reference#Teasers|high cliff]] behind a door grabs the player's attention as it can merely be seen, with no clues yet as of how to acquire it.
+* An energy tank perched on a high cliff behind a door grabs the player's attention as it can [[../reference#Teasers|merely be seen]], with no clues yet as of how to acquire it.
 
 ==== Eyon Tunnel ====
 * Eyons- sentinel-like ocular creatures that shoot lasers from walls- fill this room. They are generally non-threatening and easy to avoid. Shooting them will temporarily [[../reference#Incapacitation|close them shut]].
@@ -122,7 +129,7 @@
 ==== Ruined Nursery ====
 * Upon entering, a morph ball puzzle with a missile upgrade appears on the wall, but [[../reference#Teasers|cannot be interacted with]] at this time, as the morph ball has not been acquired.
 * A save room sits atop this area as well, but war wasps appear in groups when their hive is approached. You can preemptively [[../reference#Termination|destroy the hive]] with a missile, but only once they are acquired from the first [[#Hive Mecha|boss]].
-%% * Use of 2D-like morph ball puzzles in which you bomb certain blocks to proceed and grab the powerup.
+* Once bombs have been acquired, the player can return to the morph ball puzzle, where must bomb a certain block first to grab the missile upgrade.
 
 ==== Ruined Gallery ====
 * A [[../reference#Visual Hinting|fractured wall]] sits in plain view on the bottom level from the entrance, but cannot be opened without the missile launcher.
@@ -133,36 +140,63 @@
 * Plazmites- firefly-like creatures- roam the dark hallway, and [[../reference/Termination|their light goes out]] upon death, [[../reference#Mechanical Hinting|making the room noticeably darker]].
 
 ==== Transport Access North ====
-* After defeating the [[#Hive Mecha|boss]], a blast shield guarding the door to the room can be opened, revealing an energy tank, but in plain sight also shows a [[../reference#Teasers|tunnel]] the size of a morph ball, heavily reminding the player to return to check it out once the morph ball has been acquired.
-* Once the morph ball has been acquired from the [[#Plated Beetle|boss]], the player can immediately return and explore the tunnel, revealing a morph ball section with automated lifts. The exit of the tunnel is raised, and the player [[../reference#One-way Valves|cannot go back]] through the other way unless they acquire bombs, whereby then then the player can blow up blocks in the tunnel to [[../reference#Streamlining|bypass the lifts]].
+* After defeating the [[#Hive Mecha|boss]], a blast shield guarding the door to the room can be opened, revealing an energy tank, but also shows a tunnel in plain sight the size of a morph ball, heavily reminding the player to [[../reference#Teasers|return to explore it]] once the morph ball has been acquired.
+* Once the morph ball has been acquired from the [[#Plated Beetle|boss]], the player can immediately return and explore the tunnel, revealing a morph ball section with automated lifts. The exit of the tunnel is raised, and the player [[../reference#One-way Valves|cannot go back]] through the other way unless they acquire bombs, whereby then then the player can blow up [[../reference#Streamlining|blocks in the tunnel to bypass the lifts]].
 
 ==== Ruined Shrine ====
+* After
 
 ==== Transport to Magmoor Cavers North ====
-* This room has three seperate doors and an elevator leading to [[#MAGMOOR CAVERNS|Magmoor Caverns]]. Discovering this elevator should [[../reference#Visual Hinting|remind the player]] of another area to potentially to go next.
+* This room has three doors and an elevator leading to [[#MAGMOOR CAVERNS|Magmoor Caverns]]. Discovering this elevator should [[../reference#Visual Hinting|remind the player]] of another macro-area to potentially to go next.
+* After finishing the first stage of Chozo Ruins, and arriving from the [[#Hive Totem|hive totem]], the player is immediately incentivized to move on to the [[#MAGMOOR CAVERNS|next area]], but can alternatively begin the second roundabout with bombs having been finally acquired, eventually leading back to the elevator to continue.
 
 ==== Hive Totem ====
 * Many war wasps occupy the room, and a spider ball rail is [[../reference#Teasers|front-and-center]], but nothing can immediately be done here in the first stage.
+* Upon defeating the final [[#Flaghraa|boss]] of the first stage of the Ruins, you are [[../reference#One-way Valve|dropped from the top to the bottom]] of the room, and subsequently led back to the [[#Transport to Magmoor Cavers North|elevator room]]. From before
 
 ==== Vault ====
 * [[../reference#Activate to Proceed|Three locking mechanisms]] keep a missile upgrade locked within the vault. Unless the player has acquired bombs, the player can merely [[../reference#Teasers|observe]], and return on the second roundabout. However, upon exiting this room and the next, they are greeted with the perched energy tank seen in the [[#Main Plaza|main plaza]] before, thereby completing the first roundabout.
-%% * [[../reference#Intrinsic Gatekeeping|Master morph ball bomb timing]] to acquire optional missile expansion.
+* Beginning on the second roundabout after the player has bombs, they can attempt to unlock the mechanisms on the vault, and while the first two are straightforward, the third lock [[../ref#Intrinsic Gatekeeping|requires mastery]] of bomb-hopping.
 
 ==== Meditation Fountain ====
 * More plazmites roam the dark room and react identically to how they did [[#Totem Access|before]], but visibility is now severely limited upon [[../reference#Termination|killing them]].
+* A fountain spews toxic acid below a long magnetic spider ball track, but the player [[../reference#Teasers|cannot interact]] with it at this point in time.
+%% War wasp death visual hinting...
 
 ==== Arboretum ====
+* Reaper vines guard the platforms as they swing violently when approached, and [[../reference#Shoot to Proceed|must be shot]] to force them to temporarily retract.
+* Upon moving up the walkway, the player is met with tunnels in the wall, but blockage within the tunnels [[#../reference#Teasers|requires bombs]] in order to proceed any higher.
+* After acquiring bombs from the [[#Incinerator Drone|boss]], the wall tunnels can now be cleared, allowing access up the walkway. The player is also incentivized to [[../reference#Shoot to Proceed|shoot the toxic venom weed]] to avoid taking big damage from within the tunnel. While climbing, the player may notice that they must [[../reference#Search and Activate to Proceed|find and scan]] four runic symbols (as they may have [[#Mechanical Hinting|done before]] in a [[#Watery Hall|previous room]]) to unlock the gate and reveal the final [[#Flahgraa|boss room]] for this stage.
+* A patch of more venom weed at the bottom also hide one of these symbols. [[../reference#Shoot to Proceed|Shooting them]] will force them into hiding, allowing it to be activated.
 
 ==== Gathering Hall ====
-* Depending on the angle/platform your standing from, dormant shriekbats can be seen and dispatched before agitated.
+* Climbing/platforming up the treacherous path reveals the door to progression, but the save point door, as well as another path are both fruitful as well.
+* Depending on the angle/platform your standing from, dormant shriekbats can be seen and preemptively dispatched before agitated.
 
-==== Energy Core ====
-%% * [[../reference#Timed Consecutive Action Sequence|Timed morph ball bomb slot sequences]] to access optional energy tank in the [[#Furnace|furnace]].
-
-==== Furnace ====
+==== Watery Hall Access ====
+* Behind a [[../reference#Visual Hinting|fractured wall]] along the side of the hallway, [[../reference#Audible Hinting|a powerup can be heard]], signifying that it's there. Only a missile is required to destroy the wall and grab it.
 
 ==== Watery Hall ====
-* [[../reference#Search and Activate to Proceed|Scan hidden runics]] to unlock large door.
+* Four runic symbols must be [[../reference#Search and Activate to Proceed|found and scanned]] in this room to unlock the gate at the end.
+* Upon entering the gate, a series of dormant eyons guard the access to the charge beam powerup. Once acquired, the eyons activate. Whereas before, you could merely [[../reference#Incapacitation|incapacitate]] the eyons, you can now [[../reference#Termination|destroy them]] with the charge beam.
+* A blocked tunnel sits aside the powerup, and bombs are required to access it (as well as missiles for the blast door), leading to the [[#Dynamo|dynamo]].
+
+==== Dynamo ====
+* The dynamo contains a metal structure containing a missile upgrade, and yet another inaccessable rail track, further [[../reference#Teasers|conditioning]] the player to come back once they've acquired spider ball.
+
+==== Energy Core Access ====
+* Eyons guard this room similarly to the [[#Eyon Tunnel|eyon tunnel]], but an alternate path below the ground allows you to bypass them, but since it's blocked by rubble, the player can only use it [[../resources#Teasers|once they've acquired bombs]].
+
+==== Energy Core ====
+* Two paths split the room upon entry, with acid blocking one, but a morph ball tunnel marking progression in the other. The space in the center is flooded with acid.
+* The patient stone toad blocks access to another switch and swallows morph balls when approached, but can only be [[../reference#Teasers|destroyed from within]] with bombs from the upcoming [[#Incinerator Drone|boss]].
+* Upon acquiring the bombs, the stone toad can be destroyed and bypassed, allowing access to the switch to initiate the [[../reference#Timed Consecutive Action Sequence|timed morph ball bomb slot sequence]]. The first switch drains the acid in the center, clearing the room and the path from before, the second switch raises two elevators in the center to access the room with the final switch which raises the final elevators, enabling access to the [[#Furnace|furnace]]. The acid remains drained and the elevators aloft permanently once the switch sequence is completed.
+
+==== Burn Dome ====
+
+
+==== Furnace ====
+* Upon entering the furnace, another [[../reference#Teasers|unusable magnetic rail system]] makes an appearance, but a basic tunnel next to it allows access to an energy tank.
 
 ==== Tower of Light ====
 * Tower of light is a very tall, cylindrical room featuring sets of platforms reaching to the top. On four sections along the circumference of the cylindrical room there are [[stress points]] indicating that they can be damaged. The stress points can be destroyed with 3 missiles each for a total of 12 missiles minimum for each round. Upon dispatching the stress points, the room [[../reference#Environmental Transformation|truncates itself from the middle]], thereby lowering the upper part of the room, where the player repeats the process twice more, with increased challenge coming from moving [[missile reflecting enemies]] along the stress points and [[sun rays obscuring your vision]].
@@ -172,25 +206,69 @@
 ==== Hall of the Elders ====
 * A miniboss fight always begins upon entering this room, but it's
 
-%% * During backtracking for items, find optional elevator to magmoor caverns north blocked by intense heat (one in Ruins, another in Overworld).
+%% During backtracking for items, find optional elevator to magmoor caverns north blocked by intense heat (one in Ruins, another in Overworld).
 
 === MAGMOOR CAVERNS ===
 [[file:metroidprime_map_magmoor.jpg|>> MAP <<]]
+* Magmoor caverns gets effectively unlocked once the varia suit has been acquired, as it is a high-heat zone. Thus, there is lots of [[../reference#Floor is Lava|dangerous lava]] all around. By this point, the player should have enough platforming experience avoiding acid in Chozo Ruins to be able to respect the lava.
+* Magmoor caverns functions more like a transitional macro-area to bridge the gap between other macro-areas, almost like a weak hub-world but more snakey and trial-like in nature. Barely any extended focus is given to here as opposed to other areas.
+* Stage 1 of Magmoor Caverns is essentially an inverse fork where you can enter from two very seperate areas (from either the [[#Transport to Magmoor Cavers North|Ruins]] or [[#Root Cave|Overworld]]), but they eventually meet and converge with each other into the path needed for progression by the end of this stage.
 
 ==== Burning Trail ====
-* After decending upon automated lifts and encountering a save room, the player is offered a [[../reference#Teasers|sneak peek]] into Magmoor Caverns, but they cannot safely explore until after acquiring the varia suit after Chozo Ruins stage 1.
+* After descending upon automated lifts and encountering a save room, the player is offered a [[../reference#Teasers|sneak peek]] into Magmoor Caverns, but they cannot safely explore until after acquiring the varia suit after Chozo Ruins stage 1.
+
+==== Lake Tunnel ====
+* Slowly descending platforms guarded by alternating flamethrower traps surrounded by lava force the player to [[../reference#Yield to Proceed|yield to traps and lava]] before traversing the meat of the caverns.
+
+==== Lava Lake ====
+
+==== Pit Tunnel ====
+* The open area is blocked by a tall gate, but the way through is an underground hole on either side. The pit is crawling with triclops, a creature that will punish you by spitting you back out the hole you came in if it grabs you. Bomb placement is key to properly dispatch of them and make it to the other side.
+%% Streamlined with double jump
+
+==== Triclops Pit ====
+* With just one entrance and one exit, a massive underground pit of triclops hold the secret to a missile powerup.
+%% Invisible platforms
+
+==== Monitor Station ====
+* The inverse fork characteristic of stage 1 forms a convergence at this room, where both branches of the fork meet. The [[../reference#Landmarking|massive structure]] in the room guarded by defense turrets indicates importance, and incentivizes the player to climb and explore it- first and foremost.
+* While walking across the bridge leading to the next room, a [[../reference#Teasers|scaffold that's barely out of reach]] can be seen to the side, with another bridge directly above the current one. The significance of this is ambiguous at this point.
+
+==== Transport Tunnel A ====
+* Upon entering the morph ball tunnel, a [[../reference#Visual Hinting|tall space directly above]] hints that there might be something up there, but as it's above a destructible [[../Visual Hinting|metal box over lava]], reckless bombing will punish the player. If the player has completed the [[#Vault|vault puzzle]], they should [[#Mechanical Hinting|recall the bomb-hopping tech]] from before which is needed to complete the optional trial. Three bomb-hops are necessary to grab the energy tank at the top, and since the metal boxes break (and respawn) after two bombs, the bomb-hops must be performed consecutively.
+* Aside from the bomb-hop challenge, this room transitions the player into a new macro-area, thereby ending stage 1 of Magmoor Caverns, and beginning stage 1 of [[#PHENDRANA DRIFTS|Phendrana Drifts]].
+%% Morph ball skill check
 
 ==== Geothermal Core ====
 
-%% * Underground morph ball maze sections with predatory enemies in Magmoor Caverns
+%% Underground morph ball maze sections with predatory enemies in Magmoor Caverns
 
 === PHENDRANA DRIFTS ===
 [[file:metroidprime_map_phendrana.jpg|>> MAP <<]]
-%% * Phendrana [[../reference#Linear Fetch and Escape|space pirate base section]] was cool.
-%% * Phendrada depths gravity suit search section features a [[../reference#Linear Fetch-and-escape Sequence|linear fetch-and-escape sequence]] with a series of [[../reference#One-way Valves|one-way valves]]
+* Phendrana Drifts is the second [[../reference#Macro-area|macro-area]] where the player spends an extended time on. However, the first stage is short-lived, as the player will have to [[backtrack]] to [[#Tallon Canyon|Tallon Overworld]] once they've acquired the boost ball.
+
+%% Phendrana [[../reference#Linear Fetch and Escape|space pirate base section]] was cool.
+%% Phendrada depths gravity suit search section features a [[../reference#Linear Fetch-and-escape Sequence|linear fetch-and-escape sequence]] with a series of [[../reference#One-way Valves|one-way valves]]
+
+==== Shoreline Entrance ====
+* Several clusters of frozen ice debris impede initial entry, but are quickly and permanently cleaned up with either charge beam or missiles.
+
+==== Phendrana Shorelines ====
+* Not unlike Chozo Ruins and Tallon, this [[../reference#Plaza|introductory area opens up quickly]] to a wide open space with several doors and secrets.
+* To progress further, the player must locate a [[../reference#Visual Hinting|suspicious metal structure]] within a building to destroy and bypass and [[../reference#Activate to Proceed|scan a panel]] to unlock the door directly above the ceiling. From there, the player must perform a platforming exercise to reach the top of the building to proceed.
+* While the keys to unlock the door to progression are blocked behind a metal structure, The save room is straight ahead from the enterance in a wide cave under the platforming secion, [[incentivizing the player somewhat]] to notice the save room first.
+* While exploring or platforming especially, the player should [[../reference#Visual Hinting|notice floating platforms]] leading to a distant door atop a tall structure. Attempting to mount these hovering platforms [[../reference#Teasers|proves futile]] at this time, however.
+* A missile upgrade [[../reference#Teasers|sits out of reach]] within frozen ice behind a pillar, as it is [[../reference#Expositional Hinting|explained]] that extreme heat is required to melt the ice.
+
+==== Ice Ruins Access ====
+* Scatter bombus roam the cylindrical halls of this area, with [[../reference#Yield to Proceed|rotating electrical currents]] featuring [[../reference#Visual Hinting|gaps large enough]] to roll through with correct timing to come out unscathed.
+
+==== Ice Ruins East ====
+* Sleeping sheegoth babies are brought awake when approached or disturbed, confronting the player with the first basic enemies strong enough to pose a real threat to the player's life. Given that they are similar in nature to the [[#Plated Beetle|plated beetle]] from earlier, the player should have [[../reference#Callback|the necessary skill set]] to fight the pack of two baby sheegoths.
+* Baby sheegoths are vulnerable only in their [[../reference#Shrouded Weakspot|exposed backside]], and will generally face the player as to keep it protected, using an aggresive array of both long and short range attacks. Therefore, circle-strafing is an essential strategy. However, once their backside shell has been damaged, they will become [[more aggressive]] in desperation, so they'd best be terminated as soon as possible. Upon death, they can even use cold breath as a [[dying attack]], which if the player is caught in range of will deal some damage and freeze the player, forcing them to [[mash jump]] to escape the ice.
 
 ==== Ruined Courtyard ====
-* Ruined Courtyard features a [[../reference#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph ball bomb slots, and snowy platforms mixed with an [[../reference#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level, a morph ball tunnel containing an energy tank is [[../reference#Visual Hinting|hinted at]] with a glowing rim. Once grabbed, the timed action and transformation sequences must be done over again to reach the top and proceed.
+* Ruined Courtyard features a [[../reference#Timed Consecutive Action Sequence|timed consecutive action sequence]] with morph ball bomb slots, and snowy platforms mixed with an [[../reference#Environmental Transformation|environmental transformation]] section where the water rises. In-between the start of the timed action sequence and the goal at the top of the level, a morph ball tunnel containing an energy tank is [[../reference#Visual Hinting|hinted at]] with a glowing rim. Once grabbed, the timed action and transformation sequences must be repeated to reach the top and proceed.
 
 ==== Observatory Access ====
 * Upon entering from a vertical door, the player is greeted with stacked crates with turrets behind them. If activated by proximity, the turrets will [[blast open the crates]] and shoot the player.
@@ -206,22 +284,35 @@
 === Parasite Queen ===
 
 === Hive Mecha ===
-* Hive-mecha fight requires killing increasingly present mobile enemies on a small circular arena surrounded by [[../reference#Ring-out|toxic water]] and tracking them with [[radar]] and [[../reference#Audible Hinting|audio queues]] to expose the weak-point of stationary boss. Rinse and repeat three times to win and acquire the missile launcher.
+* Hive-mecha fight requires killing increasingly present mobile enemies on a small circular arena surrounded by [[../reference#Ring-out|toxic acid]] and tracking them with [[radar]] and [[../reference#Audible Hinting|audio queues]] to expose the weak-point of stationary boss. Rinse and repeat three times to win and acquire the missile launcher.
 
 === Plated Beetle ===
-* Plated beetle fight begins with the player fighting [[../reference#Minions|many regular beetles]] at once in the arena until enough are killed to summon the plated beetle. It encourages player to use the dodge ability [[../reference#Visual Hinting|at the correct time]] to [[../reference#Circle-strafing|circle around the enemy]] to shoot its [[../reference#Backside Weakspot|exposed backside]]
+* The boss fight begins with the player fighting [[../reference#Minions|many regular beetles]] at once in the arena until enough are killed to summon the plated beetle.
+* The plated beetle encourages player to use the dodge ability [[../reference#Visual Hinting|at the correct time]] to [[../reference#Circle-strafing|circle around the enemy]] to shoot its [[../reference#Backside Weakspot|exposed backside]]
 
 === Incinerator Drone ===
 * Incinerator drone fight requires you to jump and duck past the boss's [[../reference#Circle-strafing|circular attack pattern]] and to shoot the [[../reference#Peakaboo Weakspot|temporarily exposed weak point]] while dealing with [[../reference#Minions|increasingly present weaker enemies]]
 
 === Flahgraa ===
-* Flahgraa fight requires you to shoot to stun the boss and deactivate nodes to incapacitate the boss in order to damage it
+* Flahgraa fight requires you to quickly shoot increasingly present solar panels (1-4) to [[incapacitate the boss]] in order to damage it. Rinse and repeat four times to defeat Flahgraa.
+* The boss attacks with projectile and melee weapons, but cannot move from the center. It will also attempt to deactivate the targets you've shot, but to counter this, you can shoot the boss to [[temporarily stun]] it.
+* [[../reference#Circle-strafing|Circle strafing]] and dashing with the lock-on is a useful strategy.
 
 === Sheegoth ===
 * Sheegoth requires you to shoot the mouth with specific weapon while not using other weapons, as it charges the boss's attacks, making it stronger
 
 === Thardus ===
 * Thardus requires you to [[../reference#Dynamic Weakspot|locate its weak-point]] with thermal visor, attack it, then switch back to normal visor and target the same point to destroy that point. Rinse and repeat. [[../reference#Aesthetic Presentation|(Some weather effects too)]]
+
+=== Elite Pirate ===
+
+=== Cloaked Drone ===
+
+=== Omega Pirate ===
+
+=== Meta Ridley ===
+
+=== Metroid Prime ===
 
 ----
 
@@ -239,12 +330,12 @@
 * I think that given the task Retro Studios was given with, they hit the nail on the head making Metroid's debut in 3D, and filling in Super Metroid's shoes. Although not perfect, Prime serves as a great first-person action/adventure game - and perhaps the only of its kind - with such a heavy focus on the MV formula. The atmosphere just great.
 
 === Game Feel ===
-* I think there was lots of thought put into the level design from the micro to the macro level. The levels and areas flow together nicely all things considered, and the emphasis on exploration and encouraging the player to check back on the things they were blue-balled on before was pretty good. Although it does a good job at honoring Super Metroids design philosophy and atmosphere, the game feel leaves some to be desired- as it is after all a single-stick first-person shooter, and silky, satisfying movement mechanics would have been much harder to implement. The targeting system does its best to keep things smooth, but looking around can feel stiff and slow at times. (I wish there was a sensitivity option somewhere). Platforming while not bad, isn't nearly as smooth and satisfying as in Super Metroid.
+* I think there was lots of thought put into the level design from the micro to the macro level. The levels and areas flow together nicely all things considered, and the emphasis on exploration and encouraging the player to check back on the things they were blue-balled on before was pretty good. Although it does a good job at honoring Super Metroids design philosophy and atmosphere, the game feel leaves some to be desired- as it is after all a single-stick first-person shooter, and silky, satisfying movement mechanics would have been much harder (if not impossible) to implement. The targeting system does its best to keep things smooth, but looking around can feel somewhat stiff and slow at times. (I think a sensitivity slider would help to remedy this). Platforming while not bad by any means, isn't nearly as smooth and satisfying as in Super Metroid.
 
 === Morph Ball ===
 * The morph ball mechanic adds a whole new dimension of mobility, combat and puzzle-solving, in these games so much so that I find it underappreciated/overlooked.
 
-=== Steamlining ===
+=== Streamlining ===
 * Although the flow between levels is generally good, I would've maybe liked it if there were more breakable or uncoverable shortcuts to make traveling even more streamlined across areas than they already were. In this way I feel like the grapple beam is underutilized, as it is a prime candidate for this job, but it is also just fun to use. I think it would've been viable to use something other than strictly the "grapple points" as use for the grapple beam, such as maybe some more natural or mechanical elements that fit the environment you're in. I think the spider ball could've been used more often too, especially in some of those slower morph ball-only sections.
 
 === Powerups ===
@@ -257,7 +348,12 @@
 * One thing that slightly bothered me is the repetitive use of particular enemies in sometimes in early/mid game (Flying Pirates and Shriekbats in particular get overused) and in some instances of the game the topography feels too similar (cylindrical access tunnels get used alot early/mid-game).
 
 === Design Flaws ===
-* I do question the game's ability to point the player in the right direction at a couple points in the game. In this way, I think the developers relied too much on the hint system to mask flaws in the level design. Two examples stick out to me and those are the half-pipe in Tallon Overworld and sunken frigate entrance after grabbing the ice beam. I understand why the developers included the hint system- to guide players who inevitably get lost to their next progression point without giving _too_ much information away on how to get there (most of the time). I just think that most of the items and progression points did this well enough on their own without the need for the hint system, while a select few did not. The half-pipe example requires the player to go _all_ the way back to Tallon Overworld after acquiring the boost ball to locate a specific and easy to miss half-pipe that is required to get the space jump boots. It's not the backtracking itself that particularly bothers me, it's just that the answer the boost ball is too obtuse on its own (without the hint) to justify its design choice, I think. The most egregious example of this comes mid-game after the ice beam is acquired. Once the spider ball is acquired, you are greeted with an ice door upon entering the next elevator room. This ice door was to serve as the main hint on where to go after acquiring the ice beam shortly after. Or perhaps even the ice door in the research core. The problem is that these doors are easy to ignore and forget, and on top of that- once acquiring the ice beam- you are given two more paths to explore immediately. One leads to Magmoor Caverns for optional stuff, and the other leads to the entrance to the sunken frigate which is also blocked by an ice door. If the player enters the frigate before going back to Phendrana Drifts to grab the gravity suit, then they will have to though a slog of underwater scavenger hunting and platforming only to be told to go straight back all the way up from where they came. This blatant flaw easily could've been fixed in a couple ways just off the top of my head. One way is to move the door that drops you into the frigate crash site from Chozo Ruins _behind_ the body of water, that way the player is still gatekept by that instead of given premature access to the frigate. Another way to solve this is to simply put a door early on in the frigate that's inaccessible to anyone without the gravity suit, so that the player doesn't get premature access to the reactor core and cargo freight just to trek back in the most crude way possible- being explicitly told to.
+* I do question the game's ability to point the player in the right direction at a couple points in the game. In this way, I think the developers relied too much on the hint system to mask flaws in the level design. Two examples stick out to me and those are the half-pipe in Tallon Overworld and sunken frigate entrance after grabbing the ice beam. I understand why the developers included the hint system- to guide players who inevitably get lost to their next progression point without giving _too_ much information away on how to get there (most of the time). I just think that most of the items and progression points did this well enough on their own without the need for the hint system, while a select few did not.
+
+* The half-pipe example requires the player to go _all_ the way back to Tallon Overworld after acquiring the boost ball to locate a specific and easy to miss half-pipe that is required to get the space jump boots. It's not the backtracking itself that particularly bothers me, it's just that the answer the boost ball is too obtuse on its own (without the hint) to justify its design choice, I think.
+
+* The most egregious example of this comes mid-game after the ice beam is acquired. Once the spider ball is acquired, you are greeted with an ice door upon entering the next elevator room. This ice door was to serve as the main hint on where to go after acquiring the ice beam shortly after. Or perhaps even the ice door in the research core. The problem is that these doors are easy to ignore and forget, and on top of that- once acquiring the ice beam- you are given two more paths to explore immediately. One leads to Magmoor Caverns for optional stuff, and the other leads to the entrance to the sunken frigate which is also blocked by an ice door. If the player enters the frigate before going back to Phendrana Drifts to grab the gravity suit, then they will have to though a slog of underwater scavenger hunting and platforming only to be told to go straight back all the way up from where they came. This blatant flaw easily could've been fixed in a couple ways just off the top of my head. One way is to move the door that drops you into the frigate crash site from Chozo Ruins _behind_ the body of water, that way the player is still gatekept by that instead of given premature access to the frigate. Another way to solve this is to simply put a door early on in the frigate that's inaccessible to anyone without the gravity suit, so that the player doesn't get premature access to the reactor core and cargo freight just to trek back in the most crude way possible- being explicitly told to.
 
 * Another blemish with the level design in this game which I particularly disliked (disregarding the no-hint stuff), was retrieving the artifact of newborn. I feel like the fix would be very simply to put it closer to the entrance/exit point of the area that its in (being the Phazon Mines depths) instead of being right in the awkward middle area that its in, and given that there isn't a backtrack-phase in that area like the other artifacts because its the very end of the game, there's no real way to go back and get it that doesn't feel like a real slog.
+%% However, going back through the unlocked gate...
 
