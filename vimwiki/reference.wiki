@@ -46,12 +46,18 @@
 
 === One-way Valve ===
 
-=== Inverse Forking ===
+=== Forking ===
+
+*Inverse Forking*
 
 === Invisible Walls ===
 * Self explanitory, typically used to imply to the player that a certain area/spot is inaccessible
 
 === Streamlining ===
+
+=== Landmarking ===
+
+*Significant Landmarking*
 
 ----
 
@@ -123,6 +129,8 @@
 === Mechanical Hinting ===
 * A gameplay situation where the player is hinted information directly associated with gameplay mechanics that can be conveyed either audibly, visually, or by other means. Not to be confused with either [[#Audible Hinting|Audible Hinting]] or [[#Visual Hinting|Visual Hinting]].
 
+*Callback*
+
 === Expositional Hinting ===
 * A gameplay situation where the player is hinted or explicated information by systematic explaination.
 
@@ -137,9 +145,7 @@
 
 === Shoot to Proceed ===
 * A gameplay situation where the player is either forced or incentivized to shoot one or more targets to proceed further or achieve an outcome.
-
-=== Shoot and Climb to Proceed ===
-* A gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
+* *Shoot and Climb to Proceed*: A gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
 
 === Yield to Proceed ===
 * Yield to proceed is defined as a gameplay situation where the player is either forced or incentivized yield and react properly to something to proceed further or achieve an outcome.
@@ -162,28 +168,22 @@
 * A mechanic that allows the player to quickly travel to another area/macro-area. Typically this mechanic is unlocked or granted somehow, to contrast between normal travel.
 
 === Consecutive Action Sequence ===
-
-=== Timed Consecutive Action Sequence ===
+* *Timed Consecutive Action Sequence*
 
 === Ordered Consecutive Action Sequence ===
 
 === Timed Escape Sequence ===
-
-=== Optional Technique Mastery ===
 
 === Streamline Ability ===
 
 === Backtrack Filler ===
 * Backtrack filler is defined as
 
-=== Linear Fetch and Escape ===
-
-=== Linear Fetch-and-escape Sequence ===
+=== Linear Fetch and Escape Sequence ===
+* *Linear Fetch-and-escape Sequence*
 
 === Fetch Quest ===
-
-=== Grand Fetch Quest ===
-* Grand fetch quest
+* *Grand Fetch Quest*
 
 === Powerup Flow ===
 
