@@ -233,6 +233,8 @@
 
 === QTE ===
 
+=== Selective Invulnerability ===
+
 ----
 
 == LORE ==
