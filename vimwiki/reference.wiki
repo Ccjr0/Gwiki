@@ -71,6 +71,8 @@
 === Mobs ===
 * One or more group(s) of hostile enemies. Typically distinguished as "mobs" in boss/miniboss fights.
 
+*Replenishment Mobs*
+
 === Minions ===
 * One or more group(s) of enemies that fight alongside a distinguishably stronger or primary opponent. Typically used in boss/miniboss fights.
 

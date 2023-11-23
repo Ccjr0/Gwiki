@@ -18,15 +18,15 @@
 * Powerups [[../reference#Audible Hinting|emit subtle sound]] when nearby.
 * Missile launcher useful in combat, allows for breaking certain walls/barriers, and has a [[../reference#Area of Effect|blast radius]] that can kill multiple small enemies.
 * Certain walls, barriers, and objects are defined with [[../reference#Expositional Hinting|explicitly named materials]], implying they can be broken with a respective ability.
-* morph ball allows access through crevices previously unable to traverse as well as allowing the player to [[../reference#Streamline Ability|move swiftly]] along flat surfaces.
+* Morph ball allows access through crevices previously unable to traverse as well as allowing the player to [[../reference#Streamline Ability|move swiftly]] along flat surfaces.
 * Key item rooms typically [[../reference#One-way Valves|lock the player from within]] to escape using the respective item.
-* morph ball bombs allow certain materials to be broken, certain switches to be activated, and further [[../reference#Streamline Ability|morph ball mobility options]].
+* Morph ball bombs allow certain materials to be broken, certain switches to be activated, and further [[../reference#Streamline Ability|morph ball mobility options]].
 * Varia suit allows access to high-temperature areas.
-* boost ball allows access to higher levels of half-pipes, and [[../reference#Streamline Ability|speeding through areas]].
+* Boost ball allows access to higher levels of half-pipes, and [[../reference#Streamline Ability|speeding through areas]].
 * Space Jump Boots allows double jumping, making [[../reference#Streamline Ability|traversing old areas much easier]] and new ones possible.
 * Thermal visor allows for nightvision, locating certain enemies' [[../reference#Cloaking|weak points]], and finding [[../reference#Cloaking|power conduits]] to activate with wave beam to unlock doors.
 * Higher level enemies [[../reference#Backtrack Filler|fill in previous areas]] once certain checkpoints are reached.
-* spider ball allows for latching on and riding certain magnetic rails, as well as [[../reference#Streamline Ability|easier access]] to some areas.
+* Spider ball allows for latching on and riding certain magnetic rails, as well as [[../reference#Streamline Ability|easier access]] to some areas.
 * X-ray visor allows you to see completely [[../reference#Cloaking|invisible objects]] (such as walls and platforms), which are sometimes [[../reference#Visual Hinting|hinted toward by rain droplets]]
 * Grapple beam allows for swinging to areas unable to jump to or otherwise reach, and also [[../reference#Streamline Ability|quicker area traversal]]
 * [[../reference#Non-linear Item Quest|2/3rds non-linear item quest]] to proceed into Phazon Mines depths (X-ray visor/grapple beam free post-power bomb, plasma beam free post-grapple beam)
@@ -100,6 +100,7 @@
 * After stage 1 of Chozo Ruins has been completed, the player can opt to return to Tallon to explore the other areas that were previously inaccessible. Upon doing so, they should find the elevator door to begin the first stage of [[#MAGMOOR CAVERNS|Magmoor Caverns]].
 * Stage 2 of Tallon Overworld is short-lived, as the player returns from their journey all the way from [[#Phendrana Drifts|Phendrana Drifts]] where they've acquired the boost ball ability. The canyon, a common merging place between paths between Magmoor and Ruins, holds the key to obtaining the space jump boots, where the player will trek back to Phendrana thereby ending the second stage.
 * Tallon Overworld stage 3 begins once the player returns with the gravity suit to investigate the sunken frigate. Once cleared, the shortcut to Chozo Ruins is unlocked as well as the first elevator leading to [[#PHAZON MINES|Phazon Mines]].
+* Tallon Overworld stage 4 is very short-lived, but is essential for completing the 2/3rds [[non-linear fetch-quest]] after acquiring the power bombs from the [[#PHAZON MINES|Phazon Mines]]. The player must return to the life grove [[#Life Grove Tunnel|tunnel]] and explore the [[#Life Grove|life grove]] to find the x-ray visor, and hopefully find the [[../reference#Grand Fetch Quest|Chozo artifact]] hidden there as well to avoid an awkward 'stage 5' scenario.
 
 ==== Landing Site ====
 * The game now starts off with having landed on Tallon Overworld, and immediately the player is presented with several doors visible. The path to the elevator to the Chozo Ruins being the intended way to progression.
@@ -135,12 +136,13 @@
 * If the player decided to traverse the frigate prematurely without the gravity suit, they will have to perform the long underwater platforming exercise to reach the top and exit. Jelzaps placed near the platforms will suck the player in if not quickly dispatched, causing them to fall off and start over.
 
 ==== Cargo Freight Lift to Deck Gamma (Wrecked) ====
-* Upon unlocking this room with more power conduits, if the player hasn't acquired the gravity suit at this point, the foothold will bo [[../reference#Teaser|too high to reach]] and they must make the trek back up the reactor core.
+* Upon unlocking this room with more power conduits, if the player hasn't acquired the gravity suit at this point, the foothold will be [[../reference#Teaser|too high to reach]] and they must make the trek back up the reactor core.
 * 3 [[../reference#Search and Activate to Proceed|power conduits must be activated]] to power the door to progression. If the player hasn't activated the one at the bottom, they will have to go back to do so and repeat the platforming exercise.
 
 ==== Biohazard Containment (Wrecked) ====
 * A [[../reference#Expositional Hinting|cordite blast door]] hides a missile behind it. A super missile will break it open.
 * 3 [[../reference#Search and Activate to Proceed|power conduits must be activated]] to power the door to progression.
+* If the player happens to backtrack through this room again, aqua reapers will violently bust through one of the doors and [[../reference#Backtrack Filler|surprise the player]].
 
 ==== Hydro Access Tunnel ====
 * A morph ball tunnel section with rising bubbles make bomb bounces higher and floatier than usual. A [[../reference#Visual Hinting|tall space above]] hints that there may be something up there- a [[../reference#Callback|callback]] to a [[#Transport Tunnel A|similar tunnel within magmoor]]. Completing the [[../reference#Skill Check|optional bomb-hopping sequence]] under these new physics will reward the player with an energy tank.
@@ -151,6 +153,12 @@
 
 ==== Life Grove Tunnel ====
 * After climbing the spiraling spider ball rail, the player is greeted with this room and a morph ball tunnel, but it is [[../reference#Teaser|blocked off]] by [[../reference#Expositional Hinting|bendezium]] rubble.
+* When the player returns with power bombs to clear the rubble, a morph ball tunnel leads into a full-pipe structure with a round divider within the tunnel. If the player can manage to [[../reference#Skill Check|get enough speed]] to [[../reference#Out-of-box Option|reach the top]] of the divider, they can bomb the destructible block at the top and be rewarded with a missile expansion.
+
+==== Life Grove ====
+* Upon grabbing the x-ray visor, the player is essentially [[../reference#One-way Valve|trapped within]] and surrounded by [[../reference#Expositional Hinting|bendezium walls]]. Ambient creatures can enter the walled structure to [[../reference#Replenishment Mobs|drop power bombs]] if the player is dry. Once destroyed, the claustrophobic room [[../reference#Environmental Transformation|opens up]] into a massive one.
+* A [[../reference#Visual Hinting|drain cover]] can be found at the bed of the pond near the waterfall. Upon bombing it, a spinner device will arise from it. Upon activating the spinner, the [[../reference#Grand Fetch Quest|Artifact of Chozo]] will be revealed within a stone structure arisen from the ground.
+* A series of platforming and morph ball exercises will lead the player halfway toward the exit before Chozo ghosts appear. With the [[../reference#Mechanical Hinting|newly-found x-ray visor]], the player can easily track the ghosts to quickly dispatch them and proceed to the exit.
 
 === CHOZO RUINS ===
 [[file:metroidprime_map_chozo.jpg|>> MAP <<]]
@@ -266,7 +274,7 @@
 * Upon arriving from the [[#Furnace|furnace]], a large half-pipe structure sits in the middle of the room, with a [[../reference#Expositional Hinting|cordite]] insignia at the far end. Upon breaking it and scanning the switch behind it, a magnetic rail above the half-pipe flips over allowing access to a bomb slot.
 
 ==== Hall of the Elders ====
-* Immediately uppon entering, the lights turn dark as the Chozo ghost makes its first appearance. [[../reference#Selective Invulerability|Invulnerable to natural elements]] such as ice, fire, and electricity, ghosts are only weak to power beam based weaponry. Scanning also hints that they are [[../reference#Expositional Hinting|trackable with X-ray imaging]] as they phase in and out of existence, making them [[../reference#Cloaking|temporarily invisible]].
+* Immediately upon entering, the lights turn dark as the Chozo ghost makes its first appearance. [[../reference#Selective Invulerability|Invulnerable to natural elements]] such as ice, fire, and electricity, ghosts are only weak to power beam based weaponry. Scanning also hints that they are [[../reference#Expositional Hinting|trackable with X-ray imaging]] as they phase in and out of existence, making them [[../reference#Cloaking|temporarily invisible]].
 * Upon defeating the ghost, the lights turn on as the chozo statue's hands [[../Reference#Visual Hinting|begin to glow]], encouraging the player to place the morph ball within them. Once performed, the statue will launch the player into a spider ball track leading to a bomb slot, activating three [[../reference#Visual Hinting|color-coded bomb slots]] [[../reference#Significant Landmarking|unlike anything the player has seen]] thus far. The colors [[../reference#Teaser|correspond with beam colors]], and they are perched on a foothold at the top of the room. Upon reaching and shooting the purple one, the bomb slot becomes accessible and after bombing it, the [[../reference#Environmental Transformation|environment changes]] so that the chozo statue will launch the player into a morph ball leading behind a force field in the corner of the room. From here, the player can scan a [[../reference#Activate to Proceed|nearby panel]] to disable the force field allowing [[../reference#Streamlining|streamlined access]] in and out, and continue towards progress.
 * From this point onward after disturbing the Chozo ghost in this area, the following rooms will be [[../reference#Backtrack Filler|haunted with ghosts]]: [[#Ruined Shrine|Ruined Shrine]], [[#Arboretum|Arboretum]], [[#Furnace|Furnace]], [[#Hall of the Elders|Hall of the Elders]] [[#Sunchamber|Sunchamber]].
 * Upon returning with the ice beam, the player can unlock the white bomb slot and when activated, will
@@ -279,7 +287,7 @@
 [[file:metroidprime_map_magmoor.jpg|>> MAP <<]]
 * Magmoor caverns gets effectively unlocked once the Varia suit has been acquired, as it is a high-heat zone. Thus, there is lots of [[../reference#Floor is Lava|dangerous lava]] all around. By this point, the player should have enough platforming experience avoiding acid in Chozo Ruins to be able to respect the lava.
 * Magmoor caverns functions more like a transitional macro-area to bridge the gap between other macro-areas, almost like a weak hub-world but more snakey and trial-like in nature. Barely any extended focus is given to here as opposed to other areas.
-* Stage 1 of Magmoor Caverns is essentially an inverse fork where you can enter from two very seperate areas (from either the [[#Transport to Magmoor Cavers North|Ruins]] or [[#Root Cave|Overworld]]), but they eventually meet and converge with each other into the path needed for progression by the end of this stage. Additionally, both branches of the fork have one achievable powerup within them, giving explorational integrity to either path both coming in during this stage, and coming out after Phendrana stage 1.
+* Stage 1 of Magmoor Caverns is essentially an inverse fork where you can enter from two very separate areas (from either the [[#Transport to Magmoor Cavers North|Ruins]] or [[#Root Cave|Overworld]]), but they eventually meet and converge with each other into the path needed for progression by the end of this stage. Additionally, both branches of the fork have one achievable powerup within them, giving explorational integrity to either path both coming in during this stage, and coming out after Phendrana stage 1.
 * Post stage 1 Phendrana, the player will return to the [[#Monitor Station|monitor station]] where- if they hadn't before- could notice the alternate entrance there originating from the other branch in the aforementioned fork and take that route instead. Since there isn't that much to do or see in Magmoor besides end up walking straight in either direction towards either the [[#Transport to Tallon Overworld West|Tallon]] or [[#Transport to Magmoor Cavers North|Chozo]] elevators as everywhere else is blocked off with spider ball tracks, which deincentivizes the player to stay and explore this area, as it is not necessarily intended during this sub-stage.
 
 ==== Burning Trail ====
@@ -334,6 +342,7 @@
 
 ==== Workstation Tunnel ====
 * The [[../reference#Expositional Hinting|bendezium rubble]] blocks access in and out of the hallway, and unless the player has power bombs, they will [[../reference#Teaser|not be able to clear it]].
+* Upon coming up from the [[#Phazon Processing Center|Phazon Mines elevator]], the player should have the power bombs necessary to clear the rubble from before.
 
 ==== South Core Tunnel ====
 * Puddle spores are bio-organic creatures floating in the river of lava. They as a platforms once [[../reference#Shoot and Climb to Proceed|shot and flipped over]].
@@ -355,15 +364,13 @@
 * Stage 2 of Phendranda Drifts is likely the most notable stage of this area, as it is the most extensive. It's structured like three branches, with the middle branch being the most distinguishable as a [[linear fetch-and-escape sequence]] for grabbing the thermal visor. The first branch with the player investigating the floating platforms in the [[#Phendrana Shorelines|shorelines]] after having grabbed the space jump boots, eventually leading them to the wave beam. After this, they are meant to find the purple door as seen in the [[#Ice Ruins West|west ice ruins]] which shortly leads into a longer branch from within the space pirate base, and finally the [[#Thardus|final boss]] of the stage that drops the spider ball being the shortest seperate branch.
 * Stage 3 of Phendrana Drifts begins once the player comes back from the depths of Chozo Ruins after grabbing the ice beam to investigate the white doors from either the [[#Research Core|research core]] or the [[#Transport to Magmoor Caverns South|elevator room]] found at the end of stage 2. From there, Phendrana's depths open up to the player, and it functions similarly to the last one in that you fetch and escape, but its stage is much shorter and is structured as a [[non-linear fetch-and-escape sequence]].
 
-%% Phendrada depths gravity suit search section features a [[../reference#Linear Fetch-and-escape Sequence|linear fetch-and-escape sequence]] with a series of [[../reference#One-way Valves|one-way valves]]
-
 ==== Shoreline Entrance ====
 * Several clusters of frozen ice debris impede initial entry, but are quickly and permanently cleaned up with either charge beam or missiles.
 
 ==== Phendrana Shorelines ====
 * Not unlike Chozo Ruins and Tallon, this [[../reference#Plaza|introductory area opens up quickly]] to a wide open space with several doors and secrets, as well as a lovely pool of water that you can jump into.
 * To progress further, the player must locate a [[../reference#Visual Hinting|suspicious metal structure]] within a building to destroy and bypass and [[../reference#Activate to Proceed|scan a panel]] to unlock the door directly above the ceiling. From there, the player must perform a platforming exercise to reach the top of the building to proceed.
-* While the keys to unlock the door to progression are blocked behind a metal structure, The save room is straight ahead from the enterance in a wide cave under the platforming secion, [[incentivizing the player somewhat]] to notice the save room first.
+* While the keys to unlock the door to progression are blocked behind a metal structure, The save room is straight ahead from the entrance in a wide cave under the platforming section, [[incentivizing the player somewhat]] to notice the save room first.
 * While exploring or platforming especially, the player should [[../reference#Visual Hinting|notice floating platforms]] leading to a distant door atop a tall structure. Attempting to mount these hovering platforms [[../reference#Teaser|proves futile]] at this time, however.
 * A missile upgrade [[../reference#Teaser|sits out of reach]] within frozen ice behind a pillar, as it is [[../reference#Expositional Hinting|explained]] that extreme heat is required to melt the ice.
 * Upon completing the first stage of Phendrana Drifts, the player backtracks toward the very high cliff connected to the [[#Ice Ruins Access|ice ruins access]], to encounter a cutscene showing the massive shadow of Meta Ridley [[../reference#Visual Hinting|flying past Phendrana's exit]], thereby hinting the player that they are done with this area for now. Luckily, this means the player can merely [[../reference#Streamlining|jump down from here]], greatly streamlining the process of backtracking through this area.
@@ -374,7 +381,7 @@
 
 ==== Ice Ruins East ====
 * Sleeping sheegoth babies are brought awake when approached or disturbed, confronting the player with the first basic enemies strong enough to pose a real threat to the player's life. Given that they are similar in nature to the [[#Plated Beetle|plated beetle]] from earlier, the player should have [[../reference#Callback|the necessary skill set]] to fight the pack of two baby sheegoths.
-* Baby sheegoths are vulnerable only in their [[../reference#Shrouded Weakspot|exposed backside]], and will generally face the player as to keep it protected, using an aggresive array of both long and short range attacks. Therefore, circle-strafing is an essential strategy. However, once their backside shell has been damaged, they will become [[more aggressive]] in desperation, so they'd best be terminated as soon as possible. Upon death, they can even use cold breath as a [[dying attack]], which if the player is caught in range of will deal some damage and freeze the player, forcing them to [[mash jump]] to escape the ice.
+* Baby sheegoths are vulnerable only in their [[../reference#Shrouded Weakspot|exposed backside]], and will generally face the player as to keep it protected, using an aggressive array of both long and short range attacks. Therefore, circle-strafing is an essential strategy. However, once their backside shell has been damaged, they will become [[more aggressive]] in desperation, so they'd best be terminated as soon as possible. Upon death, they can even use cold breath as a [[dying attack]], which if the player is caught in range of will deal some damage and freeze the player, forcing them to [[mash jump]] to escape the ice.
 
 ==== Ruins Entryway ====
 * After fighting the sheegoth babies from before, a few crates are laid around this room to help replenish health/supplies, but pulse bombus from [[#Hive Totem|before]] have reappeared, and remind the player not only to [[../Yield to Proceed|mind their attacks]], but [[../reference#Callback|refrain from charging ]] your weapon as to not get damaged in the process of replenishing.
@@ -406,7 +413,7 @@
 * A defense turret as well as a shadow pirate- a [[../reference#Cloaking|semi-cloaked space pirate]]- greet the player upon entering. The cloaking device on the pirate inhibits the player's ability to lock on to the target until they are close enough to reveal themselves.
 
 ==== Research Entrance ====
-* A space pirate ambush awaits the player upon entering, having not seen them since they were crippled in the early game. Learning the fastest way to kill them takes some experimentating with charge beam/missile combinations.
+* A space pirate ambush awaits the player upon entering, having not seen them since they were crippled in the early game. Learning the fastest way to kill them takes some experimenting with charge beam/missile combinations.
 * A map room sits in the corner, revealing the entirety of the space pirate base once downloaded.
 
 ==== Research Lab Hydra ====
@@ -451,10 +458,73 @@
 
 === PHAZON MINES ===
 [[file:metroidprime_map_mines.jpg|>> MAP <<]]
-* Phazon mines is the final true [[macro-area]] of the game where the player spends an extensive amount of time on. It is also the area where the game gets [[../reference#Difficulty Spike|significantly harder]] due to the sheer number of aggressive space pirates. Stage 1 features two parts: First the player must fetch the power bomb upgrade and escape through the way they came.
+* Phazon mines is the final true [[macro-area]] of the game where the player spends an extensive amount of time on. It is also the area where the game gets [[../reference#Difficulty Spike|significantly harder]] due to the sheer number of aggressive space pirates, so all of the ammo and health upgrades the player has gathered throughout the game will come into fruition here.
+* Stage 1 features two parts: First the player must fetch the power bomb upgrade and escape through the way they came, and also grab the grapple beam on their way out and upon doing so, the player can unlock [[../reference#Streamlining|two shortcuts]] to help streamline backtracking between the mines: one [[#Maintenance Tunnel|tunnel]] leading to Magmoor Caverns, and one room dividing the [[#Main Quarry|quarry]] and the [[#Ore Processing|ore processing]].
+* Stage 2 comes when the player has finally fetched all 3 items necessesary to continue through the [[#Metroid Quarantine A|metroid quarantine]].
 
 ==== Main Quarry ====
 * The main quarry is very similar to other introductory areas from the other macro-areas in how it is very large, open, and features several doors and things to explore right out of the gate.
+* A save station to the side is [[../reference#Visual Hinting|easy to spot]] upon entering due to the spider ball track leading straight up to it.
+* The main force field is kept online by two nearby scan panels. [[../reference#Search and Activate to Proceed|Find and activate]] them to disable the force field and continue toward progression.
+* A tall bridge structure leading to the crane mechanism is the central focus of the room. Upon reaching the top of the crane, the player will encounter a [[../reference#Teaser|fruitless vertical spider ball track]], and a control room informing that the crane needs power. A single nearby [[../reference#Search and Activate to Proceed|power conduit]] will power the crane once energized, and upon re-scanning the control panel, will [[../reference#Environmental Transformation|activate the crane]] sending the hook crashing into a nearby wall, revealing a missile expansion. The spider ball track from before connects to the boom of the crane which is also made of magnetic track, allowing the player to ride across the entire thing to reach the missile upgrade. The control panel can also be used at will to change the crane's position.
+* A door perched atop a tall, distant foothold is too far to reach. However, the [[../reference#Teaser|grapple point on the crane's hook]] implies that the door can be reached if the player has it, assuming the crane is in the [[../#Environmental Transformation|correct position]].
+
+==== Security Access A ====
+* A fractured [[../reference#Expositional Hinting|bendezium gate]] behind the entry door [[../#Reference#Teaser|cannot be dispatched]] without power bombs.
+* Once the player returns with power bombs and destroys the gate, they are rewarded with a missile expansion.
+
+==== Mine Security Station ====
+* A [[../reference#Teaser|red door]] behind a [[../reference#Teaser|force field]] is present upon entering the room.
+* [[../reference#Visual Hinting|Color-coded space pirates]] vulnerable only to [[../reference#Selective Invulnerability|specific beam weapons]] introduce themselves in this room and ambush the player.
+* A [[../reference#Expositional Hinting|bendezium blast gate]] blocking a [[../reference#Visual Hinting|control panel]] [[../reference#Teaser|restricts access]] to the player until they have acquired power bombs.
+* Upon blasting the gate open with a power bomb and scanning the control panel, the force field guarding the red door is disengaged. If the player has the plasma beam, they can access it and acquire the flamethrower.
+
+==== Elite Research ====
+* A [[../reference#Expositional Hinting|bendezium statsis chamber]] housing a menacing enemy sits at the bottom floor of the room, but is [[../reference#Teaser|unbreakable]] unless the user has acquired power bombs.
+* A ceiling-mounted plasma cannon at the top of the room must be [[../reference#Environmental Manipulation|rotated with a boost spinner]] and activated with a control panel to [[../reference#Environmental Transformation|blast open]] one of several [[../reference#Visual Hinting|structurally weakened walls]] to reveal the door to progression, and [[../reference#Out-of-box Option|optionally a missile expansion]].
+%% Thermal/X-ray visors can be used...
+* Once the player returns with power bombs, they can destroy the stasis chamber and initiate a [[#Elite Pirate|mini-boss fight]]. When defeated, the boss drops the [[../reference#Grand Fetch Quest|Artifact of Warrior]].
+
+==== Research Access ====
+* While decending along the magnetic rail, a series [[../reference#Yield to Proceed|revolving metal rings with electrified slits]] big enough to fit through should be respected to get by without undamaged.
+
+==== Ore Processing ====
+* The large central pillar in this area contains three individually rotating sections with [[../reference#Visual Hinting|color-coded corresponding magnetic tracks.]] Blue, red, and yellow are used for the short, medium, and long tracks respectively. Each level up the room is connected by their corresponding colors, so the sections must be rotated with the morph ball slot so that the player can reach them. However, in order to rotated the higher levels, the player must also [[have access to the bomb slots on their respective levels]]- as they are placed there. [[Holographic maps]] connected to the slots are used to assist the player with knowing how the sections are rotated.
+* Accessing the first and second levels are relatively straightforward, but the bomb slot on the second level is blocked off by [[../reference#Expositional Hinting|bendezium rubble]], [[../reference#Teaser|restricting the player]] from accessing the third level of the room at this time.
+* Upon returning with the power bomb upgrade, [[../reference#Backtrack Filler|metroids]] casually roam the room and [[../reference#Audible Hinting|shriek when they spot prey]]. Once the player destroys the rubble so they can finish the puzzle, they unlock access to the grapple beam, as well as [[#Waste Disposal|another room]].
+
+==== Elite Control Access ====
+* Upon arriving from the level 1 elevator and preceding the [[#Elite Pirate|mini-boss]] room, the player will find a ventilation shaft along the ceiling [[../reference#Visual Hinting|leaking gas]]. An [[../reference#Visual Hinting|explosive crate]] placed next to the vents may entice the player to shoot it and in doing so, the gas will ignite and kill the space pirates hiding within the ventilation shaft, as well as destroying the ventilation cover which reveals a missile expansion.
+
+==== Maintenance Tunnel ====
+* This morph ball tunnel [[../reference#Teaser|blocks off access]] from either side with bendezium rubble, which can only be cleared once the player has acquired power bombs.
+
+==== Ventilation Shaft ====
+* Upon entry, the room quickly fills with toxic gas, gradually draining the player's health. The [[../reference#Visual Hinting|half-pipe shaped room]] allows the player to exit from the bottom floor. From here, the player is incentivized to leave the room, but a ventilation cover on the ground made of [[../reference#Expositional Hinting|bendezium]] implies that [[../reference#Teaser|more can be done]] in this room, but only once power bombs have been obtained.
+* After returning with power bombs, the ventilation cover can be blast open and the panel behind the fan can be activated, sending the puffers occupying the area into the opposite fan- destroying it- revealing an energy tank.
+
+==== Omega Research ====
+* Directly across the room from the entrance lies a door behind a pile of [[../reference#Expositional Hinting|bendezium rubble]]. The player [[../reference#Teasers|cannot clear the rubble]] until they return with power bombs.
+* Upon returning once power bombs are acquired,
+
+==== Dynamo Access ====
+* An elite pirate vibing within a stasis tank [[../reference#Foreshadowing|can be seen]] while casually passing through the hallway.
+
+==== Central Dynamo ====
+* After defeating the [[#Cloaked Drone|mini-boss]], an underground morph ball maze section commences where the player must keep their balance to avoid colliding with the harmful electric walls to grab the power bomb upgrade.
+
+==== Quarantine Access A ====
+* Upon entering from the [[#Central Dynamo|dynamo]], the hallway is heavily guarded with several active defense turrets. A [[../reference#Visual Hinting|nearby hole]] into an underground tunnel passage allows the player to bypass the turrets with morph ball and come back up from the other side safely. Afterwards, a nearby panel can be scanned to [[../reference#Incapacitation|disable the turrets]] without engaging in combat.
+
+==== Metroid Quarantine A ====
+* The force field keeping the metroids contained can be deactivated by a nearby panel by the entrance. Upon doing so [[../reference#Out-of-box Option|before engaging with the space pirates]], the metroids will begin to attack them while patrolling the room.
+* Upon investigating the metroid quarantine area, a [[../reference#Teaser|massive gap]] filled with phazon divides the player with the other side of progression. With no clues at all to go off of at this time, the player is forced to backtrack with power bombs and return later.
+
+==== Phazon Processing Center ====
+* With the bottom of the room [[../reference#Floor is Lava|covered with phazon]] and several space pirates/defense turrets to deal with while performing platforming/magnetic rail exercises in order to reach the higher levels, this makes for a somewhat challenging room to deal with.
+* When entering from the [[#Maintenance Tunnel|maintenance tunnel]], the player can traverse upward to reach an elevator to [[#Workstation Tunnel|Magmoor Caverns South]].
+
+==== Waste Disposal ====
 
 ----
 
