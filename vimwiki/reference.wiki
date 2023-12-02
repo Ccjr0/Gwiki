@@ -163,7 +163,7 @@
 === Taste Testing ===
 * A gameplay situation where either a player is encouraged or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
 
-=== Teaser ===
+=== Teasers ===
 * Describes a certain item, place or more abstract thing that is inaccessible, but are made sure the player knows about, or can know about them. (a.k.a. blue-balling)
 
 === Fast Travel ===
@@ -218,6 +218,8 @@
 === Cloaking ===
 * AKA "Visual Filtering" describes things that only appear or "activate" through select "filters" (e.g. X-ray specs unveiling certain items).
 
+*Transparency*
+
 === Deflection ===
 * Loosely describes a gameplay scenario where the player bumps around until they find where to go by process of elimination.
 
@@ -251,7 +253,7 @@
 
 === Immersive Feedback ===
 
-=== Easter Egg ===
+=== Easter Eggs ===
 ----
 
 == STEALTH ==
