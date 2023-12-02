@@ -14,7 +14,7 @@
 * Health and ammo drop from crates and enemies (as needed by the player's current health/ammo) throughout the game.
 * Areas/rooms are designed only vaguely realistically, with realistic naming conventions.
 * Abilities you've become familiar with are lost early-game, and must be progressively reacquired.
-* The in-game map allows players to examine the topography of rooms/areas in a 3D perspective. This can help them detect doors and crevices.
+* The in-game map allows players to examine the topography of rooms/areas in a 3D perspective. This can help them [[../reference#Visual Hinting|detect doors and crevices]].
 * Powerups [[../reference#Audible Hinting|emit subtle sound]] when nearby.
 * Missile launcher useful in combat, allows for breaking certain walls/barriers, and has a [[../reference#Area of Effect|blast radius]] that can kill multiple small enemies.
 * Certain walls, barriers, and objects are defined with [[../reference#Expositional Hinting|explicitly named materials]], implying they can be broken with a respective ability.
@@ -372,8 +372,6 @@
 * Massive pools of lava fill this room, and [[../reference#Teaserss|if they had the grapple beam]] they could easily swing across, but overhead stalactites can be [[../reference#Shoot and Climb to Proceed|shot and jumped]] on to progress.
 * [[../reference#Yield to Proceed|Wall-equipped flamethrowers]] must be respected and rolled under with morph ball.
 
-%% Underground morph ball maze sections with predatory enemies in Magmoor Caverns...
-
 === PHENDRANA DRIFTS ===
 [[file:metroidprime_map_phendrana.jpg|>> MAP <<]]
 * Phendrana Drifts is the second [[../reference#Macro-area|macro-area]] where the player spends an extended time on. However, the first stage is short-lived, as the player will have to [[backtrack]] to [[#Tallon Canyon|Tallon Overworld]] once they've acquired the boost ball.
@@ -645,7 +643,7 @@
 * I think that given the task Retro Studios was given with, they hit the nail on the head making Metroid's debut in 3D, and filling in Super Metroid's shoes. Although not perfect, Prime serves as a great first-person action/adventure game - and perhaps the only of its kind - with such a heavy focus on the MV formula. The atmosphere just great.
 
 === Game Feel ===
-* I think there was lots of thought put into the level design from the micro to the macro level. The levels and areas flow together nicely all things considered, and the emphasis on exploration and encouraging the player to check back on the things they were blue-balled on before was pretty good. Although it does a good job at honoring Super Metroids design philosophy and atmosphere, the game feel leaves some to be desired- as it is after all a single-stick first-person shooter, and silky, satisfying movement mechanics would have been much harder (if not impossible) to implement. The targeting system does its best to keep things smooth, but looking around can feel somewhat stiff and slow at times. (I think a sensitivity slider would help to remedy this). Platforming while not bad by any means, isn't nearly as smooth and satisfying as in Super Metroid.
+* I think there was lots of thought put into the level design from the micro to the macro level. The levels and areas flow together nicely all things considered, and the emphasis on exploration and encouraging the player to check back on the things they were blue-balled on before was pretty good. Although it does a good job at honoring Super Metroid's design philosophy and atmosphere, the game feel leaves some to be desired- as it is after all a single-stick first-person shooter, and silky, satisfying movement mechanics would have been much harder (if not impossible) to implement. The targeting system does its best to keep things smooth, but looking around can feel somewhat stiff and slow at times. (I think a sensitivity slider would help to remedy this). Platforming while not bad by any means, isn't nearly as smooth and satisfying as in Super Metroid.
 
 === Morph Ball ===
 * The morph ball mechanic adds a whole new dimension of mobility, combat and puzzle-solving, in these games so much so that I find it underappreciated/overlooked.
@@ -675,9 +673,11 @@
 * The most egregious flaw in my opinion comes mid-game after the ice beam is acquired. Once the spider ball is acquired, you are greeted with an ice door upon entering the next elevator room. This ice door was to serve as the main hint on where to go after acquiring the ice beam shortly after. Or perhaps even the ice door in the research core. The problem is that these doors are easy to ignore and forget, and on top of that- once acquiring the ice beam- you are given two more paths to explore immediately. One leads to Magmoor Caverns for optional stuff, and the other leads to the entrance to the sunken frigate which is also blocked by an ice door. If the player enters the frigate before going back to Phendrana Drifts to grab the gravity suit, then they will have to though a slog of underwater scavenger hunting and platforming only to be told to go straight back all the way up from where they came. This blatant flaw easily could've been fixed in a couple ways just off the top of my head. One way is to move the door that drops you into the frigate crash site from Chozo Ruins _behind_ the body of water, that way the player is still gatekept by that instead of given premature access to the frigate. Another way to solve this is to simply put a door early on in the frigate that's inaccessible to anyone without the gravity suit, so that the player doesn't get premature access to the reactor core and cargo freight just to trek back in the most crude way possible- being explicitly told to.
 
 %% Magmoor backtracking thing late game...
+
 %% Chozo backtracking thing late game without the plasma beam...
 
 * Another blemish with the level design in this game which I particularly disliked (disregarding the no-hint stuff), was retrieving the artifact of newborn. I feel like the fix would be very simply to put it closer to the entrance/exit point of the area that its in (being the Phazon Mines depths) instead of being right in the awkward middle area that its in, and given that there isn't a backtrack-phase in that area like the other artifacts because its the very end of the game, there's no real way to go back and get it that doesn't feel like a real slog.
+
 %% However, going back through the unlocked gate... If there was a phazon tunnel thing in the middle maybe...
 
 %% Door color thing... beam swapping thing...
@@ -686,6 +686,8 @@
 * Although the flow between levels is generally good, I would've maybe liked it if there were more breakable or uncoverable shortcuts to make traveling even more streamlined across areas than they already were. In this way I feel like the grapple beam is somewhat underutilized, as it is a prime candidate for this job, but it is also just fun to use. I think it would've been viable to use something other than strictly the "grapple points" as use for the grapple beam, such as maybe some more natural or mechanical elements that fit the environment you're in. I think the spider ball could've been used more often too, especially in some of those slower morph ball-only sections.
 
 * I think more ice beam doors should've been used to streamline the space pirate base in Phendrana Drifts for when the player comes back later to hunt for the gravity suit and Chozo artifacts in stages 3 and 4. For example, what if there was an ice door that divides the entrance of the facility from the main path into an underground "under construction" area that leads directly into both the [[#Control Tower|control tower]] elevator and the [[#Research Core|research core]]? This way, the player would be more heavily conditioned to remember these white doors during stage 2 and check it out later after they acquire the ice beam, instead of relying merely on the 2 white doors in the research core and the [[elevator]] respectively.
+
+%% The problem with streamlining too much with certain teasers...
 
 === The Hint System and the Metroidvania Problem ===
 %% The metroidvania problem ... (Process of elimination, how often people blatantly miss things/make mistakes over an extended time ... and is most likely why the hint system was implemented in the first place)
