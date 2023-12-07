@@ -7,21 +7,21 @@
 
 [[Metal Gear/Metal Gear|Metal Gear]]
 [[Metal Gear 2/Metal Gear 2|Metal Gear 2]]
-[[Metal Gear Solid/Metal Gear Solid|Metal Gear Solid]]
-[[Metal Gear Solid 2/Metal Gear Solid 2|Metal Gear Solid 2]]
+[[Metal Gear Solid/Metal_Gear_Solid|Metal Gear Solid]]
+[[Metal Gear Solid 2/Metal_Gear_Solid 2|Metal Gear Solid 2]]
 [[Metal Gear Solid 3]]
-[[Metal Gear Solid V]]
+[[Metal Gear Solid V/Metal_Gear_Solid_V|Metal Gear Solid V]]
 
-[[Metroid Prime/Metroid Prime|Metroid Prime]]
-[[Metroid Prime 2/Metroid Prime 2|Metroid Prime 2]]
-[[Super Metroid]]
+[[Super Metroid/Super_Metroid|Super Metroid]]
+[[Metroid Prime/Metroid_Prime|Metroid Prime]]
+[[Metroid Prime 2/Metroid_Prime_2|Metroid Prime 2]]
 
 [[Resident Evil Remake]]
 [[Resident Evil 2]]
-[[Resident Evil 4/Resident Evil 4|Resident Evil 4]]
+[[Resident Evil 4/Resident_Evil_4|Resident Evil 4]]
 
 [[Super Mario 64]]
-[[TLOZ Ocarina of Time/TLOZ Ocarina of Time|TLOZ Ocarina of Time]]
+[[TLOZ Ocarina of Time/TLOZ_Ocarina_of_Time|TLOZ Ocarina of Time]]
 
 == Info ==
 [[reference|Reference]]

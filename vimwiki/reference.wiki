@@ -2,7 +2,143 @@
 
 ----
 
-== CARTOGRAPHY ==
+== GAMEPLAY ==
+=== Audible Hinting ===
+* A gameplay situation where the player is hinted information through audible queues.
+
+=== Visual Hinting ===
+* A gameplay situation where the player is hinted information through visual queues.
+
+=== Expositional Hinting ===
+* A gameplay situation where the player is hinted or explicated information by systematic explaination.
+
+=== Mechanical Hinting ===
+* A gameplay situation where the player is hinted information directly associated with gameplay mechanics that can be conveyed either audibly, visually, or by other means. Not to be confused with either [[#Audible Hinting|Audible Hinting]] or [[#Visual Hinting|Visual Hinting]].
+
+* *Callback*
+
+* *Conditioning*
+
+=== Solving Procedure ===
+* A distinct gameplay situation where the player is either forced or incentivized to solve a puzzle of some kind to proceed further or achieve an outcome.
+
+=== Activation Procedure ===
+* A distinct gameplay situation where the player is either forced or incentivized to activate something in order to proceed further or achieve an outcome.
+
+* *Search/Activation Procedure*: A distinct gameplay situation where the player is either forced or incentivized to search for whatever needs to be activated in order to proceed further or achieve an outcome.
+
+=== Shooting Procedure ===
+* A distinct gameplay situation where the player is either forced or incentivized to shoot one or more targets to proceed further or achieve an outcome.
+
+* *Target Practice*: a.k.a. '*Shooting Range*'; A gameplay situation where the player is forced or incentivized to shoot or attack targets for means of practice or recreation. Similar to [[#Taste Testing|taste testing]] but at a more elementary level.
+
+* *Shoot-and-Climb Procedure*: A gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
+
+=== Yielding Procedure ===
+* A distinct gameplay situation where the player is either forced or incentivized yield and react properly to something (typically a hazard) to proceed further or achieve an outcome.
+
+=== Novelty Option ===
+* a.k.a. '*Out-of-box Option*'; Situations or solutions where the player is forced, incentivized, or otherwise rewarded for thinking unconventionally or "outside the box".
+
+=== Basic Mechanical Tutorial ===
+* Describes a situation or a scenario where the player is taught the basic elementary mechanics of the game. This is typically done subtly through practice or even with exposition.
+
+=== Taste Testing ===
+* A gameplay situation where either a player is inclined or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
+
+=== Teasers ===
+* Describes a certain item, place or more abstract thing that is inaccessible, but are made sure the player knows about, or can know about them. (a.k.a. '*Blue-balling*')
+
+*Foreshadowing*
+
+
+=== Fast Travel ===
+* A mechanic that allows the player to quickly travel to another area/macro-area. Typically this mechanic is unlocked or granted somehow, to contrast between normal travel.
+
+=== Consecutive Action Sequence ===
+
+*Timed Consecutive Action Sequence*
+
+*Ordered Consecutive Action Sequence*
+
+=== Escape Sequence ===
+
+* *Timed Escape Sequence*:
+
+=== Streamline Ability ===
+* Defines an item or ability that helps generally streamline one or various methods of traversal, puzzle solving, etc.
+
+=== Backtrack Filler ===
+* Backtrack filler is defined as
+
+=== Linear Fetch and Escape Sequence ===
+
+* *Linear Fetch-and-escape Sequence*
+
+=== Fetch Quest ===
+
+* *Grand Fetch Quest*
+
+=== Powerup Flow ===
+
+=== Osmosis ===
+* Loosely describes a distinct gameplay scenario where the player is inclined to 'sift around' until they eventually find where to go naturally by process of elimination.
+
+=== Non-linear Item Quest ===
+
+=== Multi-purpose Abilities ===
+
+=== Mechanical Realignment ===
+
+=== Environmental Puzzle ===
+
+=== Item Check ===
+
+=== Skill Check ===
+
+=== Inventory Puzzle ===
+* Describes a puzzle where the player must use something relating to their inventory or an item(s) in their inventory to solve.
+
+=== Mechanical Puzzle ===
+
+=== Sokoban Puzzle ===
+* Describes a puzzle where the player must push an object(s) into the correct spot(s). For example, this typically includes - but are not limited to - most commonly pushing a block to hold a switch. The block could even lose friction when pushing it, requiring the player to find a correct route using stops or pegs.
+
+=== Systematic Gatekeeping ===
+
+=== Opportunity Cost ===
+
+=== Button Masher ===
+
+=== Cloaking ===
+* a.k.a. '*Visual Filtering*' describes things that only appear or "activate" through select "filters" (e.g. X-ray specs unveiling certain items).
+
+* *Transparency*: Similar in nature to cloaking,
+
+=== Mechanical Realignment ===
+
+=== Infinite Loop Exploit ===
+
+=== One-shot ===
+
+=== Curveball ===
+
+=== Road Less Traveled ===
+
+=== Masher ===
+
+=== QTE ===
+* Abbreviation for "*Quick Time Event*";
+
+=== Revocation ===
+* Defines a distinct gameplay scenario where abilities or items are temporarily or definitively revoked from the player (e.g. being imprisoned).
+
+=== Logbook ===
+* Defines a reserve or "diary" of some kind to store collections of exposition, imagery, or general media for future reference. Although often used for gameplay, it's by no means limited to it as it can just as effectively store lore data as well.
+
+----
+
+== LEVEL DESIGN ==
 === Macro-area ===
 * A distinguishably large area consisting of more than one meso-area.
 
@@ -44,11 +180,13 @@
 
 === Environmental Hazards ===
 
-=== One-way Valve ===
+=== One-way Valves ===
 
 === Forking ===
 
 *Inverse Forking*
+
+=== Reach-around ===
 
 === Invisible Walls ===
 * Self explanitory, typically used to imply to the player that a certain area/spot is inaccessible
@@ -114,136 +252,12 @@
 * Damage that is dealt over a set frequency or "ticks". Typically only small damage dealt per tick.
 
 === Incapacitation ===
-* Describes a mechanic that disables or nullifies a receptor or hazard temporarily or indefinitely without necessarily [[#Termination|killing]] it.
+* Describes a mechanic that disables or nullifies an enemy, receptor, or hazard temporarily or indefinitely without necessarily [[#Termination|killing]] it.
 
 === Termination ===
-* Describes a mechanic that disables or nullifies a receptor or hazard permanently. Usually defined in a context where it can have notable consequences, or where [[#Incapacitation|incapacitation]] is also an option.
-
-----
-
-== GAMEPLAY ==
-=== Audible Hinting ===
-* A gameplay situation where the player is hinted information through audible queues.
-
-=== Visual Hinting ===
-* A gameplay situation where the player is hinted information through visual queues.
-
-=== Mechanical Hinting ===
-* A gameplay situation where the player is hinted information directly associated with gameplay mechanics that can be conveyed either audibly, visually, or by other means. Not to be confused with either [[#Audible Hinting|Audible Hinting]] or [[#Visual Hinting|Visual Hinting]].
-
-*Callback*
-
-=== Expositional Hinting ===
-* A gameplay situation where the player is hinted or explicated information by systematic explaination.
-
-=== Solve to Proceed ===
-* A gameplay situation where the player is either forced or incentivized to solve a puzzle of some kind to proceed further or achieve an outcome.
-
-=== Activate to Proceed ===
-* A gameplay situation where the player is either forced or incentivized to activate something in order to proceed further or achieve an outcome.
-
-=== Search and Activate to Proceed ===
-* A gameplay situation where the player is either forced or incentivized to search for whatever needs to be activated in order to proceed further or achieve an outcome.
-
-=== Shoot to Proceed ===
-* A gameplay situation where the player is either forced or incentivized to shoot one or more targets to proceed further or achieve an outcome.
-* *Shoot and Climb to Proceed*: A gameplay situation where the player is either forced or incentivized shoot one or more targets to then climb something as a result to proceed or achieve an outcome.
-
-=== Yield to Proceed ===
-* Yield to proceed is defined as a gameplay situation where the player is either forced or incentivized yield and react properly to something to proceed further or achieve an outcome.
-
-=== Out-of-box Option ===
-* Situations where the player is forced, incentivized, or otherwise rewarded for "thinking outside the box"
-
-=== Basic Mechanical Tutorial ===
-
-=== Target Practice ===
-* A gameplay situation where the player is forced or incentivized to shoot or attack targets for means of practice. Similar to [[#Taste Testing|taste testing]] but at a more elementary level.
-
-=== Taste Testing ===
-* A gameplay situation where either a player is encouraged or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
-
-=== Teasers ===
-* Describes a certain item, place or more abstract thing that is inaccessible, but are made sure the player knows about, or can know about them. (a.k.a. blue-balling)
-
-=== Fast Travel ===
-* A mechanic that allows the player to quickly travel to another area/macro-area. Typically this mechanic is unlocked or granted somehow, to contrast between normal travel.
-
-=== Consecutive Action Sequence ===
-* *Timed Consecutive Action Sequence*
-
-=== Ordered Consecutive Action Sequence ===
-
-=== Timed Escape Sequence ===
-
-=== Streamline Ability ===
-
-=== Backtrack Filler ===
-* Backtrack filler is defined as
-
-=== Linear Fetch and Escape Sequence ===
-* *Linear Fetch-and-escape Sequence*
-
-=== Fetch Quest ===
-* *Grand Fetch Quest*
-
-=== Powerup Flow ===
-
-=== Non-linear Item Quest ===
-
-=== Multi-purpose Abilities ===
-
-=== Mechanical Realignment ===
-
-=== Environmental Puzzle ===
-
-=== Inventory Puzzle ===
-* Describes a puzzle where the player must use something relating to their inventory or an item(s) in their inventory to solve.
-
-=== Mechanical Puzzle ===
-
-=== Sokoban Puzzle ===
-* Describes a puzzle where the player must push an object(s) into the correct spot(s). For example, these typically include - but are not limited to - pushing a block to hold a switch. The block could even lose friction when pushing it, requiring the player to find a correct route using stops or pegs.
-
-=== Systematic Gatekeeping ===
-
-=== Item Check ===
-
-=== Skill Check ===
-
-=== Opportunity Cost ===
-
-=== Button Masher ===
-
-=== Cloaking ===
-* AKA "Visual Filtering" describes things that only appear or "activate" through select "filters" (e.g. X-ray specs unveiling certain items).
-
-*Transparency*
-
-=== Deflection ===
-* Loosely describes a gameplay scenario where the player bumps around until they find where to go by process of elimination.
-
-=== Mechanical Realignment ===
-
-=== Infinite Loop Exploit ===
-
-=== One-shot ===
-
-=== Curveball ===
-
-=== Road Less Traveled ===
-
-=== Masher ===
-
-=== QTE ===
+* Describes a mechanic that disables or nullifies an enemy, receptor, or hazard permanently. Usually defined in a context where it can have notable consequences, or where [[#Incapacitation|incapacitation]] is also an option.
 
 === Selective Invulnerability ===
-
-----
-
-== LORE ==
-=== Expositional Lore ===
-* Lore that is given to the player by means of systematic interpretation or explaination.
 
 ----
 
@@ -282,12 +296,19 @@
 * Bodies or mechanics that can perceive strictly/primarily auxiliary information or information alternative to the main two- being audible and visual.
 
 === Super Receptors ===
-* Bodies or mechanics that have a distinguishable ability to perceive several forms of information (e.g. humans, bloodhounds).
+* Bodies or mechanics that have a distinct ability to perceive several forms of information (e.g. humans, bloodhounds).
 
 === Dynamic Receptors ===
-* Bodies or mechanics that have a distinguishable ability to fluctuate their perceptibility (e.g. sleepy guards).
+* Bodies or mechanics that have a distinct ability to fluctuate their perceptibility (e.g. sleepy guards).
 
 === Fuzzy Detection ===
 * A mechanic that describes a buffer between being discovered and being hidden.
 
 === Alert ===
+
+----
+
+== LORE ==
+=== Expositional Lore ===
+* Lore that is given to the player by means of systematic interpretation or explaination.
+

@@ -1,0 +1,66 @@
+= METAL GEAR SOLID V =
+
+== GENERAL ==
+* The [[main menu screen changes]] as to fit the context of the part of the game the player was, such as the intro sequence, and the ACC.
+%% Pause menu tooltips...
+%% Invoice fast travel system...
+%% Inherent opportunity cost to killing/extracting guards...
+%% Blue/White GMP cycles...
+%% Sandstorms/rain act as wildcard events...
+
+----
+
+== MISSIONS ==
+=== The Phantom Limbs ===
+* The small ruins area directly behind the starting point serves as a kind of environmental training area, getting the player used to sneaking and climbing over and along walls before the real meat of the mission.
+* The first mini-outpost consists of merely two basic soldiers, as well as ammo refills and a suppressor replacement to establish that they can be found, but also offers the player forgiveness on their first tactical encounter.
+
+=== C2W ===
+* The player must [[find and destroy]] 3 radio communication devices located upon several rooftops within the [[#Eastern Communications Post|Eastern Communications Post]], or alternatively destroy the single indoor radio system within one of the buildings to disable external communications.
+
+=== Skull Face ===
+
+----
+
+== AREAS ==
+
+=== Spugmay Keep ===
+
+=== Da Ghwandai Khar ===
+
+=== Eastern Communications Post ===
+
+=== Da Shago Kallai ===
+
+=== Yakho Oboo Supply Outpost ===
+
+=== Wakh Sind Barracks ===
+
+=== Mountain Relay Base ===
+
+=== Da Smasei Laman ===
+
+=== Qarya Sakhre Ee ===
+
+=== Lamar Khaate Palace ===
+
+=== Serak Power Plant ===
+
+=== Afghanistan Central Base Camp ===
+
+=== Mfinda Oil Field ===
+
+=== Kiziba Camp ===
+
+=== Kungenga Mine ===
+
+=== Nova Braga Airport ===
+
+=== Lufwa Valley ===
+
+=== OKB Zero ===
+* OKB Zero is a long, large area of the game split into four separate sectors. Since it's tucked away in a corner in the far north end of Afghanistan, there is little room to scout around in all directions, and the player must tackle it head on, sector-by-sector.
+* The first sector [[file:OKBZero_Sector1.png|{IMG}]] features an uphill section guarded by spotlights. Room is given on either side of the road for the player to sneak across, but the rocky side on the left provides the best cover and has the least patrol, and also features wall cracks and ladders for the player to climb upon to bypass the soldiers by the gate and gain a high ground to scout the next sector.
+* The second sector [[file:OKBZero_Sector2.png|{IMG}]] widens out much more from the first one, and is actually similar in structure to the last one, where the left rocky side provides more cover than the grassy one on the right, although the grassy side has much more cover this time than before. There may be land mines placed nearby the foothold where the player climbed to using the ladder. A building with ruined arches and columns occupies the later half of the sector on the left, and provides another ladder to bypass the second gate and scout the next one.
+* On the third sector [[file:OKBZero_Sector3.jpg|{IMG}]], the left side is tightly packed with guards' living quarters, storage rooms, overhead catwalks, ruined columns, and crawlspaces, while the right side is less dense but also offers less cover. The long building top where the player is led to from the previous ladder provides decent cover and viewing angles to assist with reconnaissance [[file:OKBZero_Long.png|{IMG}]]. Most of the building's doors are locked, and must be unlocked to access, and are monitored from the outside by surveillance cameras during [[#Skull Face|the mission]]. If the player can reach the platform leading to the catwalk [[file:OKBZero_Catwalk.png|{IMG}]], they can also crawl over the building rooftops. A hole atop the buildings [[file:OKBZero_Hole.png|{IMG}]] provides another means to accessing the crawlspaces [[file:OKBZero_Crawlspaces.png|{IMG}]]. Past those, the player can find two things: a couple staircases, one leading to the second and third floors containing long, open hallways built into the stone architecture, but also another crawlspace past more ruined columns that leads to an underground sewer section [[file:OKBZero_Sewers.png|{IMG}]], both leading into the fourth and final sector.
+* The fourth sector can be accesed in several ways: The main gate, the high-ground architecture on the left side, and the underground sewer area. The sector itself is not large, or complex.

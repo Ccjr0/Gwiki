@@ -1,0 +1,110 @@
+= SUPER METROID =
+
+[[#GENERAL/OVERVIEW|General/Overview]]
+[[#AREAS|Areas]]
+[[#BOSSES|Bosses]]
+[[#THOUGHTS|Thoughts]]
+
+----
+
+== GENERAL/OVERVIEW ==
+* A 2-Dimensional map in the top right of the status HUD shows the player's position in relation to the world around them, as well as automatically graphs out as the player explores areas they've never been.
+* Points of interest are [[../reference#Visual Hinting|noted with a dot]] (.) in the middle of the square representing the general area. These points of interest typically include powerups, but can also include health/ammo stations, and boss rooms. Elevators are marked with a dash (-) symbol. The player's last known save point is highlighted with a special 'S' icon, distinct from the other save rooms.
+* Doors that have been locked upon entry, but unlocked after completing a local task (typically killing enemies) will [[../reference#Mechanical Hinting|flash to reflect their status]].
+* Shutters act as [[../reference#One-way Valves|one-way gates]], as they can only be opened from one side. The color-coded buttons correspond with basic doors to reflect the weapon requirements needed for activation. These shutters automatically close when the player leaves the room and returns.
+
+----
+
+== AREAS ==
+[[file:metroid3_map.gif|>> BIG MAP <<]]
+
+=== CERES STATION ===
+* This temporary macro-area serves as a very [[../reference#Basic Mechanical Tutorial|short and basic tutorial section]] helping the player to get accustomed to the controls and establish the plot.
+* After surviving the first encounter with [[#Ridley I|Ridley]],
+
+==== Ridley's Room ====
+* Upon meeting the captive metroid in the middle of the room, [[#Ridley I|Ridley]] emerges from the darkness in the background to engage the player in a battle.
+
+=== CRATERIA ===
+%% Stage 1 involves crawling down the deserted cavern and entering Brinstar...
+
+==== Landing Site ====
+* Upon landing, the player is confronted with the east and west directions to begin exploration. On the east side, a [[../reference#Teasers|high-above foothold]] can be seen, but is too high to reach. A suspicious [[../reference#Teasers|rock blockage]] also fills a tunnel, but nothing can be done at this time. The cave on the west side holds the door to progression.
+
+==== Parlor and Alcatraz ====
+* The player is met with [[../reference#Teasers|several inaccessible tunnels]] while they enter the room and as descend down the platforms of the cavern. Ambient bugs also [[../reference#Graphical FX|scatter away]] in the background when disturbed on your first time through. The first accessible room is across from an [[../reference#Teasers|inaccessible red door]], but nothing can be done in [[#Final Missile Bombway|that room]] at this point. The only way forward is [[#Climb|downward]].
+* The once desolate cavern is now occupied with geemers crawling along the walls and platforms. The player is inclined to [[../reference#Basic Mechanical Tutorial|exercise their shooting abilities]], making use of the up, down, and diagonal shots to dispatch them geemers. The first two rooms on the [[#Pre-Map Flyway|east]] and [[#Final Missile Bombway|west]] upon coming back up can now be expored further with the morph ball and missile launcher.
+
+==== Pre-Map Flyway ====
+* Several [[file:Mellow.gif|mellows]] and a [[file:Reo.gif|reo]] occupy the hallway. While the mellows are merely basic fly enemies, the reo takes multiple hits to kill and will bounce along the ceiling, making it a more challenging foe, although a single missile shot will make instant work of it.
+* The Crateria [[map room]] is just behind the door at the end of the hallway. With it, the player can find rooms they haven't explored (marked in blue), and get an idea of where they need to go next.
+
+==== Climb ====
+* A very long series of platforms of various sizes lies across the entirety of the tall, narrow room. The first time entering, the player can slowly descend upon the platforms, but keeping to the side [[../reference#Streamlining|speeds things up]] as there is lots of open space.
+* Space pirates infest the room upon returning from the [[#Pit Room|pit room]]. The player must climb their way up the [[../reference#Basic Mechanical Tutorial|long series of small platforms]], with space pirates climbing on the walls and firing projectiles.
+
+==== Pit Room ====
+* This room contains a consecutive series of platforms and pillars for the player to [[../reference#Basic Mechanical Tutorial|exercise their platforming consistency]] on. Upon the player's first arrival here, the [[../reference#One-way Valves|entrance locks itself]], sealing the player within. An elevator leading down to [[#BRINSTAR|Brinstar]] awaits the player at the far east end.
+* Upon returning after acquiring both the morph ball and missile launcher, the lights turn on, and space pirates have [[../reference#Backtrack Filler|infested the room]]. They are relatively weak, and take only one shot to dispatch. They occupy the platforms needed to cross the room, and sometimes climb on walls. After [[defeating all of them]], the doors in the room will unlock, allowing the player to continue backtracking.
+
+==== Final Missile Bombway ====
+* Upon entering in stage 1 Crateria, the player's options are highly limited, as they are immediately gatekept by a [[../reference#Teasers|small tunnel]], which cannot be entered until the morph ball is obtained.
+* After completing Brinstar stage 2 and acquiring the morph ball and missile launcher, the player can re-enter the room and access the tunnel, but they are quickly stopped short by [[../reference#Teasers|blockage filling the tunnel]], and will have to retreat unless they've acquired bombs.
+
+=== BRINSTAR ===
+%% Stage 1 involves getting the morph ball and missile launcher...
+
+==== Morph Ball Room ====
+* Arriving from the descending elevator, the player is again met with an east/west decision on how they will proceed.
+* On the west side, of the room, the morph ball can be seen glowing on a pedestal past a structure that will [[../reference#One-way Valves|trap the player from within]], ensuring that they will grab it. Once acquired, they cannot simply escape through the way the came since the structure is too high, but a [[../reference#Visual Hinting|suspicious blue block]] seals a small tunnel. Upon shooting the block, the player can activate the newly-acquired morph ball to escape beneath the structure.
+%% Eye-camera thing...
+
+==== Construction Zone ====
+* The door across the room on the east side is [[../reference#Teasers|guarded with a red barrier]], and cannot be bypassed at first arrival. The blocks filling the center of the room are of a [[../reference#Visual Hinting|distinct shade of blue]], and will disintegrate upon being shot. Discovering this, the player can shoot their way to the bottom of the room, but unless they have acquired the morph ball from the [[#Morph Ball Room|room prior]], they [[../reference#Teasers|cannot bypass the tunnel]] that leads to the door on the lower floor, and will have to climb back up.
+* After acquiring the missile launcher from the [[#First Missile Room|missile room]], the player can immediately access the red door from before and proceed [[#Blue Brinstar Energy Tank Room|forward]].
+
+==== First Missile Room ====
+* Upon arriving with the morph ball from the [[#Construction Zone|room prior]], the player will be met with a room with merely a chozo statue holding a [[../reference#Visual Hinting|glowing orb]]. Being inclined to shoot the orb reveals the *missile launcher*. With it, the player has unlocked the ability to unlock red doors at a one-time fee of 5 missiles per door.
+
+==== Blue Brinstar Energy Tank Room ====
+* A tunnel at the far-east end of the room reveals a missile expansion on the other side, increasing the maximum missile capacity by 5, extra missiles included.
+%% Two empty blocks within the column...
+%% Another eye-camera thing...
+%% Hidden energy tank...
+
+
+
+=== LOWER BRINSTAR ===
+
+=== NORFAIR ===
+
+=== MARIDIA ===
+
+=== LOWER NORFAIR ===
+
+=== TOURIAN ===
+
+----
+
+== BOSSES ==
+
+=== Ridley I ===
+* This is a [[stage fight]] primarily set to establish Ridley's control over the infant metroid's tank. Ridley's primary attacks cosist of swooping, tail swiping, and fireballs. These attacks are executed in an RNG cycle. Since Ridley's body does the most damage, one possible strategy is to try and get hit by the tail to minimize damage taken. The tail will occasionally spin and strike toward the player. The fireball attack is a volley projectile that [[../reference#Area of Effect|spreads out]] when hitting the floor or wall. This is a good opportunity to shoot him. Once the player's health drops below a certain point, he will fly away and the fight will end, but if the player manages to shoot him enough, gradually turning him into a [[../reference#Visual Hinting|heavy red color]], he will [[../reference#Easter Eggs|briefly folly about]], temporarily dropping the tank and flying away, ending the fight.
+
+=== Torizo ===
+
+=== Spore Spawn ===
+
+=== Kraid ===
+
+=== Phantoon ===
+
+=== Botwoon ===
+
+=== Draygon ===
+
+=== Golden Torizo ===
+
+=== Ridley II ===
+
+=== Mother Brain ===
