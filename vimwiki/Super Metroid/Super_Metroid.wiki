@@ -12,11 +12,13 @@
 * Points of interest are [[../reference#Visual Hinting|noted with a dot]] (.) in the middle of the square representing the general area. These points of interest typically include powerups, but can also include health/ammo stations, and boss rooms. Elevators are marked with a dash (-) symbol. The player's last known save point is highlighted with a special 'S' icon, distinct from the other save rooms.
 * Doors that have been locked upon entry, but unlocked after completing a local task (typically killing enemies) will [[../reference#Mechanical Hinting|flash to reflect their status]].
 * Shutters act as [[../reference#One-way Valves|one-way gates]], as they can only be opened from one side. The color-coded buttons correspond with basic doors to reflect the weapon requirements needed for activation. These shutters automatically close when the player leaves the room and returns.
+%% Save station rooms streamlined...
+%% Power bombs can quickly clear lots of bombable blocks caught within its radius...
 
 ----
 
 == AREAS ==
-[[file:metroid3_map.gif|>> BIG MAP <<]]
+[[file:metroid3_map.gif|{IMG}]]
 
 === CERES STATION ===
 * This temporary macro-area serves as a very [[../reference#Basic Mechanical Tutorial|short and basic tutorial section]] helping the player to get accustomed to the controls and establish the plot.
@@ -27,32 +29,61 @@
 
 === CRATERIA ===
 %% Stage 1 involves crawling down the deserted cavern and entering Brinstar...
+%% Stage 2 involves exploring Parlor and Alcatraz and its adjacent rooms with the newly acquired morph ball and missile launcher from stage 1 Brinstar...
+%% Map room right across from the final missile bombway to hint the player where to go...
 
 ==== Landing Site ====
 * Upon landing, the player is confronted with the east and west directions to begin exploration. On the east side, a [[../reference#Teasers|high-above foothold]] can be seen, but is too high to reach. A suspicious [[../reference#Teasers|rock blockage]] also fills a tunnel, but nothing can be done at this time. The cave on the west side holds the door to progression.
+* Immediately after having acquired the bombs, the blockage can easily be investigated and successfully cleared with bombs, but the player will quickly meet another dead-end, as a [[../reference#Teasers|green door]] halts their progress shortly after the tunnel, and with no tools to deal with it the player must retreat.
 
 ==== Parlor and Alcatraz ====
-* The player is met with [[../reference#Teasers|several inaccessible tunnels]] while they enter the room and as descend down the platforms of the cavern. Ambient bugs also [[../reference#Graphical FX|scatter away]] in the background when disturbed on your first time through. The first accessible room is across from an [[../reference#Teasers|inaccessible red door]], but nothing can be done in [[#Final Missile Bombway|that room]] at this point. The only way forward is [[#Climb|downward]].
-* The once desolate cavern is now occupied with geemers crawling along the walls and platforms. The player is inclined to [[../reference#Basic Mechanical Tutorial|exercise their shooting abilities]], making use of the up, down, and diagonal shots to dispatch them geemers. The first two rooms on the [[#Pre-Map Flyway|east]] and [[#Final Missile Bombway|west]] upon coming back up can now be expored further with the morph ball and missile launcher.
+* The player is met with several [[../reference#Teasers|inaccessible tunnelways]] while they enter the room and as descend down the platforms of the cavern. Ambient bugs also [[../reference#PRESENTATION|scatter away]] in the background when disturbed during the first stage. A door [[../reference#Teasers|sealed behind a small tunnel]] can be seen while descending, as well as two opposite doors below that: one blue and one red. However, the [[../reference#Teasers|red door is currently inaccessible]], and while the room behind the blue door is, nothing useful can be done [[#Final Missile Bombway|there]] at this point. The only way clear way forward is the blue door heading [[#Climb|downward]].
+* The once deserted cavern is now occupied with geemers crawling along the walls and platforms. The player is inclined to [[../reference#Basic Mechanical Tutorial|exercise their shooting abilities]], making use of the up, down, and diagonal shots to dispatch them. The first two rooms on the [[#Pre-Map Flyway|east]] and [[#Final Missile Bombway|west]] upon coming back up can now be expored further with the morph ball and missile launcher. The door clearly behind the tunnel seen before can also be accessed, revealing a save station.
+* After going far enough back up, one of the tunnelways seen upon immediately entering in stage 1 can be accessed, leading underground and locking the player within "Alcatraz", until they have acquired bombs going [[#Flyway|forward]].
+* After having acquired bombs, the player returns with the means to be able to escape Alcatraz through the ball tunnel leading out by bombing the rubble blocking passage, leading back to the very entrance of the room. The [[../reference#Visual Hinting|suspicious looking rocks]] at the end of the top hallway hint that there may be more than what meets the eye, as well as the map indications showing that there is something behind there. Indeed, the plot thickens once the player bombs away at the rocks, revealing the [[#Terminator Room|progression forward]].
 
-==== Pre-Map Flyway ====
-* Several [[file:Mellow.gif|mellows]] and a [[file:Reo.gif|reo]] occupy the hallway. While the mellows are merely basic fly enemies, the reo takes multiple hits to kill and will bounce along the ceiling, making it a more challenging foe, although a single missile shot will make instant work of it.
-* The Crateria [[map room]] is just behind the door at the end of the hallway. With it, the player can find rooms they haven't explored (marked in blue), and get an idea of where they need to go next.
+==== Final Missile Bombway ====
+* Upon entering in stage 1 Crateria, the player's options are highly limited, as they are immediately gatekept by a [[../reference#Teasers|small tunnel]], which cannot be entered until the morph ball is obtained.
+* After completing Brinstar stage 2 and acquiring the morph ball and missile launcher, the player can re-enter the room and access the tunnel, but they are quickly stopped short by [[../reference#Teasers|blockage filling the tunnel]], and will have to retreat unless they've acquired bombs to [[#The Final Missile|reach the end]].
+* After coming back through from grabbing the so called "[[#The Final Missile|final missile]]", the player may be inclined to simply hold right as they bomb their way back through the tunnel, but in doing so will discover a hidden invisible tunnel within the wall, allowing [[../reference#Streamlining|quick and easy access]] over the rubble and plopping them back near the entrance door.
 
 ==== Climb ====
-* A very long series of platforms of various sizes lies across the entirety of the tall, narrow room. The first time entering, the player can slowly descend upon the platforms, but keeping to the side [[../reference#Streamlining|speeds things up]] as there is lots of open space.
+* A very long series of platforms of various sizes are laid across the entirety of the tall, narrow room. The first time entering, the player can slowly descend upon the platforms, but keeping to the side [[../reference#Streamlining|speeds things up]] as there is a long stretch of open space.
 * Space pirates infest the room upon returning from the [[#Pit Room|pit room]]. The player must climb their way up the [[../reference#Basic Mechanical Tutorial|long series of small platforms]], with space pirates climbing on the walls and firing projectiles.
 
 ==== Pit Room ====
 * This room contains a consecutive series of platforms and pillars for the player to [[../reference#Basic Mechanical Tutorial|exercise their platforming consistency]] on. Upon the player's first arrival here, the [[../reference#One-way Valves|entrance locks itself]], sealing the player within. An elevator leading down to [[#BRINSTAR|Brinstar]] awaits the player at the far east end.
 * Upon returning after acquiring both the morph ball and missile launcher, the lights turn on, and space pirates have [[../reference#Backtrack Filler|infested the room]]. They are relatively weak, and take only one shot to dispatch. They occupy the platforms needed to cross the room, and sometimes climb on walls. After [[defeating all of them]], the doors in the room will unlock, allowing the player to continue backtracking.
 
-==== Final Missile Bombway ====
-* Upon entering in stage 1 Crateria, the player's options are highly limited, as they are immediately gatekept by a [[../reference#Teasers|small tunnel]], which cannot be entered until the morph ball is obtained.
-* After completing Brinstar stage 2 and acquiring the morph ball and missile launcher, the player can re-enter the room and access the tunnel, but they are quickly stopped short by [[../reference#Teasers|blockage filling the tunnel]], and will have to retreat unless they've acquired bombs.
+==== Pre-Map Flyway ====
+* Several mellows and a reo occupy the hallway. While the mellows are merely basic fly enemies, the reo takes multiple hits to kill and will bounce along the ceiling, making it a more challenging foe, although a single missile shot will make instant work of it.
+* The Crateria [[map room]] is just behind the door at the end of the hallway. With it, the player can find rooms they haven't explored (marked in blue), and get an idea of where they need to go next.
+
+==== Flyway ====
+* A large [[../reference#Cluster Enemies|swarm of mellows]] occupy the hallway leading to a red door, where five missiles must be spent to access it. The mellows can merely be run past swiftly to avoid combat altogether, but their numbers can [[../reference#Replenishment Mobs|drop the missiles necessary]] both to open the door, and replenish health/ammo when coming out if need be. A meticulous player may even opt to [[../reference#Novelty Option|open the door first]], and then fight the flies to replenish the health/missiles used. Doing so may prove useful within the [[#Bomb Torizo Room|proceeding room]].
+
+==== Bomb Torizo Room ====
+* Upon entering, the player is met with another Chozo statue holding an upgrade, that being bombs. The [[../reference#One-way Valves|door is locked]] quickly upon trying to leave, and the statue comes to life to reveal the hostile [[#Torizo|Torizo]] ready to engage in combat.
+%% Arm pumping thing to escape prematurely...
+
+==== The Final Missile ====
+* After having acquired bombs necessary to clear through the blocked tunnel, the player is greeted by a Chozo statue holding another missile expansion.
+
+==== Terminator Room ====
+* Several basic enemies occupy the downward sloping room, but so does the player's "first" energy tank, expanding the players maximum HP as well as full HP restoration.
+
+==== Green Pirates Shaft ====
+* As the name implies, [[../reference#Visual Hinting|green space pirates]] occupy the staggered decent of the room. They are [[../reference#Selective Invulnerability|immune to regular weapons fire]], but a single missile does the job nicely, but two carefully placed bombs can also be used in a pinch. Their projectile attack is effective against standing enemies, but the morph ball is an effective evasive maneuver. At the bottom of the room lies both a [[#Lower Mushrooms|blue]] and [[#Golden Statues Room|red]] door opposite to each other.
+
+==== Golden Statues Room ====
+* A mossy green cove with a lake and a massive golden statue make this room [[../reference#Significant Landmarking|stand out from all others]] in the game, not to mention the long abandoned hallway leading up to it, signifying an unknown importance. The statue depicts four creatures, each with their own glowing colored eye. If none of the bosses have been defeated up until the room is discovered, nothing will happen and the player can merely take notice.
+
+==== Lower Mushrooms ====
+Upon entering, the player encounters an armor plated geemer only [[../reference#Selective Invulnerability|vulnerable to bomb attacks]], as well as the first instance of a kago- a nest-like bio-organism. When disturbed with weapon fire, the kago will [[../reference#Generator|gradually dispense small jumping bugs]] that can [[../reference#Replenishment Mobs|drop health/ammo]] when killed. With enough weapons fire, the kago will be destroyed. Following the door ahead will lead to an elevator leading to green [[#BRINSTAR|Brinstar]], ending stage 2 of Crateria.
 
 === BRINSTAR ===
 %% Stage 1 involves getting the morph ball and missile launcher...
+* Stage 2 starts upon taking the elevator room proceeding the lower mushrooms and spits the player out into the grassy [[#Green Brinstar Main Shaft|green brinstar]]. This stage of the game contains harder foes in higher numbers, so the missile expansions and E-tanks collected in Crateria will come into fruition here.
 
 ==== Morph Ball Room ====
 * Arriving from the descending elevator, the player is again met with an east/west decision on how they will proceed.
@@ -70,17 +101,47 @@
 * A tunnel at the far-east end of the room reveals a missile expansion on the other side, increasing the maximum missile capacity by 5, extra missiles included.
 %% Two empty blocks within the column...
 %% Another eye-camera thing...
-%% Hidden energy tank...
+%% Hidden energy tank can be obtained with hi-jump...
+%% Energy tank can be acquired with bomb-hopping technique...
+
+==== Green Brinstar Main Shaft ====
+[[file:GreenBrinstarMainShaft.png|{IMG}]]
+* Similar in nature to the [[#Parlor and Alcatraz|parlor]], the player will slowly descend upon platforms with several red doors on opposing sides giving the player choices on where to go. Instead of the measly geemers, zeelas crawl around the walls and platforms and take two shots to dispatch instead of 1.
+* At the bottom of the shaft, a [[../reference#Visual Hinting|thin layer separates an open space]] beneath the floor, and the [[../reference#Visual Hinting|zeela crawling around the area]] somewhat helps bring notice to that, however attempting to bomb the floor will reveal blocks that [[../reference#Teasers|require a weapon]] the player does not have access to at the time.
+
+==== Brinstar Pre-Map Room ====
+* Northwest-adjacent to the [[#Green Brinstar Main Shaft|main shaft]], the player is confronted with a small sidehopper bouncing along the ceiling, taking three hits to dispatch, as well as a few zeelas crawling along the ground before reaching what appears to be a dead end. If the player were to try and leave the room at this point, they would notice that the [[../reference#One-way Valves|entrance has been locked]], forcing the player to solve the room. Although nothing appears to be wrong to the naked eye, the way the way the [[../reference#Visual Hinting|wall/floor behind the dead end]] continues in combination with the [[../reference#Visual Hinting|camera position]] seems suspicious. Bombing the wall reveals that it is indeed destructible, and the path forward opens up, as well as the final zeela hidden behind the secret to unlock the doors and allow the player through. This process [[../reference#Mechanical Hinting|teaches the player]] that not all paths are visible to the naked eye, and brute force may work when all else fails.
+* Past the secret lies the door containing the [[map room]], conveniently placed within the upper-level of the shaft.
+
+==== Early Supers Room ====
+[[file:EarlySupersRoom.png|{IMG}]]
+* Northeast-adjacent to the [[#Green Brinstar Main Shaft|main shaft]], the early supers room consists of a long, flat platform splitting the room with a few support pillars below it. A pipe coming out of the ground slowly generates flies one-by-one when approached. While moving along the platform, the ground in the middle will disintegrate, sending a walking player down between the pillars where a missile expansion can be grabbed. From there, the bottom of the left pillar can be destroyed with a bomb to exit and try again. Even when successfully running along the fragile blocks however, a [[../reference#Teasers|proximity shutter]] is ready to automatically close the player off from continuing along the platform. The next pillar containing sidehoppers can be accessed, revealing that [[../reference#Teasers|even more shutters]] past the one, but nothing can be done to bypass the third and final pillar. Nothing at all the player can do can destroy the shutters at this time, and the player is forced to head back.
+%% Mockball technique to acquire early super missiles...
+
+==== Green Brinstar Fireflea Room ====
+[[file:GreenBrinstarFirefleaRoom.png|{IMG}]]
+* A faint glow produced by firefleas keeps the whole room alit. Killing one [[../reference#Termination|makes the room darker]] as a result, and killing enough of them will make it very hard or impossible to see the platforms to jump on and spikes to avoid, leaving only the player and doors easily visible.
+* A missile refill station awaits the player past the door at the end of the room, and will also reset the firefleas if need be. On the way back through the room, players will be especially punished for killing firefleas recklessly on their way back to the [[#Green Brinstar Main Shaft|shaft]].
+
+==== Dachora Room ====
+* After dealing with a hallway of enemies, the player meets what seems to be a dead end at the end of the hall, but the [[../reference#Visual Hinting|shadows on the other side]] of the wall look suspicious.
+
+==== Big Pink ====
+
+==== Pink Brinstar Power Bomb Room ====
+
+==== Pink Brinstar Hopper Room ====
+
+==== Hoptank Room ====
 
 
 
-=== LOWER BRINSTAR ===
-
-=== NORFAIR ===
 
 === MARIDIA ===
 
-=== LOWER NORFAIR ===
+=== NORFAIR ===
+
+=== WRECKED SHIP ===
 
 === TOURIAN ===
 
@@ -108,3 +169,5 @@
 === Ridley II ===
 
 === Mother Brain ===
+
+== THOUGHTS ==

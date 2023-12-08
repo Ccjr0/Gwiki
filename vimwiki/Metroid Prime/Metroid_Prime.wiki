@@ -41,7 +41,8 @@
 %% [[../reference#Macro-Alternation Model|Alternation between macro-areas]] after Flahgraa (Phendrana > Tallon Overworld > Phendrana)
 %% [[../reference#Inverse Forking|Two different roads]] within Magmoor caverns to choose from after Flahgraa to access Phendrana Drifts
 %% Turret defense disabling through use of scanning panels (optional). [[../reference#Visual Hinting|(Visual Hinting)]], [[|(Mechanical Hinting)]], [[|(out of box option)]]
-%% Elevators serve as [[../reference#Fast Travel|access between macro-areas]]
+%% Elevators serve as access between macro-areas...
+%% Echoes of stage 1 Brinstar and stage 1/2 Crateria in Stage 1 Chozo Ruins...
 
 
 ----
