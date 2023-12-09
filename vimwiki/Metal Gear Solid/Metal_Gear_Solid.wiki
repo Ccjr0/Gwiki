@@ -1,5 +1,11 @@
 = METAL GEAR SOLID =
 
+[[#GENERAL/MISC|General/Misc]]
+[[#AREAS|Areas]]
+[[#BOSSES|Bosses]]
+[[#EXPLOITS|Exploits]]
+[[#THOUGHTS|Thoughts]]
+
 ----
 
 == GENERAL/MISC ==
