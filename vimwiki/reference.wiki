@@ -86,15 +86,12 @@
 
 === Non-linear Item Quest ===
 
-=== Multi-purpose Abilities ===
+=== Multi-Purpose Tool ===
+* a.k.a. '*Swiss Army Knife*':
 
 === Mechanical Realignment ===
 
 === Environmental Puzzle ===
-
-=== Item Check ===
-
-=== Skill Check ===
 
 === Inventory Puzzle ===
 * Describes a puzzle where the player must use something relating to their inventory or an item(s) in their inventory to solve.
@@ -105,6 +102,12 @@
 * Describes a puzzle where the player must push an object(s) into the correct spot(s). For example, this typically includes - but are not limited to - most commonly pushing a block to hold a switch. The block could even lose friction when pushing it, requiring the player to find a correct route using stops or pegs.
 
 === Systematic Gatekeeping ===
+* a.k.a. '*Item Check*':
+
+=== Intrinsic Gatekeeping ===
+* a.k.a. '*Skill Check*':
+
+=== Deterrence ===
 
 === Opportunity Cost ===
 
@@ -117,18 +120,14 @@
 
 === Mechanical Realignment ===
 
-=== Infinite Loop Exploit ===
-
-=== One-shot ===
+=== One-shot Scenario ===
 
 === Curveball ===
 
 === Road Less Traveled ===
 
-=== Masher ===
-
-=== QTE ===
-* Abbreviation for "*Quick Time Event*";
+=== Quick Time Event ===
+* Abbreviated with "*QTE*":
 
 === Revocation ===
 * Defines a distinct gameplay scenario where abilities or items are temporarily or definitively revoked from the player (e.g. being imprisoned).
@@ -305,6 +304,12 @@
 * A mechanic that describes a buffer between being discovered and being hidden.
 
 === Alert ===
+
+----
+
+== EXPLOITS ==
+
+=== Infinite Loop Exploit ===
 
 ----
 

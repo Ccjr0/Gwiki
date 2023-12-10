@@ -8,6 +8,7 @@
 ----
 
 == GENERAL/OVERVIEW ==
+* Bosses gruadually [[../reference#Visual Hinting|shift color hues]] to reflect their health status.
 * A 2-Dimensional map in the top right of the status HUD shows the player's position in relation to the world around them, as well as automatically graphs out as the player explores areas they've never been.
 * Points of interest are [[../reference#Visual Hinting|noted with a dot]] (.) in the middle of the square representing the general area. These points of interest typically include powerups, but can also include health/ammo stations, and boss rooms. Elevators are marked with a dash (-) symbol. The player's last known save point is highlighted with a special 'S' icon, distinct from the other save rooms.
 * Doors that have been locked upon entry, but unlocked after completing a local task (typically killing enemies) will [[../reference#Mechanical Hinting|flash to reflect their status]].
@@ -151,18 +152,30 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 * At the end of the room lies a [[../reference#Visual Hinting|blue shutter door]], opening and closing when shot with any regular weapons fire- but only from the side the button is facing. Though not obvious to the player, they are actually being [[../reference#One-way Valves|locked from backtracking at all]] should they feel like it, by the shutter.
 
 ==== Noob Bridge ====
-* A long horizontal stretch of platform occupies the room, splitting it into two halves on the top and bottom. Taking the bottom route leads to a complete dead end, as nothing the player can do can bypass the pillar connecting the platform with the floor, so the only way to cross is the top half. The floor on the top half will disintegrate upon being stepped on, forcing a walking player to fall through and start over. Spikes line the top of the ceiling above the disintegrating floor, deincentivizing the player to try jumping across the fragile blocks, as it isn't the intended solution. Unless the player has learned by now that they can run by holding
+* A long horizontal stretch of platform occupies the room, splitting it into two halves on the top and bottom. Taking the bottom route leads to a complete dead end, as nothing the player can do can bypass the pillar connecting the platform with the floor, so the only way to cross is the top half. The floor on the top half will disintegrate upon being stepped on, forcing a walking player to fall through and start over.
+* Spikes line the top of the ceiling above the disintegrating floor, [[../reference#Deterrence|deincentivizing the player to try jumping]] across the fragile blocks, as it isn't the intended solution. Unless the player has learned by now that they can run by holding B, they will [[../reference#Skill Check|need to learn in order to progress]]. Furthermore, the shutter in the [[#Green Hill Zone|previous room]] will prevent the player from going any further back to ensure the player that they have the means necessary to cross the bridge.
 
-==== Pink Brinstar Power Bomb Room ====
+==== Red Tower ====
+[[file:BigPink.png|{IMG}]]
+* Upon entering the tower, a foothold can be seen above by jumping, but is [[../reference#Teasers|too high to reach]], forcing the player to descend.
+* After descending downward, the player comes across a cubby blocked off by blocks and walls, with a yellow door being visible on the west side. Attempting to bomb the block on the side of the door will only reveal more of the [[../reference#Teasers|same type of weapon block]] seen before in the [[#Green Brinstar Main Shaft|green shaft]] and [[#Big Pink|big pink]] that are currently indestructible. By this point, the player should be trained to try using brute force to find the hidden tunnel directly beneath, but box on the right can also be bombed to reveal a beetom from within. In a panic, the player is inclined to try spamming morph ball bombs to kill it since nothing else will, and in doing so can also reveal the same hidden tunnel beneath, leading not to the yellow door but descending further down the tower.
+* After descending further, the player will be [[../reference#One-way Valves|locked from within again]], as they will fall for a good while down the shaft full of back-and-forth roaming rippers, with no way back up the tower, although an [[energy refill station]] and the door to progression are found at opposing sides at the bottom.
 
-==== Pink Brinstar Hopper Room ====
+==== Bat Room ====
+[[file:BatRoom.png|{IMG}]]
+* The west half of the room from the main entrance consists of two footholds on either side divided by a relatively shallow pool of water. In order to successfully cross, the player can either perform a running jump, or a well-timed regular jump to reach the centerpiece leading the the east half of the room.
+* There, another centerpiece can be seen between two more pools of with spikes, as well as two idling on the ceiling just above it. From previous encounters with similar enemies, [[../reference#Yielding Procedure|the player can infer]] that they will dive-bomb the player as soon as the centerpiece is approached. The player can dispatch them prematurely before giving them that chance.
+* The spikes between the sides of the second centerpiece are especially dangerous since because they are underwater, they will take longer to escape from as the player's movement will be hindered. The energy refill station in the [[#Red Tower|previous room]] can be useful to players low on health after the ordeal, as they can heal damage taken from the spikes and try the room again.
 
-==== Hoptank Room ====
-
-
-
+==== Below Spazer ====
+[[file:BelowSpazer.png|{IMG}]]
+* Immediately upon entering, the yapping maw guarding the small platforms needed to cross the pool of water catches the player's eye. Before challenging it though, the player is inclined to dispatch the cacatac shooting projectiles at the far end of the room. The player must perform a [[../reference#Skill Check|swift platforming exercise]] to avoid being grabbed by the disturbed yapping maw to proceed to the centerpiece, and once more to proceed [[forward]].
+* A hole in the ceiling with a foothold can be seen and accessed above the centerpiece, revealing what appears to be a [[../reference#Visual Hinting|room above the ceiling]], but no way of accessing it from there. A single suspicious block can be easily missed just above the room's entrance, but the foothold above it is too high to be reached.
 
 === MARIDIA ===
+* Technically the first time reaching maridia comes in the form of a sub-stage
+
+==== Glass Tunnel ====
 
 === NORFAIR ===
 
@@ -175,15 +188,15 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 == BOSSES ==
 
 === Ridley I ===
-* This is a [[stage fight]] primarily set to establish Ridley's control over the infant metroid's tank. Ridley's primary attacks consist of swooping, tail swiping, and fireballs. These attacks are executed in an RNG cycle. Since Ridley's body does the most damage, one possible strategy is to try and get hit by the tail to minimize damage taken. The tail will occasionally spin and strike toward the player. The fireball attack is a volley projectile that [[../reference#Area of Effect|spreads out]] when hitting the floor or wall. This is a good opportunity to shoot him. Once the player's health drops below a certain point, he will fly away and the fight will end, but if the player manages to shoot him enough, gradually turning him into a [[../reference#Visual Hinting|heavy red color]], he will [[../reference#Easter Eggs|briefly folly about]], temporarily dropping the tank and flying away, ending the fight.
+* This is a [[stage fight]] primarily set to establish Ridley's control over the infant metroid's tank. Ridley's primary attacks consist of swooping, tail swiping, and fireballs. These attacks are executed in an RNG cycle. Since Ridley's body does the most damage, one possible strategy is to try and get hit by the tail to minimize damage taken. The tail will occasionally spin and strike toward the player. The fireball attack is a volley projectile that [[../reference#Area of Effect|spreads out]] when hitting the floor or wall. This is a good opportunity to shoot him. Once the player's health drops below a certain point, he will fly away and the fight will end, but if the player manages to shoot him enough, he will [[../reference#Easter Eggs|briefly folly about]], temporarily dropping the tank and flying away, ending the fight.
 
 === Torizo ===
 
 === Spore Spawn ===
-* Upon the [[../reference#One-way Valves|vertical door locking]] when entering, spores will begin falling from the ceiling, and deal minimal damage when touched. The boss reveals itself as a large round object oscillating in a figure-eight pattern, dealing damage upon contact. The fight involves the player avoiding contact with both the boss and its [[../reference#Bullet Rain|continuous rain of spores]] and quickly repositioning to shoot the [[../reference#Peakaboo Weakspot|temporarily exposed internals]] from the side platforms, as they are [[../reference#Shrouded Weakspot|covered from the bottom]]. The morph ball is a very good tool to avoid contact from the boss as it cannot reach, but the spores can still hit you. The spores can be dispatched with weapon fire to [[../reference#Replenishment Mobs|refill health/ammo]] during the fight, but the player must briefly exit morph ball mode in order to shoot. If spores are in the wrong place at the wrong time when the boss opens up, they can knock the player off balance and ruin a chance to strike. With careful positioning, shooting, and precalculation in relation to where spores are located, the player can find create the optimal time and place to strike the boss. Depending on how good the players is, they can shoot up to 2 or even 3 missiles in one strike.
-* It can be noted that the charge beam does double the normal amount of damage against the boss, but considering how long it takes to prepare, and the fact that you can only shoot 1 charge shot, it isn't as effective as rapid missile fire.
+* Upon the [[../reference#One-way Valves|vertical door locking]] when entering, spores will begin falling from the ceiling, and deal minimal damage when touched. The boss reveals itself as a large round object oscillating in a figure-eight pattern, dealing damage upon contact. The fight involves the player avoiding contact with both the boss and its [[../reference#Bullet Rain|continuous rain of spores]] and quickly repositioning to shoot the [[../reference#Peakaboo Weakspot|temporarily exposed internals]] from the side platforms, as they are [[../reference#Shrouded Weakspot|covered from the bottom]]. As the fight progresses, the boss will speed up oscillation after crossing a health threshold. The morph ball is a very good tool to avoid contact from the boss as it cannot reach, but the spores can still hit you. The spores can be dispatched with weapon fire to [[../reference#Replenishment Mobs|refill health/ammo]] during the fight, but the player must briefly exit the safety of the morph ball in order to shoot. If spores are in the wrong place at the wrong time when the boss opens up, they can knock the player off balance and ruin a chance to strike. With careful positioning, shooting, and precalculation in relation to where spores are located, the player can find and create the optimal time and place to strike the boss. Depending on how good the players is, they can shoot up to 2 or even 3 missiles in one strike.
 * Another strategy is to not grab the item drops from the dispatched spores and keep them airborne for as long as possible to prevent or "back-up" more spores from spawning.
-* Once defeated the dried corpse of the boss can be climbed upon to escape the room from the top end to [[#Spore Spawn Super Room|progress further]].
+* It can be noted that the charge beam does double the normal amount of damage against the boss, but considering how long it takes to prepare, and the fact that you can only shoot 1 charge shot, it isn't as effective as rapid missile fire.
+* Once defeated, the dried corpse of the boss can be climbed upon to escape the room from the top end to [[#Spore Spawn Super Room|progress further]].
 
 === Kraid ===
 
