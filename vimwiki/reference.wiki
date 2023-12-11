@@ -9,6 +9,8 @@
 === Visual Hinting ===
 * A gameplay situation where the player is hinted information through visual queues.
 
+*Symbolic Hinting*
+
 === Expositional Hinting ===
 * A gameplay situation where the player is hinted or explicated information by systematic explaination.
 
@@ -51,6 +53,7 @@
 
 *Foreshadowing*
 
+*Reacharound*
 
 === Fast Travel ===
 * A mechanic that allows the player to quickly travel to another area/macro-area. Typically this mechanic is unlocked or granted somehow, to contrast between normal travel.
@@ -163,13 +166,13 @@
 
 === Unlockable Shortcuts ===
 
-=== Two-sector Alternation Model ===
+=== Alternator Model ===
 
 === Hub and Spoke Model ===
 
 === Web Model ===
 
-=== Double Loop Model ===
+=== Circuit Model ===
 
 === Master/Sector Model ===
 
