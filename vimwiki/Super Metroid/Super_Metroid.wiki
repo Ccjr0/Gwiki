@@ -13,9 +13,12 @@
 * Points of interest are [[../reference#Visual Hinting|noted with a dot]] (.) in the middle of the square representing the general area. These points of interest typically include powerups, but can also include health/ammo stations, and boss rooms. Elevators are marked with a dash (-) symbol. The player's last known save point is highlighted with a special 'S' icon, distinct from the other save rooms.
 * Doors that have been locked upon entry, but unlocked after completing a local task (typically killing enemies) will [[../reference#Mechanical Hinting|flash to reflect their status]].
 * Shutters act as [[../reference#One-way Valves|one-way gates]], as they can only be opened from one side. The color-coded buttons correspond with basic doors to reflect the weapon requirements needed for activation. These shutters automatically close when the player leaves the room and returns.
+* Doors typically lock themselves until all [[enemies within a given room are defeated]].
+* Hi-jump boots expand the player's standard maximum jump height, allowing for reaching higher footholds as well as [[../reference#Streamline Ability|faster vertical traversal]].
+* Spazer beam greatly expands the width of the standard beam fire, making killing small/agile enemies much easier, as well as a considerable increase in firepower.
 %% Save station entries geometrically streamlined...
 %% Power bombs can quickly clear lots of bombable blocks caught within its radius...
-%% Hi-jump boots expand maximum jump height...
+%% Techniques like wall jumps, mach ball, shinespark etc retroactively change the game...
 
 ----
 
@@ -28,6 +31,8 @@
 
 ==== Ridley's Room ====
 * Upon meeting the captive metroid in the middle of the room, [[#Ridley I|Ridley]] emerges from the darkness in the background to engage the player in a battle.
+
+----
 
 === CRATERIA ===
 %% Stage 1 involves crawling down the deserted cavern and entering Brinstar...
@@ -62,7 +67,7 @@
 * The Crateria [[map room]] is just behind the door at the end of the hallway. With it, the player can find rooms they haven't explored (marked in blue), and get an idea of where they need to go next.
 
 ==== Flyway ====
-* A large [[../reference#Cluster Enemies|swarm of mellows]] occupy the hallway leading to a red door, where five missiles must be spent to access it. The mellows can merely be run past swiftly to avoid combat altogether, but their numbers can [[../reference#Replenishment Mobs|drop the missiles necessary]] both to open the door, and replenish health/ammo when coming out if need be. A meticulous player may even opt to [[../reference#Novelty Option|open the door first]], and then fight the flies to replenish the health/missiles used. Doing so may prove useful within the [[#Bomb Torizo Room|proceeding room]].
+* A large [[../reference#Cluster Enemies|swarm of mellows]] occupy the hallway leading to a red door, where five missiles must be spent to access it. The mellows can merely be run past swiftly to avoid combat altogether, but their numbers can [[../reference#Farming Mobs|drop the missiles necessary]] both to open the door, and replenish health/ammo when coming out if need be. A meticulous player may even opt to [[../reference#Novelty Option|open the door first]], and then fight the flies to replenish the health/missiles used. Doing so may prove useful within the [[#Bomb Torizo Room|proceeding room]].
 
 ==== Bomb Torizo Room ====
 * Upon entering, the player is met with another Chozo statue holding an upgrade, that being bombs. The [[../reference#One-way Valves|door is locked]] quickly upon trying to leave, and the statue comes to life to reveal the hostile [[#Torizo|Torizo]] ready to engage in combat.
@@ -81,11 +86,14 @@
 * A mossy green cove with a lake and a massive golden statue make this room [[../reference#Significant Landmarking|stand out from all others]] in the game, not to mention the long abandoned hallway leading up to it, signifying an unknown importance. The statue depicts four creatures, each with their own glowing colored eye. If none of the bosses have been defeated up until the room is discovered, nothing will happen and the player can merely take notice.
 
 ==== Lower Mushrooms ====
-Upon entering, the player encounters an armor plated geemer only [[../reference#Selective Invulnerability|vulnerable to bomb attacks]], as well as the first instance of a kago- a nest-like bio-organism. When disturbed with weapon fire, the kago will [[../reference#Generator|gradually dispense small jumping bugs]] that can [[../reference#Replenishment Mobs|drop health/ammo]] when killed. With enough weapons fire, the kago will be destroyed. Following the door ahead will lead to an elevator leading to green [[#BRINSTAR|Brinstar]], ending stage 2 of Crateria.
+Upon entering, the player encounters an armor plated geemer only [[../reference#Selective Invulnerability|vulnerable to bomb attacks]], as well as the first instance of a kago- a nest-like bio-organism. When disturbed with weapon fire, the kago will [[../reference#Generator|gradually dispense small jumping bugs]] that can [[../reference#Farming Mobs|drop health/ammo]] when killed. With enough weapons fire, the kago will be destroyed. Following the door ahead will lead to an elevator leading to green [[#BRINSTAR|Brinstar]], ending stage 2 of Crateria.
+
+----
 
 === BRINSTAR ===
 %% Stage 1 involves getting the morph ball and missile launcher...
-* Stage 2 starts upon taking the elevator room proceeding the lower mushrooms and spits the player out into the grassy [[#Green Brinstar Main Shaft|green brinstar]]. This stage of the game contains harder foes in higher numbers, so the missile expansions and E-tanks collected in Crateria will come into fruition here. After defeating the first boss in green Brinstar, the stage continues as the player descends further down into red Brinstar, and should eventually end up at the elevator room to begin the [[#NORFAIR|Norfair]] adventure.
+* Stage 2 begins upon taking the elevator room proceeding the lower mushrooms and spits the player out into the grassy [[#Green Brinstar Main Shaft|green brinstar]]. This stage of the game contains harder foes in higher numbers, so the missile expansions and E-tanks collected in Crateria will come into fruition here. After defeating the first boss in green Brinstar, the stage continues as the player descends further down into red Brinstar, and should eventually end up at the elevator room to begin the [[#NORFAIR|Norfair]] adventure.
+* Stage 3 begins after acquiring the hi-jump boots
 
 ==== Morph Ball Room ====
 * Arriving from the descending elevator, the player is again met with an east/west decision on how they will proceed.
@@ -132,7 +140,7 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 
 ==== Big Pink ====
 [[file:BigPink.png|{IMG}]]
-* Upon entering, the player is immediately granted the option to pick up/down to explore the layered micro-areas of the room. The room is crawling with several fast and strong enemies, so having missiles on deck would prove useful here, and smooth morph ball maneuvers can be used to avoid getting hit. The area is also full of [[../reference#Generators|basic enemy generators]] to help [[../reference#Replenishment Mobs|slowly replenish]] health/ammo.
+* Upon entering, the player is immediately granted the option to pick up/down to explore the layered micro-areas of the room. The room is crawling with several fast and strong enemies, so having missiles on deck would prove useful here, and smooth morph ball maneuvers can be used to avoid getting hit. The area is also full of [[../reference#Generators|basic enemy generators]] to help [[../reference#Farming Mobs|slowly replenish]] health/ammo.
 * Heading down from the main entrance, the player is first greeted with a foothold they cannot jump high enough to reach. A two sidehoppers and a trap-door await those at the bottom of the foothold, sending them further down into a pit of two aggressive reos. The only thing notable about how the foothold might be reached is a series of [[../reference#Visual Hinting|distinct blocks lining the ceiling]], but [[../reference#Teasers|nothing can be made of them]] at the time.
 * On the way out of the trap-door pit, the [[../reference#Teasers|first yellow door]] can be seen on the east side, but the player can merely take notice of it.
 * At the bottom of the room, lies a missile expansion as well as a tunnel within a column. The [[../reference#Visual Hinting|cornerstone of the column]] looks highly suspicious, and bombing it will bring the player down into a cove containing a chozo statue holding the charge beam. With it, stronger enemies can be taken care of more efficiently without the cost of missiles. Past the tunnel within the column [[../reference#Teasers|lies a green door]], forcing the player to climb back up the room. Meticulous/conditioned players may opt to [[../reference#Novelty Option|bomb the cornerstone of the statue]] to [[../reference#Teasers|reveal an impassable block]] seen in the floor of the [[#Green Brinstar Main Shaft|main shaft]].
@@ -143,10 +151,10 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 * Three kihunters roam the hallway preceding the [[#Spore Spawn|boss]] room. The kihunters are large, flying creatures dealing a fair bit of damage that swoop to attack. They normally take six shots to kill, and missiles will quickly dispatch them in one hit, but so will the charge beam if the player has acquired it from the bottom of [[#Big Pink|big pink]] at the cost of 0 missiles.
 
 ==== Spore Spawn Super Room ====
-* After defeating the [[#Spore Spawn|boss]], the player is led to a room with two pipes, one being a simple [[../reference#Generators|generator]] to help [[../reference#Replenishment Mobs|replenish]] after the fight, and the other at the end room being a trap-door that the player is inclined to step on. A very long fall down a narrow corridor ends with a Chozo statue holding the super missile upgrade, giving the player 5.
+* After defeating the [[#Spore Spawn|boss]], the player is led to a room with two pipes, one being a simple [[../reference#Generators|generator]] to help [[../reference#Farming Mobs|replenish]] after the fight, and the other at the end room being a trap-door that the player is inclined to step on. A very long fall down a narrow corridor ends with a Chozo statue holding the super missile upgrade, giving the player 5.
 
 ==== Spore Spawn Farming Room ====
-* After acquiring the super missiles, the player is brought to a room full of more pipe generators and a green door guarding the exit, with [[../reference#Mechanical Hinting|super missiles being the key]] to unlock. Ambient zeelas will also [[../reference#Easter Eggs|fall from the ceiling]] upon the explosive impact of the super missile. The enemies brought forth by the generator can [[../reference#Replenishment Mobs|replenish any wasted super missiles]] needed to progress past this room as well as the [[#Big Pink|next]].
+* After acquiring the super missiles, the player is brought to a room full of more pipe generators and a green door guarding the exit, with [[../reference#Mechanical Hinting|super missiles being the key]] to unlock. Ambient zeelas will also [[../reference#Easter Eggs|fall from the ceiling]] upon the explosive impact of the super missile. The enemies brought forth by the generator can [[../reference#Farming Mobs|replenish any wasted super missiles]] needed to progress past this room as well as the [[#Big Pink|next]].
 
 ==== Green Hill Zone ====
 * This room features a stair-step like pattern with several "floors" going downward. Several pipes spawning geegas also occupy the room. Upon entering through the main entrance, a foothold can be seen, but is [[../reference#|too high to reach]] merely by jumping.
@@ -171,24 +179,199 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 ==== Below Spazer ====
 [[file:BelowSpazer.png|{IMG}]]
 * Immediately upon entering, the yapping maw guarding the small platforms needed to cross the pool of water catches the player's eye. Before challenging it though, the player is inclined to dispatch the cacatac shooting projectiles at the far end of the room. The player must perform a [[../reference#Skill Check|swift platforming exercise]] to avoid being grabbed by the disturbed yapping maw to proceed to the centerpiece, and once more to proceed [[#Glass Tunnel|forward]].
-* A hole in the ceiling with a foothold can be seen and accessed above the centerpiece, revealing what appears to be a [[../reference#Visual Hinting|room above the ceiling]], but [[../reference#Reacharound|no way of accessing it from there]]. A single suspicious block can be easily missed just above the room's entrance, but the foothold above it is too high to be reached.
+* A hole in the ceiling with a foothold can be seen and accessed above the centerpiece, revealing what appears to be a [[../reference#Visual Hinting|room above the ceiling]], but [[../reference#Reacharound|no way of accessing it from there]]. A [[../reference#Visual Hinting|single suspicious block]] can be easily missed just above the room's entrance, but the foothold above it is [[../reference#Teasers|too high to be reached]] at the moment.
+* After having acquired the hi-jump boots [[#Hi Jump Boots Room|somewhat locally]], the player can return and reach the foothold the block covers over and discover the tunnel leading to the mysterious room with the green door occupying the ceiling. If the player is not holding right while bombing the second block in the tunnel, they will fall through the [[hidden destructible block underneath]], dropping them nearby the yapping maw below and forcing them to retrace their steps. With all of the blockage having been cleared however, they have no reason to fail again and can simply [[../reference#Streamlining|breeze through]] and grab the spazer beam past the green door.
 
 ==== Warehouse Entrance ====
 * Upon first entering, the player is highly inclined to take the elevator down to continue progression, but an attentive player may [[../reference#Visual Hinting|notice the map]] hinting at more that what meets the eye, as it shows an extension to the right of the room. The [[../reference#Symbolic Hinting|super missile blocks]] reveal themselves upon being bombed, and the player can access the extension after destroying one, revealing room with a [[../reference#Teasers|foothold barely too high to reach]] with the [[../reference#Landmarking|husk of a monster's face]] looming over the entryway.
+* Using the newly-acquired hi-jump boots, the player can return and reach the foothold from before and continue, if they hadn't already discovered it.
+
+==== Warehouse Zeela Room ====
+* Marking the beginning of stage 3 of Brinstar, the player is brought into a cramped room crawling with zeelas and a girder bridge above a space containing a [[../reference#Visual Hinting|rogue zeela]], as well as the map showing space below. Inclined to shoot or bomb their way under the girder, the player can indeed do so through a small opening and descend further into an area with a [[locked door]].
+* Although the map shows an extension only directly east of the girder bridge, no destructible blocks are available to use up there. The player being inclined to bomb below the bridge opposite to the locked door will reveal a secret morph ball tunnel on the right with a vertical door leading forward, establishing that the [[../reference#Mechanical Hinting|correct path may not necessarily exist on the map]].
+* During the backtrack after defeating Kraid and acquiring the varia suit, the once unlocked door becomes [[#Warehouse Energy Tank Room|unlocked]].
+
+==== Warehouse Kihunter Room ====
+* After deling with a swarm of kihunters patrolling the room, a [[../reference#Visual Hinting|depression in the floor]] can be seen at the far east end, and bombing it will unlock a tunnel leading to the nearby save room.
+* Although the map shows an [[../reference#Visual Hinting|extention below the room]], the solution once again isn't as straightforward as following the map. Bombing or shooting the [[../reference#Visual hinting|suspicious crack in the floor plating]] in the center of the room will reveal another secret tunnel leading to the path forward.
+
+==== Baby Kraid Room ====
+* Several green space pirates as well as a baby kraid patrol the long hallway, and must be defeated to unlock the doors and proceed. The space pirates are straightforward (especially with the spazer beam) but the baby kraid will send a barrage of [[../reference#Yielding Procedure|projectiles of varying heights]] to avoid well before it's in view. The spikes hanging from the ceiling will also punish players for [[../reference#Yielding Procedure|jumping too high]] over the baby kraid's projectiles
+
+==== Kraid Eye Door Room ====
+* Upon entering, an open space behind the ceiling above the door can be seen an broken into by shooting the ceiling open to reveal a green door containing an energy refill station next to a missile refill station, conveniently placed before and after the boss. However, a gamet generator can also be used to slowly farm health/ammo.
+* A [[../reference#Easter Eggs|dead soldier]] can be found lying on the ground before the first encounter with a gedora, a bio-organic door shield that [[../reference#Peakaboo Weakspot|periodically exposes its eye]], taking three missiles (or one super) to dispatch. The projectiles they shoot after exposing the eye for too long inflict minor damage, but also absorb missile fire. After dispatching the gedora, the [[#Kraid|boss]] room becomes accessible, and the varia suit is unlocked after emerging victorious, bringing Brinstar's third stage to a close.
+
+==== Warehouse Energy Tank Room ====
+* The small room is infested with beetoms, and they will attack immediately upon entering as entrance locks until they are all dispatched. After doing so, the player may be inclined to explore the [[../reference#Visual Hinting|suspicious cracks in the plating]] around, but only one in the ceiling contains an energy tank upgrade.
+
+
+----
+
+
+=== NORFAIR ===
+* Stage 1 of Norfair is somewhat short-lived, but serves its purpose in both providing the player the hi-jump boots necessary to backtrack toward the [[#Warehouse Entrance|warehouse]] and [[#Below Spazer|other room]] seen before, and also establishing several new areas the player is [[../reference#Systematic Gatekeeping|gatekept from]] within a relatively short amount of time.
+* Norfair stage 2 begins after the player defeats Kraid and returns with the varia suit to explore the depths that were too hot before. In doing so, they will eventually find the
+
+==== Business Center ====
+* Upon riding the elevator down for the first time, the player gets their first impression of Norfair in tall shaft-structured room similarly seen before in [[#Green Brinstar Main Shaft|brinstar]]. Besides the [[../reference#Teaser|yellow door]] in the middle-left of the room, the player has the means to access all of the doors in the shaft.
+* The bottom of the shaft lined with a [[../reference#Visual Hinting|thin layer of blocks with an open space and an sova behind it]] can be opened up to reveal another door.
+
+==== Ice Beam Gate Room ====
+* Coming from the green door seen in the business center, a walking player will be quickly stopped by a proximity shutter preventing further access into the hall. Although a running start would also work, an [[../reference#Visual Hinting|open space within a tunnel]] can be seen below the floor, and bombs will allow the player to bypass the gate from below, but a [[../reference#Teasers|second gate blocks any form of progression]], as it cannot be sped past or bombed under/over at this time, forcing the player to retreat.
+* A sova can also be seen crawling along the tunnel in the ceiling, most likely [[../reference#Visual Hinging|subtly implying]] that the tunnel below mentined before can also be crawled along.
+
+==== Cathedral Entrance ====
+* Immediately entering during stage 1, the player is [[../reference#Deterrence|contemporarily blocked off]] in all immediate directions preventing them from committing to exploring the room as they are [[../reference#Tick Damage|gradually being cooked alive]] by the intense heat, forcing them back to [[../reference#Teasers|explore later]].
+* After returning with the varia suit, the player can safely enter and bomb the [[../reference#Visual Hinting|narrow foothold below them]] to [[#Cathedral|continue forth]] and explore.
+
+==== Frog Speedway ====
+[[file:FrogSpeedwaySmile.png|{IMG}]]
+* East-adjacent to the save room to the right of the shaft, frog speedway consists of a long, narrow hallway filled with blockage and crawling with beetoms. However, bombing the rubble will reveal a [[../reference#Symbolic Hinting|distinct speed booster block]], forcing the player to [[../reference#Teasers|retreat until acquired]].
+
+==== Hi Jump Energy Tank Room ====
+[[file:HiJumpEnergyTankRoom.png|{IMG}]]
+* From the bottom-west door from the shaft, the player is rewarded with an energy tank as the [[../reference#One-way Valves|door behind locks]], but a [[../reference#Visual Hinting|sova scurrying within a tunnel]] in the corner of the room can also be seen below the bridge the player stands upon. Inclined to follow it, two blocks can be disintegrated upon contact allowing the player access to the rest of the room. As the player descends, the player has [[no way of escaping once]] they've commited, as they cannot jump high enough to reach the foothold directly above to leave, forcing them into the adjacent door to obtain the next upgrade.
+* After just acquiring the hi-jump boots, the player can reach the foothold to escape and grab a missile expansion on their way out of the room.
+
+==== Hi Jump Boots Room ====
+[[file:HiJumpBootsRoom.png|{IMG}]]
+* A Chozo statue can immediately be seen behind the dividing wall, and upon shooting the [[../reference#Visual Hinting|suspicious plating]] near the top of the wall, access becomes granted. Using the newly-acquired hi-jump boots, the player can jump back over the wall from the trough letting them escape.
+
+==== Crocomire Escape ====
+* Entering from below the destructible bridge within the business center, a missile expansion on the ground can be seen behind a shutter door. However, even if the player has acquired the varia suit to be able to even widthstand the intense heat, the shutter cannot be bypassed as the green button is on the [[../reference#Reacharound|other side]].
+
+==== Cathedral ====
+[[file:Cathedral.png|{IMG}]]
+%% Enemy can get itself positioned in a way where the player can accidentally shoot a block under the lava, uncovering a missile from within
+
+==== Rising Tide ====
+* Upon entering, the ground will begin to shake, and the lava from below will begin to rise from the ground and subside after some time. The player must consecutively jump along several narrow pillars and platforms to avoid the scurrying sovas and also [[../reference#Floor is Lava|falling in the lava]]. Several squeepts leap straight up from the lava at randomly varying heights. They cannot practically be killed, so [[../reference#Yielding Procedure|they should be respected]]. As the player continues Dragons will eventually emerge from the lava and launch projectiles in an arc pattern that can be [[../reference#Yielding Procedure|avoided by crouching or morphing upon the pillars]]. The dragons cannot be killed easily with normal weapon fire, but three missiles will do the job.
+
+==== Bubble Mountain ====
+* Bubble mountain is a large, tall room made up of several parts split horizontally into two halves- one full of green bubbles and the other full of metal pipes and blocks.
+* The somewhat [[../reference#Visual Hinting|conspicuous metal pipe with a sova crawling under it]] just outside the main entrance can be bombed, but only to reveal the [[../reference#Symbolic Hinting|power bomb blocks]] it's made up of.
+* A save room can be found in the middle-west adjacent room, but two high footholds- one further right and one directly above- [[../reference#Teasers|cannot be reached]] even with hi-jump boots.
+* At the far-east end of the room, the player can bomb the [[../reference#Visual Hinting|small pieces of pipe]] that descend in a staggered pattern to an underground cubby containing a missile expansion. From there and even while bombing, [[../reference#Visual Hinting|sovas can be seen scurrying]] within the wall just outside of the cubby.
+* In the very center of the room sits a [[../reference#Visual Hinting|suspicious altar containing a thin layer of blocks]]. Bombing them allows access below, and into series of tunnels within the wall occupied by sovas. The sovas can be dispatched with well-placed boms as they approach from within the tunnel.
+
+
+
+
+==== Green Bubbles Missile Room ====
+==== Norfair Reserve Tank Room ====
+==== Bat Cave ====
+==== Speed Booster Hall ====
+==== Speed Booster Room ====
+==== Single Chamber ====
+==== Double Chamber ====
+==== Wave Beam Room ====
+==== Nutella Refill ====
+==== Spiky Acid Snakes Tunnel ====
+==== Purple Shaft ====
+==== Magdollite Tunnel ====
+==== Kronic Boost Room ====
+==== Lava Dive Room ====
+==== Volcano Room ====
+==== Spiky Platforms Tunnel ====
+==== Red Pirate Shaft ====
+==== Acid Snakes Tunnel ====
+==== Crocomire Speedway ====
+==== Crocomire's Room ====
+==== Post Crocomire Farming Room ====
+==== Post Crocomire Power Bomb Room ====
+==== Post Crocomire Shaft ====
+==== Post Crocomire Missile Room ====
+==== Post Crocomire Jump Room ====
+==== Grapple Beam Room ====
+==== Grapple Tutorial Room 1 ====
+==== Grapple Tutorial Room 2 ====
+==== Grapple Tutorial Room 3 ====
+==== Ice Beam Acid Room ====
+==== Ice Beam Snake Room ====
+==== Ice Beam Room ====
+==== Ice Beam Tutorial Room ====
+==== Crumble Shaft ====
+
+
+----
+
+=== WRECKED SHIP ===
+
+==== Wrecked Ship Entrance ====
+==== Wrecked Ship Main Shaft ====
+==== Basement ====
+==== Phantoon's Room ====
+==== Wrecked Ship West Super Room ====
+==== Attic ====
+==== Bowling Alley ====
+==== Gravity Suit Room ====
+==== Wrecked Ship East Super Room ====
+==== Sponge Bath ====
+==== Spiky Death Room ====
+==== Electric Death Room ====
+==== Wrecked Ship Energy Tank Room ====
+==== Assembly Line ====
+
+----
 
 === MARIDIA ===
 * Technically the first time accessing Maridia comes in the form of a sub-stage consisting of merely three small rooms during the trek through stage 2 Brinstar.
 
 ==== Glass Tunnel ====
-* Right before the [[#Warehouse Entrance|elevator room]] to Norfair at the end of Brinstar's second stage, this underwater glass tunnel briefly shows up as a [[../reference#Landmarking|transitional landmark]] between Norfair and the depths of Brinstar.
+* Right before the [[#Warehouse Entrance|elevator room]] to Norfair at the end of Brinstar's second stage, this underwater glass tunnel briefly shows up as an unassuming [[../reference#Landmarking|transitional landmark]] between Norfair and the depths of Brinstar.
 
-=== NORFAIR ===
-* Stage 1 of Norfair is somewhat short-lived, but serves its purpose in both providing the player the hi-jump boots necessary to backtrack toward the [[#Warehouse Entrance|warehouse]] and [[#Below Spazer|other room]] seen before, and also establishing several new areas the player is [[../reference#Teasers|gatekept from]] within a relatively short amount of time.
+==== Main Street ====
+==== Fish Tank ====
+==== Mt. Everest ====
+==== Crab Shaft ====
+==== Crab Tunnel ====
+==== Red Fish Room ====
+==== Mama Turtle Room ====
+==== Pseudo Plasma Spark Room ====
+==== Northwest Maridia Bug Room ====
+==== Watering Hole ====
+==== Aqueduct ====
+==== Botwoon Hallway ====
+==== Botwoon's Room ====
+==== Botwoon Energy Tank Room ====
+==== Halfie Climb Room ====
+==== Maridia Missile Refill Room ====
+==== Colosseum ====
+==== Maridia Health Refill Room ====
+==== The Precious Room ====
+==== Draygon's Room ====
+==== Space Jump Room ====
+==== West Cactus Alley Room ====
+==== East Cactus Alley Room ====
+==== Plasma Spark Room ====
+==== Oasis ====
+==== West Sand Hall ====
+==== Boyon Gate Hall ====
+==== Crab Hole ====
+==== West Sand Hall Tunnel ====
+==== Maridia Map Room ====
+==== Botwoon Quicksand Room ====
+==== Below Botwoon Energy Tank ====
+==== West Aqueduct Quicksand Room ====
+==== East Aqueduct Quicksand Room ====
+==== East Sand Hole ====
+==== West Sand Hole ====
+==== East Sand Hall ====
+==== Bug Sand Hole ====
+==== Plasma Beach Quicksand Room ====
+==== Butterfly Room ====
+==== Thread The Needle Room ====
+=== Maridia Elevator Room ===
+==== Plasma Climb aka Kassiuz Room ====
+==== Plasma Tutorial Room ====
+==== Plasma Room ====
+==== Pants Room ====
+==== East Pants Room ====
+==== Shaktool Room ====
+==== Spring Ball Room ====
 
-==== Business Center ====
-* Upon riding the elevator down for the first time, the player gets their first impression of Norfair in tall shaft-structured room similarly seen before in [[#Green Brinstar Main Shaft|brinstar]]. Besides the two rooms at the bottom being [[progression]] and a [[much needed save station]], almost all of the adjacent rooms in the shaft lead to areas ,
-
-=== WRECKED SHIP ===
+----
 
 === TOURIAN ===
 
@@ -202,7 +385,7 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 === Torizo ===
 
 === Spore Spawn ===
-* Upon the [[../reference#One-way Valves|vertical door locking]] when entering, spores will begin falling from the ceiling, and deal minimal damage when touched. The boss reveals itself as a large round object oscillating in a figure-eight pattern, dealing damage upon contact. The fight involves the player avoiding contact with both the boss and its [[../reference#Bullet Rain|continuous rain of spores]] and quickly repositioning to shoot the [[../reference#Peakaboo Weakspot|temporarily exposed internals]] from the side platforms, as they are [[../reference#Shrouded Weakspot|covered from the bottom]]. As the fight progresses, the boss will speed up oscillation after crossing a health threshold. The morph ball is a very good tool to avoid contact from the boss as it cannot reach, but the spores can still hit you. The spores can be dispatched with weapon fire to [[../reference#Replenishment Mobs|refill health/ammo]] during the fight, but the player must briefly exit the safety of the morph ball in order to shoot. If spores are in the wrong place at the wrong time when the boss opens up, they can knock the player off balance and ruin a chance to strike. With careful positioning, shooting, and precalculation in relation to where spores are located, the player can find and create the optimal time and place to strike the boss. Depending on how good the players is, they can shoot up to 2 or even 3 missiles in one strike.
+* Upon the [[../reference#One-way Valves|vertical door locking]] when entering, spores will begin falling from the ceiling, and deal minimal damage when touched. The boss reveals itself as a large round object oscillating in a figure-eight pattern, dealing damage upon contact. The fight involves the player avoiding contact with both the boss and its [[../reference#Bullet Rain|continuous rain of spores]] and quickly repositioning to shoot the [[../reference#Peakaboo Weakspot|temporarily exposed internals]] from the side platforms, as they are [[../reference#Shrouded Weakspot|covered from the bottom]]. As the fight progresses, the boss will speed up oscillation after crossing a health threshold. The morph ball is a very good tool to avoid contact from the boss as it cannot reach, but the spores can still hit you. The spores can be dispatched with weapon fire to [[../reference#Farming Mobs|refill health/ammo]] during the fight, but the player must briefly exit the safety of the morph ball in order to shoot. If spores are in the wrong place at the wrong time when the boss opens up, they can knock the player off balance and ruin a chance to strike. With careful positioning, shooting, and precalculation in relation to where spores are located, the player can find and create the optimal time and place to strike the boss. Depending on how good the players is, they can shoot up to 2 or even 3 missiles in one strike.
 * Another strategy is to not grab the item drops from the dispatched spores and keep them airborne for as long as possible to prevent or "back-up" more spores from spawning.
 * It can be noted that the charge beam does double the normal amount of damage against the boss, but considering how long it takes to prepare, and the fact that you can only shoot 1 charge shot, it isn't as effective as rapid missile fire.
 * Once defeated, the dried corpse of the boss can be climbed upon to escape the room from the top end to [[#Spore Spawn Super Room|progress further]].
@@ -223,3 +406,5 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 
 == THOUGHTS ==
 %% Coincidental double reacharound thing in Red Brinstar...
+%% Slightly misleading sova in Norfair gate room...
+%% Questionable ceiling expansion at the tail-end of Norfair stage 1...

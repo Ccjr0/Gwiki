@@ -49,7 +49,7 @@
 * A gameplay situation where either a player is inclined or forced to test an ability/weapon etc. or challenge an unknown force or puzzle to a limited extent/ability.
 
 === Teasers ===
-* Describes a certain item, place or more abstract thing that is inaccessible, but are made sure the player knows about, or can know about them. (a.k.a. '*Blue-balling*')
+* a.k.a. '*Cock-blocking*' Describes a certain item, place or more abstract thing that is inaccessible, but are made sure the player knows about, or can know about them. Most notably a typical psychological byproduct of/use in tandem with [[#Systematic Gatekeeping|systematic gatekeeping]], but isn't necessarily limited to it.
 
 *Foreshadowing*
 
@@ -211,7 +211,7 @@
 === Mobs ===
 * One or more group(s) of hostile enemies. Typically distinguished as "mobs" in boss/miniboss fights.
 
-*Replenishment Mobs*
+*Farming Mobs*
 
 === Minions ===
 * One or more group(s) of enemies that fight alongside a distinguishably stronger or primary opponent. Typically used in boss/miniboss fights.
@@ -264,12 +264,13 @@
 ----
 
 == PRESENTATION ==
-=== Graphical FX ===
-(GFX) The kinds of visual effects that grab your attention or provide ambiance, sometimes taking advantage of certain hardware/software traits.
+=== Visual Treatment ===
+* a.k.a. '*Graphical FX*': Loosely defines the kinds of visual effects that grab your attention or provide ambiance, sometimes taking advantage of certain hardware/software traits.
 
 === Immersive Feedback ===
 
 === Easter Eggs ===
+
 ----
 
 == STEALTH ==
