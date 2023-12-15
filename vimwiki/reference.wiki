@@ -141,14 +141,14 @@
 ----
 
 == LEVEL DESIGN ==
-=== Macro-area ===
-* A distinguishably large area consisting of more than one meso-area.
+=== Macro-areas ===
+* A distinguishably large area consisting of one or several meso-areas.
 
-=== Meso-area ===
-* An area within a macro-area.
+=== Meso-areas ===
+* Typically referred to as just '*Areas*': Distinct smaller areas within a macro-area.
 
-=== Micro-area ===
-* A small sector within an meso-area.
+=== Micro-areas ===
+* Smaller, distinct areas within meso-areas.
 
 === Intersection ===
 

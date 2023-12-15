@@ -50,7 +50,7 @@
 == AREAS ==
 
 === PIRATE FRIGATE ===
-[[file:metroidprime_map_frigate.jpg|>> MAP <<]]
+[[file:metroidprime_map_frigate.jpg|{IMG}]]
 * The pirate frigate serves as a temporary tutorial area to get the player accustomed to the game's controls and mechanics in the very beginning of the game. This area is also reused later in a completely different way from the tutorial section. The game provides [[expositional hints]] by telling them how to activate and use certain mechanics and weapons such as scan visor, morph ball, missiles, charge beam etc., and features a basic boss fight and [[timed escape sequence]] at the end before revoking several of the player's abilities that they had learned to use.
 
 ==== Exterior Docking Hangar ====
@@ -96,7 +96,7 @@
 * Upon scanning a panel to deactivate a defense turret, and avoiding another [[../reference#Yield to Proceed|electrical hazard]], a cutscene plays after activating the elevator that removes most of your suit augmentations and abilities. Upon exiting back through the air lock and into the docking hangar completes this area.
 
 === TALLON OVERWORLD ===
-[[file:metroidprime_map_tallon.jpg|>> MAP <<]]
+[[file:metroidprime_map_tallon.jpg|{IMG}]]
 * Tallon Overworld is the first "true" [[macro-area]] of the game after the tutorial sequence, and serves somewhat as a weak-hubworld as it is the area of origin, and offers paths to every other macro-area in the main game, but isn't rigidly structured or much differently from other macro-areas that are less hub-like, nor is it as particularly large as the other macro-areas, nor does it serve any large significance in the game until the middle and later stages of the game.
 * Stage 1 of Tallon Overworld is the basic initial exploration phase of the game with several paths to choose from as well as several areas and [[../reference#Micro-areas|micro-areas]] the player [[../reference#Teasers|cannot access]] while exploring. Blast shields reflect beam shots and crevices can only be bypassed with morph ball, both of which are acquired later in Chozo Ruins stage 1.
 * After stage 1 of Chozo Ruins has been completed, the player can opt to return to Tallon to explore the other areas that were previously inaccessible. Upon doing so, they should find the elevator door to begin the first stage of [[#MAGMOOR CAVERNS|Magmoor Caverns]].
@@ -164,7 +164,7 @@
 * A series of platforming and morph ball exercises will lead the player halfway toward the exit before Chozo ghosts appear. With the [[../reference#Mechanical Hinting|newly-found x-ray visor]], the player can easily track the ghosts to quickly dispatch them and proceed to the exit.
 
 === CHOZO RUINS ===
-[[file:metroidprime_map_chozo.jpg|>> MAP <<]]
+[[file:metroidprime_map_chozo.jpg|{IMG}]]
 * Chozo Ruins is the first [[macro-area]] of significant importance in the game, as stage 1 really establishes the metroidvania model efficiently.
 * [[../reference#Two-sector Alternation Model|Two-sector alternation model]] featuring a [[../reference#Double Roundabout|roundabout]] and two [[branches]] in Stage 1 Chozo Ruins.
 * Due to the [[../reference#Floor is Lava|toxic acid]], many rooms have hazardous floors that should be avoided as much as possible.
@@ -302,7 +302,7 @@
 ==== Training Chamber ====
 
 === MAGMOOR CAVERNS ===
-[[file:metroidprime_map_magmoor.jpg|>> MAP <<]]
+[[file:metroidprime_map_magmoor.jpg|{IMG}]]
 * Magmoor caverns gets effectively unlocked once the Varia suit has been acquired, as it is a high-heat zone. Thus, there is lots of [[../reference#Floor is Lava|dangerous lava]] all around. By this point, the player should have enough platforming experience avoiding acid in Chozo Ruins to be able to respect the lava.
 * Magmoor caverns functions more like a transitional macro-area to bridge the gap between other macro-areas, almost like a weak hub-world but more snakey and trial-like in nature. Barely any extended focus is given to here as opposed to other areas.
 * Stage 1 of Magmoor Caverns is essentially an inverse fork where you can enter from two very separate areas (from either the [[#Transport to Magmoor Cavers North|Ruins]] or [[#Root Cave|Overworld]]), but they eventually meet and converge with each other into the path needed for progression by the end of this stage. Additionally, both branches of the fork have one achievable powerup within them, giving explorational integrity to either path both coming in during this stage, and coming out after Phendrana stage 1.
@@ -380,7 +380,7 @@
 * [[../reference#Yield to Proceed|Wall-equipped flamethrowers]] must be respected and rolled under with morph ball.
 
 === PHENDRANA DRIFTS ===
-[[file:metroidprime_map_phendrana.jpg|>> MAP <<]]
+[[file:metroidprime_map_phendrana.jpg|{IMG}]]
 * Phendrana Drifts is the second [[../reference#Macro-area|macro-area]] where the player spends an extended time on. However, the first stage is short-lived, as the player will have to [[backtrack]] to [[#Tallon Canyon|Tallon Overworld]] once they've acquired the boost ball.
 * Stage 2 of Phendranda Drifts is likely the most notable stage of this area, as it is the most extensive. It's structured like three branches, with the middle branch being the most distinguishable as a [[linear fetch-and-escape sequence]] for grabbing the thermal visor. The first branch with the player investigating the floating platforms in the [[#Phendrana Shorelines|shorelines]] after having grabbed the space jump boots, eventually leading them to the wave beam. After this, they are meant to find the purple door as seen in the [[#Ice Ruins West|west ice ruins]] which shortly leads into a longer branch from within the space pirate base, and finally the [[#Thardus|final boss]] of the stage that drops the spider ball being the shortest seperate branch.
 * Stage 3 of Phendrana Drifts begins once the player comes back from the depths of Chozo Ruins after grabbing the ice beam to investigate the white doors from either the [[#Research Core|research core]] or the [[#Transport to Magmoor Caverns South|elevator room]] found at the end of stage 2. From there, Phendrana's depths open up to the player, and it functions similarly to the last one in that you fetch and escape, but its stage is much shorter and is structured as a [[non-linear fetch-and-escape sequence]].
@@ -498,7 +498,7 @@
 * After having acquired the grapple beam, the player can reach the top of this room which holds a morph ball tunnel containing a power bomb expansion and some [[../reference#Easter Eggs|hidden lore]]. However, a door nearby undetected by the 3D map can only be [[../reference#Transparency|seen through a destructible wall]] with the x-ray visor. From within, lies the [[../reference#Grand Fetch Quest|Artifact of Spirit]].
 
 === PHAZON MINES ===
-[[file:metroidprime_map_mines.jpg|>> MAP <<]]
+[[file:metroidprime_map_mines.jpg|{IMG}]]
 * Phazon mines is the final true [[macro-area]] of the game where the player spends an extensive amount of time on. It is also the area where the game gets [[../reference#Difficulty Spike|significantly harder]] due to the sheer number of aggressive space pirates, so all of the ammo and health upgrades the player has gathered throughout the game will come into fruition here.
 * Stage 1 features two parts: First the player must fetch the power bomb upgrade and escape through the way they came, and also grab the grapple beam on their way out and upon doing so, the player can unlock [[../reference#Streamlining|two shortcuts]] to help streamline backtracking between the mines: one [[#Maintenance Tunnel|tunnel]] leading to Magmoor Caverns, and one room dividing the [[#Main Quarry|quarry]] and the [[#Ore Processing|ore processing]].
 * Stage 2 comes when the player has finally fetched all 3 items necessary to continue through the [[#Metroid Quarantine A|metroid quarantine]]. They will work their way down to the depths of the mines and fight the final boss of this area, acquiring the phazon suit. To avoid an awkward extra stage, the player should go back to grab the artifacts of [[#Phazon Mining Tunnel|newborn]] and [[#Elite Research|warrior]] if they haven't already.
@@ -675,13 +675,21 @@
 
 * Upon grabbing the boost ball after stage 1 of Phendrana Drifts, the player is intended to go back to Tallon Overworld to find the half-pipe in [[#Tallon Canyon|Tallon canyon]] to unlock the space jump boots. While the backtracking itself isn't the issue, and the game provides it's share of subtle hints and design choices to remind the player, I think the reason this part of the game is so confusing to so many is because the structure in the canyon doesn't communicate very well visually due to the dark, the sheer width of the structure, the enemies drawing the player's focus away from the half-pipe shape, and the fact that the structure never stood out to the player originally since it was merely seen in the beginning of the game.
 
-* I also think that although Chozo Ruins had its share of half-pipe hints during the quest for the space jump boots, the backtracking section coming from Magmoor could've used a hint as well. I would offer this compromise: Instead of the missile expansion under the bridge in the [[#Root Tunnel|root tunnel]], replace it with a half-pipe structure beneath the bridge with the missile expansion having to be reached with boost ball. In this way, If the player comes back from Magmoor using the branch that leads to the [[#Transport to Tallon Overworld West|Tallon elevator]] instead of the [[#Transport to Magmoor Cavers North|Ruins one]], they will be reminded of the half-pipe on their way back to Tallon canyon.
+* I also think that although Chozo Ruins had its share of half-pipe hints during the quest for the space jump boots, the backtracking section coming from Magmoor could've used a hint or two as well. I would offer a quick compromise like this: Instead of the missile expansion under the bridge in the [[#Root Tunnel|root tunnel]], replace it with a half-pipe structure beneath the bridge with the missile expansion having to be reached with boost ball. In this way, If the player comes back from Magmoor using the branch that leads to the [[#Transport to Tallon Overworld West|Tallon elevator]] instead of the [[#Transport to Magmoor Cavers North|Ruins one]], they will be reminded of the half-pipe on their way back to Tallon canyon.
 
-* The most egregious flaw in my opinion comes mid-game after the ice beam is acquired. Once the spider ball is acquired, you are greeted with an ice door upon entering the next elevator room. This ice door was to serve as the main hint on where to go after acquiring the ice beam shortly after. Or perhaps even the ice door in the research core. The problem is that these doors are easy to ignore and forget, and on top of that- once acquiring the ice beam- you are given two more paths to explore immediately. One leads to Magmoor Caverns for optional stuff, and the other leads to the entrance to the sunken frigate which is also blocked by an ice door. If the player enters the frigate before going back to Phendrana Drifts to grab the gravity suit, then they will have to though a slog of underwater scavenger hunting and platforming only to be told to go straight back all the way up from where they came. This blatant flaw easily could've been fixed in a couple ways just off the top of my head. One way is to move the door that drops you into the frigate crash site from Chozo Ruins _behind_ the body of water, that way the player is still gatekept by that instead of given premature access to the frigate. Another way to solve this is to simply put a door early on in the frigate that's inaccessible to anyone without the gravity suit, so that the player doesn't get premature access to the reactor core and cargo freight just to trek back in the most crude way possible- being explicitly told to.
+* One of the more egregious flaws in my opinion comes mid-game after the ice beam is acquired. Once the spider ball is acquired, you are greeted with an ice door upon entering the next elevator room. This ice door was to serve as the main hint on where to go after acquiring the ice beam shortly after. Or perhaps even the ice door in the research core. The problem is that these doors are easy to ignore and forget, and on top of that- once acquiring the ice beam- you are given two more paths to explore immediately. One leads to Magmoor Caverns for optional stuff, and the other leads to the entrance to the sunken frigate which is also blocked by an ice door. If the player enters the frigate before going back to Phendrana Drifts to grab the gravity suit, then they will have to though a slog of underwater scavenger hunting and platforming only to be told to go straight back all the way up from where they came. This blatant flaw easily could've been fixed in a couple ways just off the top of my head. One way is to move the door that drops you into the frigate crash site from Chozo Ruins _behind_ the body of water, that way the player is still gatekept by that instead of given premature access to the frigate. Another way to solve this is to simply put a door early on in the frigate that's inaccessible to anyone without the gravity suit, so that the player doesn't get premature access to the reactor core and cargo freight just to trek back in the most crude way possible- being explicitly told to.
 
-%% Magmoor backtracking thing late game...
+%% Another possibility for the underwater frigate is to add an unlockable shortcut to quickly send the player back out after reaching...
+
+%% Charge beam powerup issue...
+
+%% Magmoor backtracking thing late game during during ...
+
+%% Magmoor should've had more shortcuts/streamlining in general...
 
 %% Chozo backtracking thing late game without the plasma beam...
+
+%% Phazon mines also should have had more shortcuts...
 
 * Another blemish with the level design in this game which I particularly disliked (disregarding the no-hint stuff), was retrieving the artifact of newborn. I feel like the fix would be very simply to put it closer to the entrance/exit point of the area that its in (being the Phazon Mines depths) instead of being right in the awkward middle area that its in, and given that there isn't a backtrack-phase in that area like the other artifacts because its the very end of the game, there's no real way to go back and get it that doesn't feel like a real slog.
 
@@ -694,7 +702,7 @@
 
 * I think more ice beam doors should've been used to streamline the space pirate base in Phendrana Drifts for when the player comes back later to hunt for the gravity suit and Chozo artifacts in stages 3 and 4. For example, what if there was an ice door that divides the entrance of the facility from the main path into an underground "under construction" area that leads directly into both the [[#Control Tower|control tower]] elevator and the [[#Research Core|research core]]? This way, the player would be more heavily conditioned to remember these white doors during stage 2 and check it out later after they acquire the ice beam, instead of relying merely on the 2 white doors in the research core and the [[elevator]] respectively.
 
-%% The problem with streamlining too much with certain teasers...
+* The problem with streamlining too much with certain teasers is that they can too easily give the player a false idea or sense of direction on where to go next by overwhelming them with too many options, especially by the late game where the player has opened up a massive part of the world
 
 === The Hint System and the Metroidvania Problem ===
 %% The metroidvania problem ... (Process of elimination, how often people blatantly miss things/make mistakes over an extended time ... and is most likely why the hint system was implemented in the first place)

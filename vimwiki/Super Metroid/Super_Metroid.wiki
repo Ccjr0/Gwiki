@@ -25,6 +25,14 @@
 == AREAS ==
 [[file:metroid3_map.gif|{IMG}]]
 
+[[#CERES STATION|Ceres Station]]
+[[#CRATERIA|Crateria]]
+[[#BRINSTAR|Brinstar]]
+[[#NORFAIR|Norfair]]
+[[#WRECKED SHIP|Wrecked Ship]]
+[[#MARIDIA|Maridia]]
+[[#TOURIAN|Tourian]]
+
 === CERES STATION ===
 * This temporary macro-area serves as a very [[../reference#Basic Mechanical Tutorial|short and basic tutorial section]] helping the player to get accustomed to the controls and establish the plot.
 * After surviving the first encounter with [[#Ridley I|Ridley]],
@@ -93,7 +101,8 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 === BRINSTAR ===
 %% Stage 1 involves getting the morph ball and missile launcher...
 * Stage 2 begins upon taking the elevator room proceeding the lower mushrooms and spits the player out into the grassy [[#Green Brinstar Main Shaft|green brinstar]]. This stage of the game contains harder foes in higher numbers, so the missile expansions and E-tanks collected in Crateria will come into fruition here. After defeating the first boss in green Brinstar, the stage continues as the player descends further down into red Brinstar, and should eventually end up at the elevator room to begin the [[#NORFAIR|Norfair]] adventure.
-* Stage 3 begins after acquiring the hi-jump boots
+* Stage 3 begins after acquiring the hi-jump boots and returning to the elevator with the scary face to explore the warehouse and defeat Kraid, obtaining the varia suit in the process.
+* Stage 4 is relatively short, but marks a crucial point in the game.
 
 ==== Morph Ball Room ====
 * Arriving from the descending elevator, the player is again met with an east/west decision on how they will proceed.
@@ -168,7 +177,9 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 [[file:BigPink.png|{IMG}]]
 * Upon entering the tower, a foothold can be seen above by jumping, but is [[../reference#Teasers|too high to reach]], forcing the player to descend.
 * After descending downward, the player comes across a cubby blocked off by blocks and walls, with a yellow door being visible on the west side. Attempting to bomb the block on the side of the door will only reveal more of the [[../reference#Teasers|same type of weapon block]] seen before in the [[#Green Brinstar Main Shaft|green shaft]] and [[#Big Pink|big pink]] that are currently indestructible. By this point, the player should be trained to try using brute force to find the hidden tunnel directly beneath, but box on the right can also be bombed to reveal a beetom from within. In a panic, the player is inclined to try spamming morph ball bombs to kill it since nothing else will, and in doing so can also reveal the same hidden tunnel beneath, leading not to the yellow door but descending further down the tower.
-* After descending further, the player will be [[../reference#One-way Valves|locked from within again]], as they will fall for a good while down the shaft full of back-and-forth roaming rippers, with no way back up the tower, although an [[energy refill station]] and the door to progression are found at opposing sides at the bottom.
+* After descending further, the player will be [[../reference#One-way Valves|locked from within again]], as they will fall for a good while down the shaft full of back-and-forth roaming rippers, although an [[energy refill station]] and the door to progression are found at opposing sides at the bottom. If at any point in time from here the player returns, they will not be able to go back up the tower until they've acquired the ice beam.
+* After finally acquiring the ice beam, the player can trek their way back up the tower by [[../reference#Mechanical Hinting|freezing the rippers and using them as platforms to escape]]. The energy refill station is particularly useful here to recuperate from damage the player may take from being struck by the unfrozen rippers should they fail the platforming exercise back up the tower.
+* Once the player makes it back up from the bottom, they still cannot go back through the shutter door in [[#Green Hill Zone|green brinstar]], but the foothold seen upon first entering the tower can be accessed with the hi-jump boots to reveal another ripper platforming section above. The outlined blocks must be shot open atop the final frozen ripper to access the very top of the tower and the door [[#Hellway|forward]].
 
 ==== Bat Room ====
 [[file:BatRoom.png|{IMG}]]
@@ -181,6 +192,7 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 * Immediately upon entering, the yapping maw guarding the small platforms needed to cross the pool of water catches the player's eye. Before challenging it though, the player is inclined to dispatch the cacatac shooting projectiles at the far end of the room. The player must perform a [[../reference#Skill Check|swift platforming exercise]] to avoid being grabbed by the disturbed yapping maw to proceed to the centerpiece, and once more to proceed [[#Glass Tunnel|forward]].
 * A hole in the ceiling with a foothold can be seen and accessed above the centerpiece, revealing what appears to be a [[../reference#Visual Hinting|room above the ceiling]], but [[../reference#Reacharound|no way of accessing it from there]]. A [[../reference#Visual Hinting|single suspicious block]] can be easily missed just above the room's entrance, but the foothold above it is [[../reference#Teasers|too high to be reached]] at the moment.
 * After having acquired the hi-jump boots [[#Hi Jump Boots Room|somewhat locally]], the player can return and reach the foothold the block covers over and discover the tunnel leading to the mysterious room with the green door occupying the ceiling. If the player is not holding right while bombing the second block in the tunnel, they will fall through the [[hidden destructible block underneath]], dropping them nearby the yapping maw below and forcing them to retrace their steps. With all of the blockage having been cleared however, they have no reason to fail again and can simply [[../reference#Streamlining|breeze through]] and grab the spazer beam past the green door.
+* During the backtrack after stage 2 Norfair, the yapping maws are [[../reference#Streamlining|easily and satisfyingly dealt with]] using the newly-acquired ice beam as they are rendered harmless and simply be walked across.
 
 ==== Warehouse Entrance ====
 * Upon first entering, the player is highly inclined to take the elevator down to continue progression, but an attentive player may [[../reference#Visual Hinting|notice the map]] hinting at more that what meets the eye, as it shows an extension to the right of the room. The [[../reference#Symbolic Hinting|super missile blocks]] reveal themselves upon being bombed, and the player can access the extension after destroying one, revealing room with a [[../reference#Teasers|foothold barely too high to reach]] with the [[../reference#Landmarking|husk of a monster's face]] looming over the entryway.
@@ -205,21 +217,43 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 ==== Warehouse Energy Tank Room ====
 * The small room is infested with beetoms, and they will attack immediately upon entering as entrance locks until they are all dispatched. After doing so, the player may be inclined to explore the [[../reference#Visual Hinting|suspicious cracks in the plating]] around, but only one in the ceiling contains an energy tank upgrade.
 
+==== Hellway ====
+* Entering from the main entrance at the top of the [[#Red Tower|tower]], The player is met with a hallway filled with hazards like spikes lining the ceiling floor, samus eaters that catch the player at the bottom and deal gradual damage before letting go, and zebbos gradually being spawn from the ground to deal damage upon contact.
+
+==== Caterpillar Room ====
+* Immediately upon entering, the main entrance door behind the player [[../reference#One-way Valves|locks them in as a yellow door]]. Ascending up the room, a [[save station]] can be found as well as a [[#Beta Power Bomb Room|green door]] and an elevator heading upward. The save station is conveniently placed so that the player is inclined to save first before finding the dangerous room beyond the green door, and to ensure that the player eventually finds the [[#Alpha Power Bomb Room|power bomb room]] hidden nearby, as the room directly proceeding the elevator is also blocked by a [[../reference#Teasers|yellow door]].
+* By noticing the [[../reference#Visual Hinting|suspicious outlined blocks]] just outside the main entrance, the [[../reference#Visual Hinting|pipe outside the wall]] heading down, or just by sheer [[../reference#Conditioning|brute force]] due to being totally locked in, The player should inevitably discover the secret underground passage leading to the [[../reference#Alpha Power Bomb Room|power bomb room]].
+* Should the player waste all of their power bombs and not opening any yellow doors for some reason, they are insured by the zeros roaming the secret underground entrance, as unlike the cacatacs also within the room, they are [[../reference#Farming Mobs|certain to drop power bomb replenishments]] when dispatched.
+
+==== Beta Power Bomb Room ====
+* Immediately upon entry, large sidehoppers dealing big damage can be seen aggressively approaching, but with [[../reference#Yielding Procedure|quick evasive reactions]], the morph ball can slide right under them without being touched. While standard weapons fire will work, missiles do the job much more safely and efficiently. However, after dispatching the sidehoppers, nothing in the room appears to be of use besides the [[../reference#Visual Hinting|gunmetal bridge]]. Upon bombing it though, reveals that it is made up of [[../reference#Symbolic Hinting|power bomb blocks]], and unless the player has aquired it, they will be [[../reference#Teasers|forced to retreat]].
+* Upon having acuired the power bombs, the player can return and dispatch the sidehoppers to deal with the bridge by destroying it with the newly-acquired power bomb. The only thing under the bridge that seems slightly out of place is the [[../reference#Visual Hinting|single samus eater out of the three]] without a yapping-maw inside. With no other option and a leap of faith, the player can jump through and enter a hidden cubby containing a power bomb expansion.
+
+==== Alpha Power Bomb Room ====
+* A group of boyons hover above the spikes and samus eaters in the room, and ought to be frozen in place to walk over them and avoid taking damage. The power bombs lie in a chozo statues hands, and should the player feel [[../reference#Novelty Option|curious]] or zealous enough to [[../reference#Taste Testing|immediately use one]], the wall beyond the statue will break open to reveal a missile expansion.
+
+
+
+
 
 ----
 
 
 === NORFAIR ===
 * Stage 1 of Norfair is somewhat short-lived, but serves its purpose in both providing the player the hi-jump boots necessary to backtrack toward the [[#Warehouse Entrance|warehouse]] and [[#Below Spazer|other room]] seen before, and also establishing several new areas the player is [[../reference#Systematic Gatekeeping|gatekept from]] within a relatively short amount of time.
-* Norfair stage 2 begins after the player defeats Kraid and returns with the varia suit to explore the depths that were too hot before. In doing so, they will eventually find the
+* Norfair stage 2 begins after the player defeats Kraid and returns with the varia suit to explore the depths that were too hot before. In doing so, they will eventually find the... Fitting with the fiery theme is the [[../reference#Floor is Lava|lava that fills many of the floors]] within Norfair's hot sections.
 
 ==== Business Center ====
 * Upon riding the elevator down for the first time, the player gets their first impression of Norfair in tall shaft-structured room similarly seen before in [[#Green Brinstar Main Shaft|brinstar]]. Besides the [[../reference#Teaser|yellow door]] in the middle-left of the room, the player has the means to access all of the doors in the shaft.
 * The bottom of the shaft lined with a [[../reference#Visual Hinting|thin layer of blocks with an open space and an sova behind it]] can be opened up to reveal another door.
 
 ==== Ice Beam Gate Room ====
-* Coming from the green door seen in the business center, a walking player will be quickly stopped by a proximity shutter preventing further access into the hall. Although a running start would also work, an [[../reference#Visual Hinting|open space within a tunnel]] can be seen below the floor, and bombs will allow the player to bypass the gate from below, but a [[../reference#Teasers|second gate blocks any form of progression]], as it cannot be sped past or bombed under/over at this time, forcing the player to retreat.
-* A sova can also be seen crawling along the tunnel in the ceiling, most likely [[../reference#Visual Hinging|subtly implying]] that the tunnel below mentined before can also be crawled along.
+[[file:IceBeamGateRoom.png|{IMG}]]
+* Coming from the green door seen in the business center, a walking player will be quickly stopped by a proximity shutter preventing further access into the hall. Although a running start would also work, an [[../reference#Visual Hinting|open space within a tunnel]] can be seen below the floor, and bombs will allow the player to bypass the gate from below, but a second [[../reference#Teasers|faster gate blocks any form of progression]], as it cannot be sped past or bombed under/over at this time, forcing the player to retreat.
+* A sova can also be seen crawling along the tunnel in the ceiling, most likely [[../reference#Visual Hinging|subtly implying]] that the tunnel below mentioned before can also be crawled along.
+* After returning with the speed booster, the player has the speed necessary to be able to get a run under the far gate and explore. However, as the running start necessary to get under it is nowhere on the other side of the gate, the player is [[#One-way Valves|locked within]].
+* A cluster of [[../reference#Symbolic Hinting|power bomb blocks]] restricts access to a lower section of the room found past the second gate, but [[../reference#Teasers|nothing can be done with them]] the first time coming.
+* After acquiring the ice beam and completing the [[#Ice Beam Tutorial Room|tutorial room]], the player drops from the ceiling above until eventually falling into the ceiling where the tunnel above the gates can be bombed through and accessed, leading the player back to the main entrance thereby finishing stage 2 of Norfair.
 
 ==== Cathedral Entrance ====
 * Immediately entering during stage 1, the player is [[../reference#Deterrence|contemporarily blocked off]] in all immediate directions preventing them from committing to exploring the room as they are [[../reference#Tick Damage|gradually being cooked alive]] by the intense heat, forcing them back to [[../reference#Teasers|explore later]].
@@ -228,10 +262,11 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 ==== Frog Speedway ====
 [[file:FrogSpeedwaySmile.png|{IMG}]]
 * East-adjacent to the save room to the right of the shaft, frog speedway consists of a long, narrow hallway filled with blockage and crawling with beetoms. However, bombing the rubble will reveal a [[../reference#Symbolic Hinting|distinct speed booster block]], forcing the player to [[../reference#Teasers|retreat until acquired]].
+* Upon entering [[#Upper Norfair Farming Room|from the east side]], the familiar room is revisited, but unless the player has obtained the speed booster, the player will [[../reference#Teasers|again be blocked]] by the [[../reference#Symbolic Hinting|booster blocks]] and can only put together that the room serves as a [[../reference#Streamlining|shortcut back and forth]] through the [[#Business Center|business center]].
 
 ==== Hi Jump Energy Tank Room ====
 [[file:HiJumpEnergyTankRoom.png|{IMG}]]
-* From the bottom-west door from the shaft, the player is rewarded with an energy tank as the [[../reference#One-way Valves|door behind locks]], but a [[../reference#Visual Hinting|sova scurrying within a tunnel]] in the corner of the room can also be seen below the bridge the player stands upon. Inclined to follow it, two blocks can be disintegrated upon contact allowing the player access to the rest of the room. As the player descends, the player has [[no way of escaping once]] they've commited, as they cannot jump high enough to reach the foothold directly above to leave, forcing them into the adjacent door to obtain the next upgrade.
+* From the bottom-west door from the shaft, the player is rewarded with an energy tank as the [[../reference#One-way Valves|door behind locks]], but a [[../reference#Visual Hinting|sova scurrying within a tunnel]] in the corner of the room can also be seen below the bridge the player stands upon. Inclined to follow it, two blocks can be disintegrated upon contact allowing the player access to the rest of the room. As the player descends, the player has [[no way of escaping once]] they've committed, as they cannot jump high enough to reach the foothold directly above to leave, forcing them into the adjacent door to obtain the next upgrade.
 * After just acquiring the hi-jump boots, the player can reach the foothold to escape and grab a missile expansion on their way out of the room.
 
 ==== Hi Jump Boots Room ====
@@ -246,23 +281,91 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 %% Enemy can get itself positioned in a way where the player can accidentally shoot a block under the lava, uncovering a missile from within
 
 ==== Rising Tide ====
-* Upon entering, the ground will begin to shake, and the lava from below will begin to rise from the ground and subside after some time. The player must consecutively jump along several narrow pillars and platforms to avoid the scurrying sovas and also [[../reference#Floor is Lava|falling in the lava]]. Several squeepts leap straight up from the lava at randomly varying heights. They cannot practically be killed, so [[../reference#Yielding Procedure|they should be respected]]. As the player continues Dragons will eventually emerge from the lava and launch projectiles in an arc pattern that can be [[../reference#Yielding Procedure|avoided by crouching or morphing upon the pillars]]. The dragons cannot be killed easily with normal weapon fire, but three missiles will do the job.
+* Upon entering, the ground will begin to shake, and the [[../reference#Mechanical Hinting|lava from below will begin to rise from the ground]] and subside after some time. The player must consecutively jump along several narrow pillars and platforms to avoid/dispatch the scurrying sovas and also falling in the lava. Several squeepts leap straight up from the lava at randomly varying heights. They cannot practically be killed, so [[../reference#Yielding Procedure|they should be respected]]. As the player continues Dragons will eventually emerge from the lava and launch projectiles in an arc pattern that can be [[../reference#Yielding Procedure|avoided by crouching or morphing upon the pillars]]. The dragons cannot be killed easily with normal weapon fire, but three missiles will do the job.
 
 ==== Bubble Mountain ====
-* Bubble mountain is a large, tall room made up of several parts split horizontally into two halves- one full of green bubbles and the other full of metal pipes and blocks.
+[[file:BubbleMountain.png|{IMG}]]
+* Bubble mountain is a large, tall room made up of [[../reference#Micro-areas|several parts]] split horizontally into two halves- one full of green bubbles and the other full of metal pipes and blocks. As the name implies, the room is also distinct in that it's filled with [[../reference#Landmarking|bright green bubbles]].
 * The somewhat [[../reference#Visual Hinting|conspicuous metal pipe with a sova crawling under it]] just outside the main entrance can be bombed, but only to reveal the [[../reference#Symbolic Hinting|power bomb blocks]] it's made up of.
 * A save room can be found in the middle-west adjacent room, but two high footholds- one further right and one directly above- [[../reference#Teasers|cannot be reached]] even with hi-jump boots.
-* At the far-east end of the room, the player can bomb the [[../reference#Visual Hinting|small pieces of pipe]] that descend in a staggered pattern to an underground cubby containing a missile expansion. From there and even while bombing, [[../reference#Visual Hinting|sovas can be seen scurrying]] within the wall just outside of the cubby.
-* In the very center of the room sits a [[../reference#Visual Hinting|suspicious altar containing a thin layer of blocks]]. Bombing them allows access below, and into series of tunnels within the wall occupied by sovas. The sovas can be dispatched with well-placed boms as they approach from within the tunnel.
+* At the far-east end of the room, the player can bomb the [[../reference#Visual Hinting|small pieces of pipe]] that descend in a staggered pattern to an underground cubby containing a missile expansion. From there and even while bombing, [[../reference#Visual Hinting|sovas can be seen scurrying inside a tunnel]] within the wall just outside of the cubby.
+* In the very center of the room sits a [[../reference#Visual Hinting|suspicious altar containing a thin layer of blocks]]. Bombing them allows access below, and into series of tunnels within the wall occupied by sovas. The sovas occupying the tunnel can be dispatched with weapon fire or well-placed bombs as they approach. At the end of the tunnel, the player is confronted with two more rooms leading [[#Upper Norfair Farming Room|west]] and [[down]], as well as a foothold leading to the metal pipe below the main entrance, [[../reference#Visual Hinting|serving as implications]].
+* At the end of the Norfair circuit, the player is spit back out within the upper-east foothold of the room. From there, they can climb and find two paths. The left path contains square blocks lining the ceiling seen [[#Double Chamber|before]], but with nothing to use on them the player would be [[../reference#Deterrence|jumping into a pit]] leading them back to the bottom of the room where they will have to redo the roundabout again. Inclined not to do so, the player can enter the room directly accessible to the [[#Bat Cave|right]].
+%% Ice beam thing...
+
+==== Upper Norfair Farming Room ====
+[[file:UpperNorfairFarmingRoom.png|{IMG}]]
+* From the main entrance, the player can simply move [[#Frog Speedway|straight forward]] over the drop and across the room, or descend downward and shoot/bomb through the thin bridge to find a gamet spawner that spawns the [[../reference#|dispersing gamets]] useful for farming, [[../reference#Yielding Procedure|a fire-spitting fune]], as well as a shutter with the blue button on the other side. With [[../reference#Teasers|seemingly no way of opening it]], the player must retreat back.
+
+==== Purple Shaft ====
+[[file:Purple_Shaft.png|{IMG}]]
+* A very basic shaft with nothing in it besides two east exits [[#Purple Farming Room|high]] and [[#Magdolite Tunnel|low]], the player descends primarily to set up space for the beginning of the Norfair circuit.
+
+==== Purple Farming Room ====
+[[file:PurpleFarmingRoom.png|{IMG}]]
+* A single [[../reference#Generator|gamet spawner]] sits in the center of the small room and [[../reference#Farming Mobs|serves it's purpose]] as the room's name implies.
+
+==== Magdollite Tunnel ====
+[[file:MagdolliteTunnel.png|{IMG}]]
+* Magdollites and surface-bouncing multiviolas occupy the room of [[../reference#Floor is Lava|lava and platforming]]. The multiviolas can be dispatched with weapons fire, but magdollites will emerge from the lava when disturbed by proximity. Although their projectile attacks can be negated with weapons fire, they can also be [[../reference#Yielding Procedure|dodged with morph ball evasions]].
+
+==== Kronic Boost Room ====
+[[file:KronicBoostRoom.png|{IMG}]]
+* The intended path forward lies just across from the main exit, but if the player chooses to descend down the room, they will be met with a [[../reference#Teasers|yellow door]] that they can only access later.
+* An attentive player may notice the somewhat [[../reference#Visual Hinting|suspicious depression]] over the wall protrusion implies a secret tunnel may be there, and while it is indeed the case, the player is met with a [[../reference#Teasers|one-way shutter door]] that impedes any progression.
+
+==== Volcano Room ====
+[[file:VolcanoRoom.png|{IMG}]]
+* As the ground starts to shake, the room starts to [[../reference#Floor is Lava|slowly fill with lava]] again, but with [[../reference#Timed Escape Sequence|no sign of stopping]]. At the end of the hall lies a tunnel below a fune leading into a small chamber. In a panic, the player is inclined to shoot the [[../reference#Visual Hinting|thin block bridge]] directly above to escape the chamber and quickly climb up the staggered ascent of [[../reference#Yielding Procedure|fire-spitting funes]] to proceed to the exit at the top.
+
+==== Spiky Platforms Tunnel ====
+[[file:SpikyPlatformsTunnel.png|{IMG}]]
+* A [[../reference#Floor is Lava|pit full of lava]] and spiky pillars can be seen upon entering, as well as a tripper flying across back and forth with a [[../reference#Visual Hinting|distinctly flat head]]. Inclined to jump upon and ride the tripper as a moving platform, the player must [[../reference#Yielding Procedure|duck and morph under the spikes]] to avoid damage and reach the center of the trial to perform a platforming exercise across [[../reference#Yielding Procedure|narrow pillars and spikes]] while [[../reference#Yielding Procedure|timing a broken shutter door]] that acts as a barrier that opens and closes at set intervals. Afterwards, another tripper offers a ride to the end of the room, but while repeating the same procedure as before the player must hop off at the end, as the tripper descends slowly nearing the lava.
+
+==== Single Chamber ====
+[[file:BubbleShaft.png|{IMG}]]
+* The staggered ascent of the room is filled with alcoons and multiviolas, but two doors on the [[right]] can be accessed before leaving through the door [[#Bubble Mountain|above]] towards progression.
+
+==== Double Chamber ====
+[[file:DoubleChamber.png|{IMG}]]
+* As the name implies, the large open room consists of [[../reference#Micro-Areas|two distinct split sectors]]. The first part contains the main entrances containing a platforming section and a shutter gate to open. Proceeding that is a large spike pit with a door atop a foothold on the other side, and a [[gutter]] at the very bottom of the room.
+* Entering from the bottom entrance leads the player to the gutter, where [[../reference#Teasers|platforms above can be seen]], but are too high to reach. A tunnel splitting the bottom from the other half of the room reveals a hallway below the spike pit and a staggered ascent up just enough tiny platforms to where the player can [[../reference#Teasers|see the door above]], but is inaccessible from the bottom. The only way to reach it is to start by heading [[#Single Chamber|back]] and entering from the door above.
+* From the high entrance, the player can begin the trial by successfully platforming upon the glowing [[../reference#Mechanical Hinting|proximity platforms]] that rise and fall when approached. The player will fall back into the gutter if they fail the platforming or get knocked off by the [[../reference#Yielding Procedure|fireballs spit by the funes]] on either side. The shutter door at the end must be opened to allow access to the missile expansion as well as the second part of the trial.
+* The second trial contains the spike pit section. The door on the other side cannot be reached by merely jumping. The ceiling blocks on the wall are [[../reference#Visual Hinting|distinct enough to appear significant]], but [[../reference#Teasers|nothing the player currently has can make use of them]]. Attempts to jump across will fall short, sending them into the spike pit where- in a panic- the player will eventually fall through the spikes above the thin layer of blocks sending them back into the gutter. A [[../reference#Generator|kago]] within the gutter serves as a good means to [[../reference#Farming Mobs|replenish from the ordeal]].
+
+==== Bat Cave ====
+[[file:BatCave.png|{IMG}]]
+* Upon first entering, skrees can be seen occupying the ceiling in an otherwise [[../reference#Visual Hinting|suspiciously desolate room]]. Inclined to shoot them, the player is likely to shoot open a hole in the ceiling leading upward to a [[../reference#Replenishment Mobs|gamet]] [[../reference#Generator|spawner]] and the next room.
+
+==== Speed Booster Hall ====
+[[file:SpeedBoosterHall.png|{IMG}]]
+* A long hallway filled with enemies and [[../reference#Callback|collapsing bridges seen before]] occupies the room. The first bridge merely [[../reference#Mechanical Hinting|shows how they collapse]] as the individual blocks disintegrate upon standing on them, and so the player is then inclined to prevent having to jump across the fragile blocks again and simply run past the bridges.
+* Immediately after coming back after acquiring the speed booster, the ground continues to shake and rise the lava, forcing the player to [[../reference#Basic Mechanical Tutorial|run back with the newly acquired speed booster]]. The spikes lining the top of the room closest to the main exit [[../reference#Deterrence|deter the player from jumping]] which would cause them to lose momentum from the speed booster and likely die from the lava as a result.
+
+==== Speed Booster Room ====
+[[file:SpeedBoosterRoom.png|{IMG}]]
+* Immediately after acquiring the speed booster upgrade, the [[../reference#Mechanical Hinting|ground begins shaking]] and [[../reference#Visual Hinting|lava begins rising]] from the ground, forcing the player to leave.
+
+==== Ice Beam Acid Room ====
+[[file:IceBeamAcidRoom.png|{IMG}]]
+* Three small [[../reference#Floor is Lava|pits of lava]] hovered over by trippers occupy the room. However, standing on the trippers for too long [[../reference#Yielding Procedure|causes them to sink]] closer to the lava, and can cause damage.
+
+==== Ice Beam Snake Room ====
+[[file:IceBeamSnakeRoom.png|{IMG}]]
+* Upon entering, the player is inclined to work their way up the staggered ascent of the main path, respecting the [[../reference#Yielding Procedure|funes and their projectiles]] along the way, but a [[../reference#Visual Hinting|pack of sovas can be seen]] crawling out of a tall, narrow crawlspace on the east side of the room.
+* At the top of the room just below the door, a [[../reference#Visual Hinting|depression in the ground]] can be seen with an [[../reference#Visual Hinting|open space below]], Shooting/bombing it will break it open to allow access to the crawlspace, leading to the room holding the ice beam.
+* Immediately after obtaining the ice beam, the sovas can be [[../reference#Mechanical Tutorial|shot and frozen in place]], even making them effective platforms. On the way back up the snake, the [[../reference#Mechanical Tutorial|funes can also be frozen]] in place, rendering them [[../reference#Incapacitation|temporarily harmless]] and [[../reference#Streamlining|streamlining the ascent]].
+
+==== Ice Beam Tutorial Room ====
+* Upon entering, a [[../reference#Visual Hinting|ball tunnel can be seen]] at the far end of the room behind a large pit of lava filled with boyons that leap when agitated by proximity. With no clear direction on what to do here, the player is inclined to leave and come back once having acquired the ice beam.
+* After returning with the ice beam and immediately getting to see how it works, the player must begin their escape past the [[#Ice Beam Gate Room|gate room]] here by [[../reference#Mechanical Tutorial|freezing the boyons consecutively]] to reach the ball tunnel, and also [[../reference#Mechanical Tutorial|freezing the ripper]] to safely cross the second pit of lava before exiting.
 
 
 
 
+==== Crumble Shaft ====
 ==== Green Bubbles Missile Room ====
 ==== Norfair Reserve Tank Room ====
-==== Bat Cave ====
-==== Speed Booster Hall ====
-==== Speed Booster Room ====
 ==== Single Chamber ====
 ==== Double Chamber ====
 ==== Wave Beam Room ====
@@ -287,11 +390,6 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 ==== Grapple Tutorial Room 1 ====
 ==== Grapple Tutorial Room 2 ====
 ==== Grapple Tutorial Room 3 ====
-==== Ice Beam Acid Room ====
-==== Ice Beam Snake Room ====
-==== Ice Beam Room ====
-==== Ice Beam Tutorial Room ====
-==== Crumble Shaft ====
 
 
 ----
@@ -406,5 +504,17 @@ Upon entering, the player encounters an armor plated geemer only [[../reference#
 
 == THOUGHTS ==
 %% Coincidental double reacharound thing in Red Brinstar...
-%% Slightly misleading sova in Norfair gate room...
-%% Questionable ceiling expansion at the tail-end of Norfair stage 1...
+
+
+=== Design Flaws ===
+%% Dots don't disappear from the map once the item has been acquired...
+
+%% Slightly misleading sova in ice beam gate room...
+
+%% Questionable ceiling expansion within the bat cave during Norfair stage 1...
+
+%% I think a map room tucked away would've been a good idea for Norfair stage 1...
+
+%% While the ice beam gate room can be exited with a well-placed bomb on ceiling blocks, I personally don't think they should've been given the option to leave at all...
+
+%% Ice beam tutorial room can technically be brute-forced by an over-confident player...
