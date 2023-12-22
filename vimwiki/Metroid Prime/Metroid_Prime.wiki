@@ -49,6 +49,15 @@
 
 == AREAS ==
 
+[[#PIRATE FRIGATE|Pirate Frigate]]
+[[#TALLON OVERWORLD|Tallon Overworld]]
+[[#CHOZO RUINS|Chozo Ruins]]
+[[#MAGMOOR CAVERNS|Magmoor Caverns]]
+[[#PHENDRANA DRIFTS|Phendrana Drifts]]
+[[#PHAZON MINES|Phazon Mines]]
+[[#IMPACT CRATER|Impact Crater]]
+
+
 === PIRATE FRIGATE ===
 [[file:metroidprime_map_frigate.jpg|{IMG}]]
 * The pirate frigate serves as a temporary tutorial area to get the player accustomed to the game's controls and mechanics in the very beginning of the game. This area is also reused later in a completely different way from the tutorial section. The game provides [[expositional hints]] by telling them how to activate and use certain mechanics and weapons such as scan visor, morph ball, missiles, charge beam etc., and features a basic boss fight and [[timed escape sequence]] at the end before revoking several of the player's abilities that they had learned to use.
@@ -94,6 +103,8 @@
 
 ==== Connection Elevator to Deck Alpha ====
 * Upon scanning a panel to deactivate a defense turret, and avoiding another [[../reference#Yield to Proceed|electrical hazard]], a cutscene plays after activating the elevator that removes most of your suit augmentations and abilities. Upon exiting back through the air lock and into the docking hangar completes this area.
+
+----
 
 === TALLON OVERWORLD ===
 [[file:metroidprime_map_tallon.jpg|{IMG}]]
@@ -162,6 +173,8 @@
 * Upon grabbing the x-ray visor, the player is essentially [[../reference#One-way Valve|trapped within]] and surrounded by [[../reference#Expositional Hinting|bendezium walls]]. Ambient creatures can enter the walled structure to [[../reference#Replenishment Mobs|drop power bombs]] if the player is dry. Once destroyed, the claustrophobic room [[../reference#Environmental Transformation|opens up]] into a massive one.
 * A [[../reference#Visual Hinting|drain cover]] can be found at the bed of the pond near the waterfall. Upon bombing it, a spinner device will arise from it. Upon activating the spinner, the [[../reference#Grand Fetch Quest|Artifact of Chozo]] will be revealed within a stone structure arisen from the ground.
 * A series of platforming and morph ball exercises will lead the player halfway toward the exit before Chozo ghosts appear. With the [[../reference#Mechanical Hinting|newly-found x-ray visor]], the player can easily track the ghosts to quickly dispatch them and proceed to the exit.
+
+----
 
 === CHOZO RUINS ===
 [[file:metroidprime_map_chozo.jpg|{IMG}]]
@@ -301,6 +314,8 @@
 
 ==== Training Chamber ====
 
+----
+
 === MAGMOOR CAVERNS ===
 [[file:metroidprime_map_magmoor.jpg|{IMG}]]
 * Magmoor caverns gets effectively unlocked once the Varia suit has been acquired, as it is a high-heat zone. Thus, there is lots of [[../reference#Floor is Lava|dangerous lava]] all around. By this point, the player should have enough platforming experience avoiding acid in Chozo Ruins to be able to respect the lava.
@@ -379,6 +394,8 @@
 * Massive pools of lava fill this room, and [[../reference#Teaserss|if they had the grapple beam]] they could easily swing across, but overhead stalactites can be [[../reference#Shoot and Climb to Proceed|shot and jumped]] on to progress.
 * [[../reference#Yield to Proceed|Wall-equipped flamethrowers]] must be respected and rolled under with morph ball.
 
+----
+
 === PHENDRANA DRIFTS ===
 [[file:metroidprime_map_phendrana.jpg|{IMG}]]
 * Phendrana Drifts is the second [[../reference#Macro-area|macro-area]] where the player spends an extended time on. However, the first stage is short-lived, as the player will have to [[backtrack]] to [[#Tallon Canyon|Tallon Overworld]] once they've acquired the boost ball.
@@ -390,8 +407,8 @@
 * Several clusters of frozen ice debris impede initial entry, but are quickly and permanently cleaned up with either charge beam or missiles.
 
 ==== Phendrana Shorelines ====
-* Not unlike Chozo Ruins and Tallon, this [[../reference#Plaza|introductory area opens up quickly]] to a wide open space with several doors and secrets, as well as a lovely pool of water that you can jump into.
-* To progress further, the player must locate a [[../reference#Visual Hinting|suspicious metal structure]] within a building to destroy and bypass and [[../reference#Activate to Proceed|scan a panel]] to unlock the door directly above the ceiling. From there, the player must perform a platforming exercise to reach the top of the building to proceed.
+* Not unlike Chozo Ruins and Tallon, this [[../reference#Plaza|introductory area opens up quickly]] to a wide open space with several doors and secrets, as well as a lovely pool of water to the side that you can jump into.
+* To progress further, the player must locate a [[../reference#Visual Hinting|suspicious metal structure]] within a building to destroy, bypass, and [[../reference#Activate to Proceed|scan a panel]] to unlock the door directly above the ceiling. From there, the player must perform a platforming exercise to reach the top of the building to proceed.
 * While the keys to unlock the door to progression are blocked behind a metal structure, The save room is straight ahead from the entrance in a wide cave under the platforming section, [[incentivizing the player somewhat]] to notice the save room first.
 * While exploring or platforming especially, the player should [[../reference#Visual Hinting|notice floating platforms]] leading to a distant door atop a tall structure. Attempting to mount these hovering platforms [[../reference#Teasers|proves futile]] at this time, however.
 * A missile upgrade [[../reference#Teasers|sits out of reach]] within frozen ice behind a pillar, as it is [[../reference#Expositional Hinting|explained]] that extreme heat is required to melt the ice. Once the player obtains the plasma beam, they can do so.
@@ -496,6 +513,8 @@
 
 ==== Phendrana's Edge ====
 * After having acquired the grapple beam, the player can reach the top of this room which holds a morph ball tunnel containing a power bomb expansion and some [[../reference#Easter Eggs|hidden lore]]. However, a door nearby undetected by the 3D map can only be [[../reference#Transparency|seen through a destructible wall]] with the x-ray visor. From within, lies the [[../reference#Grand Fetch Quest|Artifact of Spirit]].
+
+----
 
 === PHAZON MINES ===
 [[file:metroidprime_map_mines.jpg|{IMG}]]
