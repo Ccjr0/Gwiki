@@ -723,6 +723,8 @@
 
 * The problem with streamlining too much with certain teasers is that they can too easily give the player a false idea or sense of direction on where to go next by overwhelming them with too many options, especially by the late game where the player has opened up a massive part of the world
 
+%% While macro-areas in Super Metroid could be inter-connected, the ones in Prime are all containerized...
+
 === The Hint System and the Metroidvania Problem ===
 %% The metroidvania problem ... (Process of elimination, how often people blatantly miss things/make mistakes over an extended time ... and is most likely why the hint system was implemented in the first place)
 

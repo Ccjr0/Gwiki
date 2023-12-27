@@ -25,4 +25,5 @@
 
 == Info ==
 [[reference|Reference]]
+[[note|Note]]
 
