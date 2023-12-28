@@ -2,4 +2,8 @@
 
 * Metroid and Resident Evil share similarities in their level design in that both have labyrinthine qualities with puzzles and backtracking. However, the backtracking methods, mechanics, and moment-to-moment gameplay share completely different forms and interplay with the level design. Whereas metroid is distinctive for its platforming, traversal, and unlockable abilities/shortcuts that streamline that whole general process, resident evil uses item scarcity, opportunity cost, backtrack filler and survival horror to fill in the gaps and keep the game engaging, despite the level design itself not being quite as sophisticated by direct comparison.
 
-* The thing that's so typical of metroid games (or the ones I've played) is that the abilities/powerups acuired throughout the game significantly boost mobility and firepower, and because the level design is meant to encourage/allow for experimentation,
+* The thing that's so typical of Metroid games (or the ones I've played) is that the abilities/powerups acuired throughout the game significantly boost mobility and firepower, and because the level design is meant to encourage/allow for experimentation,
+
+* Metroid games typically use save stations, ammo stations, and enemy drops to refill HP/ammo throughout the game. Resident Evil uses a predetermined, finite supply of herbs/ammo boxes. MGS typically does the same thing, but enemies can also drop ammo/rations. Project Zomboid uses context-sensitive loot tables depending on the container type and the location of the containers.
+
+* How should we selectively decide which gameplay mechanics/sub-mechanics can be used that will best compliment our sort of game based on all of this?
