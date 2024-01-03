@@ -122,7 +122,7 @@
 * Stage 1 involves getting the morph ball and missile launcher after coming down from the Craterian elevator proceeding the [[#Pit Room|pit room]].
 * Stage 2 begins upon taking the elevator room proceeding the lower mushrooms and spits the player out into the grassy [[#Green Brinstar Main Shaft|green brinstar]]. This stage of the game contains harder foes in higher numbers, so the missile expansions and E-tanks collected in Crateria will come into fruition here. After defeating the first boss in green Brinstar, the stage continues as the player descends further down into red Brinstar, and should eventually end up at the elevator room to begin the [[#NORFAIR|Norfair]] adventure.
 * Stage 3 begins after acquiring the hi-jump boots and returning to the elevator with the scary face to explore the warehouse and defeat Kraid, obtaining the varia suit in the process.
-* Stage 4 is relatively short, but marks a crucial point in the game where the player returns with the ice beam to finally climb back up the red tower and retrieve the power bombs having been locked within the [[#Caterpillar Room|caterpillar room]]. Afterwards, the player is also inclined to unlock the shortcut leading back to Crateria, thereby completing the first lap of the macro-circuit.
+* Stage 4 is relatively short, but marks a crucial point in the game where the player returns with the ice beam to finally climb back up the red tower and retrieve the power bombs having been locked within the [[#Caterpillar Room|caterpillar room]]. Afterwards, the player is also inclined to unlock the shortcut leading back to Crateria, thereby completing the first lap of the macro-circuit. From there, the player is inclined to re-explore the sub-stages in Crateria and especially Brinstar before eventually winding up back at [[#NORFAIR|Norfair]] to begin its third stage.
 
 ==== Morph Ball Room ====
 * Arriving from the descending elevator, the player is again met with an east/west decision on how they will proceed.
@@ -176,7 +176,7 @@
 * Upon entering, the player is immediately granted the option to pick up/down to explore the layered micro-areas of the room. The room is crawling with several fast and strong enemies, so having missiles on deck would prove useful here, and smooth morph ball maneuvers can be used to avoid getting hit. The area is also full of [[../reference#Generators|basic enemy generators]] to help [[../reference#Farming Mobs|slowly replenish]] health/ammo.
 * Heading down from the main entrance, the player is first greeted with a [[../reference#Teasers|foothold they cannot jump high enough to reach]] with a missile expansion barely within view sitting atop of it. A two sidehoppers and a trap-door await those at the bottom of the foothold, sending them further down into a pit of two aggressive reos. The only thing notable about how the foothold might be reached is a series of [[../reference#Visual Hinting|distinct blocks lining the ceiling]], but [[../reference#Teasers|nothing can be made of them]] at the time.
 * On the way out of the trap-door pit, the [[../reference#Teasers|first yellow door]] can be seen on the east side, but the player can merely take notice of it.
-* At the bottom of the room, lies a missile expansion as well as a tunnel within a column. The [[../reference#Visual Hinting|cornerstone of the column]] looks highly suspicious, and bombing it will bring the player down into a cove containing a chozo statue holding the charge beam. With it, stronger enemies can be taken care of more efficiently without the cost of missiles. Past the tunnel within the column [[../reference#Teasers|lies a green door]], forcing the player to climb back up the room. Meticulous/conditioned players may opt to [[../reference#Novelty Option|bomb the cornerstone of the statue]] to [[../reference#Teasers|reveal an impassable block]] seen in the floor of the [[#Green Brinstar Main Shaft|main shaft]].
+* At the bottom of the room, lies a missile expansion as well as a tunnel within a column. The [[../reference#Visual Hinting|cornerstone of the column]] looks highly suspicious, and bombing it will bring the player down into a cove containing a chozo statue holding the charge beam. With it, stronger enemies can be taken care of more efficiently without the cost of missiles. Past the tunnel within the column [[../reference#Teasers|lies a green door]], forcing the player to climb back up the room. Meticulous/conditioned players may opt to [[../reference#Novelty Option|bomb the cornerstone of the statue]] to [[../reference#Symbolic Hinting|reveal an indestructible power bomb block]] seen in the floor of the [[#Green Brinstar Main Shaft|main shaft]].
 * Towards the top of the room, a [[../reference#Visual Hinting|protrusion in the wall]] with what looks to be a blocked tunnel suggests that it can be explored, and upon doing so will reveal a save room. Along the right side of the top will reveal the door to [[progression]].
 * After unlocking and accessing the [[#Spore Spawn Farming Room|first green door]] with the newly-acquired super missiles, the player enters a cave with a blocked-off tunnel. Bombing the rubble will reveal a super missile block. Shooting it will [[../reference#Circuit|loop the player back]] just above where the column was containing the other green door to progression was.
 * Upon returning after having recently learned the walljump, the foothold from before still cannot be reached easily merely with hi-jump boots. The side wall of the foothold however is [[../reference#Callback|aligned appropriately to suit a walljump maneuver]].
@@ -192,8 +192,10 @@
 
 ==== Green Hill Zone ====
 * This room features a stair-step like pattern with several "floors" going downward. Several pipes spawning geegas also occupy the room. Upon entering through the main entrance, a foothold can be seen, but is [[../reference#|too high to reach]] merely by jumping.
+* While descending, the player can notice a [[../reference#Visual Hinting|suspicious pipe that goes beyond the wall]] within one of the staggered sections, but it is [[../reference#Teasers|too high to reach]] at this point in time.
 * At the end of the room lies a [[../reference#Visual Hinting|blue shutter door]], opening and closing when shot with any regular weapons fire- but only from the side the button is facing. Though not obvious to the player, they are actually being [[../reference#One-way Valves|locked from backtracking at all]] should they feel like it, by the shutter.
 * After returning with the power bomb and hi-jump boots, the high foothold across from the main entrance can be mounted, and the yellow door occupying it can be accessed if they hadn't already come out from the [[#Morph Ball Room|other side]] by now.
+* Also with the hi-jump boots acquired, the player can reach the suspicious pipe seen going through the wall from before, as it will catch a jumping player allowing them to morph and receive the missile expansion on the other side.
 
 ==== Noob Bridge ====
 * A long horizontal stretch of platform occupies the room, splitting it into two halves on the top and bottom. Taking the bottom route leads to a complete dead end, as nothing the player can do can bypass the pillar connecting the platform with the floor, so the only way to cross is the top half. The floor on the top half will disintegrate upon being stepped on, forcing a walking player to fall through and start over.
@@ -232,6 +234,7 @@
 ==== Warehouse Kihunter Room ====
 * After deling with a swarm of kihunters patrolling the room, a [[../reference#Visual Hinting|depression in the floor]] can be seen at the far east end, and bombing it will unlock a tunnel leading to the nearby save room.
 * Although the map shows an [[../reference#Visual Hinting|extention below the room]], the solution once again isn't as straightforward as following the map. Bombing or shooting the [[../reference#Visual hinting|suspicious crack in the floor plating]] in the center of the room will reveal another secret tunnel leading to the path forward.
+Should the player decide to backtrack to this substage of brinstar with the power bombs, they can opt to [[../reference#Novelty Option|blow open a tunnel in the ceiling]] leading to a missile expansion. This can be seen subtly with the [[../reference#Visual Hinting|outline in the wall]] just above the pipe, but the x-ray visor can also be used.
 
 ==== Baby Kraid Room ====
 * Several green space pirates as well as a baby kraid patrol the long hallway, and must be defeated to unlock the doors and proceed. The space pirates are straightforward (especially with the spazer beam) but the baby kraid will send a barrage of [[../reference#Yielding Procedure|projectiles of varying heights]] to avoid well before it's in view. The spikes hanging from the ceiling will also punish players for [[../reference#Yielding Procedure|jumping too high]] over the baby kraid's projectiles
@@ -242,6 +245,7 @@
 
 ==== Warehouse Energy Tank Room ====
 * The small room is infested with beetoms, and they will attack immediately upon entering as entrance locks until they are all dispatched. After doing so, the player may be inclined to explore the [[../reference#Visual Hinting|suspicious cracks in the plating]] around, but only one in the ceiling contains an energy tank upgrade.
+* Should the player return during a backtracking substage, the beetoms can all be quickly dispatched with a power bomb to reveal the energy tank hidden behind the block in the ceiling, if they had missed it before.
 
 ==== Hellway ====
 * Entering from the main entrance at the top of the [[#Red Tower|tower]], The player is met with a hallway filled with hazards like spikes lining the ceiling floor, samus eaters that catch the player at the bottom and deal gradual damage before letting go, and zebbos gradually being spawn from the ground to deal damage upon contact.
@@ -272,15 +276,30 @@
 * Three etecoons [[../reference#Easter Eggs|sing the fanfare jingle]] together immediately upon entering, making their presence known. The room consists of a tall shaft with small ledges that can't be mounted even with the hi-jump boots. The etecoons [[../reference#Mechanical Hinting|work their way up the sides of the wall in a way that looks vaguely applicable]] to the player. With absolutely no other way to escape, the player can copy their movements to learn how to perform the walljump. An somewhat advanced technique, the player [[../reference#Skill Check|needs only to perform a single one]] to successfully reach the first foothold leading to the escape tunnel back to the bottom half of the [[#Green Brinstar Main Shaft|main shaft]] to either attempt to grab the [[#Etecoon Energy Tank Room|energy tank]] again, or retreat and head back up.
 * Should the player keep trying to walljump [[../reference#Road Less Traveled|further up the shaft]], a secondary foothold to the side after the first one can be used as another checkpoint should they make a mistake. The final stretch requires [[several consecutive walljumps]] to reach the top of the shaft where the player can [[#Green Brinstar Main Shaft|leave through the locked door]] seen in the shaft, but also find a [[../reference#Teaser|tunnel within the wall]] opposite to the goal as an [[../reference#Visual Hinting|etecoon points out as well]] by leaping into it. Should the player risk falling back down, a swift and successful midair morph into the tunnel following the etecoon will reveal a chamber with a power bomb expansion inside. Coming back out of the chamber however, will still set them back at the second checkpoint.
 
+==== Waterway Energy Tank Room ====
+[[file:WaterwayEnergyTankRoom.png|{IMG}]]
+* Should the player return with power bombs to uncover the door below the chozo statue in [[#Big Pink|big pink]], they will be brought to this room. Unless they've already acquired the gravity suit, the water filling the bottom of the room prevents the player from gaining enough speed to destroy the boost blocks lining the bottom of the tunnel, as well as hindering their ability to reach the foothold above the tunnel.
+* Should it be necessary, the zeros within the room can be farmed for the power bomb needed to destroy the block beneath the statue, as it's the only exit.
+%% A skilled player can perform a walljump to reach the foothold that's just long enough to charge a shinespark from the other side, which can be used horizontally to bypass the blocks and uncover the energy tank early.
+
+==== Red Brinstar Fireflea Room ====
+[[file:RedBrinstarFirefleaRoom.png|{IMG}]]
+* Firefleas keep the room alit as [[#Green Brinstar Fireflea Room|seen before]], but without the grapple beam, there's no way to make use of the strange blocks lining the ceiling to make it to the door at the other end, forcing the player to retreat. The [[../reference#Farming Mobs|firefleas]] in question do also drop the [[../reference#Insurance|power bombs required]] to leave the room past the [[#Red Tower|tower]].
+
+
+
+
 ----
 
 === NORFAIR ===
 * Stage 1 of Norfair is somewhat short-lived, but serves its purpose in both providing the player the hi-jump boots necessary to backtrack toward the [[#Warehouse Entrance|warehouse]] and [[#Below Spazer|other room]] seen before, and also establishing several new areas the player is [[../reference#Systematic Gatekeeping|gatekept from]] within a relatively short amount of time.
 * Norfair stage 2 begins after the player defeats Kraid and returns with the varia suit to explore the depths that were too hot before. In doing so, they will eventually find the... Fitting with the fiery theme is the [[../reference#Floor is Lava|lava that fills many of the floors]] within Norfair's hot sections.
+* Stage 3 initiates once the player returns with the power bombs. The map room reveals what appears to be [[../reference#Reacharound|four different entry points]] into the next level of Norfair: One in the [[#Crocomire Escape|crocomire escape]], [[#Ice Beam Gate Room|ice beam gate room]], [[#Upper Norfair Farming Room|upper norfair farming room]], and [[#Kronic Boost Room|kronic boost room]]. [[../reference#Diffusion|Through process of elimination]], the player should eventually find the only way forward being through the ice beam gate room. From there, the player will eventually find and fight Crocmire and obtain the grapple beam and potentially the wave beam.
 
 ==== Business Center ====
 * Upon riding the elevator down for the first time, the player gets their first impression of Norfair in tall shaft-structured room similarly seen before in [[#Green Brinstar Main Shaft|brinstar]]. Besides the [[../reference#Teaser|yellow door]] in the middle-left of the room, the player has the means to access all of the doors in the shaft.
 * The bottom of the shaft lined with a [[../reference#Visual Hinting|thin layer of blocks with an open space and an sova behind it]] can be opened up to reveal another door.
+* With the newly-acquired power bombs, the player can access the yellow door seen in the shaft, unlocking the map station which reveals a massive portion of unexplored Norfair below.
 
 ==== Ice Beam Gate Room ====
 [[file:IceBeamGateRoom.png|{IMG}]]
@@ -289,6 +308,7 @@
 * After returning with the speed booster, the player has the speed necessary to be able to get a run under the far gate and explore. However, as the running start necessary to get under it is nowhere on the other side of the gate, the player is [[#One-way Valves|locked within]].
 * A cluster of [[../reference#Symbolic Hinting|power bomb blocks]] restricts access to a lower section of the room found past the second gate, but [[../reference#Teasers|nothing can be done with them]] the first time coming.
 * After acquiring the ice beam and completing the [[#Ice Beam Tutorial Room|tutorial room]], the player drops from the ceiling above until eventually falling into the ceiling where the tunnel above the gates can be bombed through and accessed, leading the player back to the main entrance thereby finishing stage 2 of Norfair.
+* Upon returning with the power bombs, the player can blast open the floor on the far side of the room to [[#Crumble Shaft|continue]] stage 3 of Norfair.
 
 ==== Cathedral Entrance ====
 * Immediately entering during stage 1, the player is [[../reference#Deterrence|contemporarily blocked off]] in all immediate directions preventing them from committing to exploring the room as they are [[../reference#Tick Damage|gradually being cooked alive]] by the intense heat, forcing them back to [[../reference#Teasers|explore later]].
@@ -347,7 +367,7 @@
 ==== Kronic Boost Room ====
 [[file:KronicBoostRoom.png|{IMG}]]
 * The intended path forward lies just across from the main exit, but if the player chooses to descend down the room, they will be met with a [[../reference#Teasers|yellow door]] that they can only access later.
-* An attentive player may notice the somewhat [[../reference#Visual Hinting|suspicious depression]] over the wall protrusion implies a secret tunnel may be there, and while it is indeed the case, the player is met with a [[../reference#Teasers|one-way shutter door]] that impedes any progression.
+* An attentive player may notice the somewhat [[../reference#Visual Hinting|suspicious depression]] over the wall protrusion implies a secret tunnel may be there, and while it is indeed the case, the player is met with a [[../reference#Teasers|one-way shutter door]] that impedes any progression from that end unless the player has acquired the wave beam.
 
 ==== Volcano Room ====
 [[file:VolcanoRoom.png|{IMG}]]
@@ -395,10 +415,22 @@
 * Upon entering, a [[../reference#Visual Hinting|ball tunnel can be seen]] at the far end of the room behind a large pit of lava filled with boyons that leap when agitated by proximity. With no clear direction on what to do here, the player is inclined to leave and come back once having acquired the ice beam.
 * After returning with the ice beam and immediately getting to see how it works, the player must begin their escape past the [[#Ice Beam Gate Room|gate room]] here by [[../reference#Mechanical Tutorial|freezing the boyons consecutively]] to reach the ball tunnel, and also [[../reference#Mechanical Tutorial|freezing the ripper]] to safely cross the second pit of lava before exiting.
 
-
-
-
 ==== Crumble Shaft ====
+[[file:CrumbleShaft.png|{IMG}]]
+* Immediately upon entering, the floor below the entrance will disintegrate as well as all of the proceeding platforms staggered down the shaft, effectively [[../reference#One-way Valves|locking the player within]], forcing them through the [[#Crocomire Speedway|door]] at the bottom.
+
+==== Crocomire Speedway ====
+[[file:CrocomireSpeedwaySmile.png|{IMG}]]
+* With a large open space for running upon entry, the player is inclined to use the speed booster to blast through the enemies and walls occupying the hallway to eventually end up breaking through a wall and into a shaft containing several doors including a save room, an east path, and a blue north/green south path.
+* Since the walls leading to the shaft are boost blocks, and there is no way to build up enough speed to destroy them from the shaft side, so the player is essentially locked in after using the speedway section as a one-way channel to the shaft.
+
+
+
+
+
+
+
+
 ==== Green Bubbles Missile Room ====
 ==== Norfair Reserve Tank Room ====
 ==== Single Chamber ====
@@ -414,7 +446,6 @@
 ==== Spiky Platforms Tunnel ====
 ==== Red Pirate Shaft ====
 ==== Acid Snakes Tunnel ====
-==== Crocomire Speedway ====
 ==== Crocomire's Room ====
 ==== Post Crocomire Farming Room ====
 ==== Post Crocomire Power Bomb Room ====
@@ -543,6 +574,8 @@
 
 === Design Flaws ===
 %% Dots don't disappear from the map once the item has been acquired...
+
+%% I do think they could've fit a "Y to cancel" somewhere in the weapon selection tutorial window...
 
 %% Slightly misleading sova in ice beam gate room...
 

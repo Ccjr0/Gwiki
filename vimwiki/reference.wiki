@@ -84,7 +84,7 @@
 
 === Powerup Flow ===
 
-=== Osmosis ===
+=== Diffusion ===
 * Loosely describes a distinct gameplay scenario where the player is inclined to 'sift around' until they eventually find where to go naturally by process of elimination.
 
 === Non-linear Item Quest ===
